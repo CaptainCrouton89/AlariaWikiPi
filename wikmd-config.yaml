@@ -1,7 +1,7 @@
 # wikmd configuration file
 
 wikmd_host: "0.0.0.0"
-wikmd_port: 5501
+wikmd_port: 5500
 wikmd_logging: 1
 wikmd_logging_file: "wikmd.log"
 
@@ -12,7 +12,7 @@ main_branch_name: "main"
 sync_with_remote: 1
 remote_url: "git@github.com:CaptainCrouton89/AlariaWiki.git"
 
-wiki_directory: "wiki"
+wiki_directory: "AlariaWiki"
 images_route: "img"
 homepage: "homepage.md"
 homepage_title: "homepage"
