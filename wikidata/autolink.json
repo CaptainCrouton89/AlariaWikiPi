@@ -1,0 +1,127 @@
+{
+    "Dwarves": [
+        "dwarf",
+        "dwarves",
+        "dwarven"
+    ],
+    "Elves": [
+        "elf",
+        "elves",
+        "elven"
+    ],
+    "Humans": [
+        "human",
+        "humans",
+        "humanoid"
+    ],
+    "Halflings": [
+        "halfling"
+    ],
+    "Races": [
+        "races",
+        "race"
+    ],
+    "Rusalka": [
+        "rusalka",
+        "rusalkas",
+        "rusalkan"
+    ],
+    "Children of Anubis": [
+        "child of anubis"
+    ],
+    "Revenants": [
+        "revenant"
+    ],
+    "Ghouls": [
+        "ghoul"
+    ],
+    "Orcs": [
+        "orc",
+        "orcish"
+    ],
+    "Ogres": [
+        "ogre"
+    ],
+    "Goblins": [
+        "goblin",
+        "goblinoid"
+    ],
+    "Gnomes": [
+        "gnome",
+        "gnomish"
+    ],
+    "Minotaur": [
+        "minotaur"
+    ],
+    "Pixies": [
+        "pixie"
+    ],
+    "States": [
+        "states",
+        "state"
+    ],
+    "Chimea": [
+        "chimean"
+    ],
+    "Forests": [
+        "forest"
+    ],
+    "Jungles": [
+        "jungle"
+    ],
+    "Deserts": [
+        "desert"
+    ],
+    "Mountains": [
+        "mountain"
+    ],
+    "Kethic Elementalism": [
+        "kethic"
+    ],
+    "Life and Death": [
+        "soul",
+        "shadow",
+        "spirit"
+    ],
+    "Monsters": [
+        "monster"
+    ],
+    "NPCs": [
+        "npc"
+    ],
+    "Heroes": [
+        "hero"
+    ],
+    "Regions": [
+        "region"
+    ],
+    "Yorinthian": [
+        "yorinthians"
+    ],
+    "Vetryl": [
+        "vetrylian"
+    ],
+    "Daemons": [
+        "daemon",
+        "daemoness"
+    ],
+    "Major Islands": [
+        "major island"
+    ],
+    "Major Land Features": [
+        "major land feature"
+    ],
+    "Minor Land Features": [
+        "minor land feature"
+    ],
+    "Nydus, the Black Sun": [
+        "Nydus, the Black Sun",
+        "nydus",
+        "black sun"
+    ],
+    "Aurus, the White Sun": [
+        "Aurus, the White Sun",
+        "aurus",
+        "white sun"
+    ]
+}

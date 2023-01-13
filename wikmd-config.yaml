@@ -1,0 +1,18 @@
+# wikmd configuration file
+
+wikmd_host: "0.0.0.0"
+wikmd_port: 5501
+wikmd_logging: 1
+wikmd_logging_file: "wikmd.log"
+
+git_user: "CaptainCrouton89"
+git_email: "rhyneer.silas@gmail.com"
+
+main_branch_name: "main"
+sync_with_remote: 1
+remote_url: "git@github.com:CaptainCrouton89/AlariaWiki.git"
+
+wiki_directory: "wiki"
+images_route: "img"
+homepage: "homepage.md"
+homepage_title: "homepage"

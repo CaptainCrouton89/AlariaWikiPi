@@ -1,0 +1,9 @@
+{
+    "race": "Races",
+    "dwarf": "Dwarves",
+    "elf": "Elves",
+    "human": "Humans",
+    "state": "States",
+    "majorLandFeature": "Major Land Features",
+    "plains": "Plains"
+}
