@@ -3,7 +3,7 @@ import json
 import os
 import re
 
-TAGS = "/home/pi/Code/AlariaWikiFull/tagLookup.json"
+TAGS = "./tagLookup.json"
 WIKI = "wiki"
 LINK_TEXT = "Links: "
 TAGS_TEXT = "Tags: "

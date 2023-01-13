@@ -14,5 +14,5 @@ remote_url: "git@github.com:CaptainCrouton89/AlariaWiki.git"
 
 wiki_directory: "AlariaWiki"
 images_route: "img"
-homepage: "homepage.md"
-homepage_title: "homepage"
+homepage: "Alaria.md"
+homepage_title: "Alaria"
