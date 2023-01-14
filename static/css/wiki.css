@@ -89,3 +89,8 @@ h5 {
 hr {
     margin: 0.2rem 0;
 }
+
+.destiny-level {
+    margin-left: 3rem;
+    font-weight: bold;
+}
