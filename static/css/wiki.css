@@ -16,7 +16,8 @@ blockquote {
     border-left: 4px solid var(--quotes-color);
 }
 
-code, pre {
+code,
+pre {
     font-family: monospace;
     font-size: 14px
 }
@@ -63,14 +64,33 @@ td {
     border-top: 1px solid #dee2e6;
 }
 
-p,
-.h3,
-.h4,
-.h5,
-.h6,
+p {
+    margin: 0;
+}
+
+h1,
+h2,
 h3,
 h4,
 h5,
 h6 {
-    margin: 0;
+    margin-bottom: 0;
+    margin-top: 0.5rem;
+}
+
+h4 {
+    font-size: 1.25rem;
+}
+
+h5 {
+    font-size: 1rem;
+}
+
+hr {
+    margin: 0.2rem 0;
+}
+
+.destiny-level {
+    margin-left: 3rem;
+    font-weight: bold;
 }
