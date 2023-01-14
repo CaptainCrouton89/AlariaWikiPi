@@ -164,8 +164,9 @@ def total_auto_link(filename, all_files):
     with open(filename, "w") as f:
         f.write(fin)
 
-def full_site_auto_link(all_files):
-    for path in get_md_file_paths(cfg.wiki_directory):
+def full_site_auto_link():
+    all_files = get_md_file_paths(cfg.wiki_directory)
+    for path in all_files:
         # path = os.path.join(cfg.wiki_directory, mdfile)
         if (".DS_Store" in path) or ("img" in path) or (".git" in path): continue
         auto_link(path)
