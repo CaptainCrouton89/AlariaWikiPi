@@ -91,8 +91,7 @@ def get_md_file_paths(directory):
     for root, dirs, files in os.walk(directory):
         for name in files:
             md_paths.append(os.path.join(root, name))
-        for name in dirs:
-            md_paths.append(os.path.join(root, name))
+            print(name)
     return md_paths
 
 def total_auto_link(filename):
