@@ -94,7 +94,7 @@ def get_md_file_paths(directory):
             print(name)
     return md_paths
 
-def total_auto_link(filename):
+def total_auto_link(filename, all_files):
     linkables = set()
     # data = ["states", "races", "subraces"]
     # for doc in data:
@@ -106,7 +106,7 @@ def total_auto_link(filename):
 
 
 
-    for mdfile in get_md_file_paths(cfg.wiki_directory):
+    for mdfile in all_files:
         # path = os.path.join(cfg.wiki_directory, mdfile)
         if (".DS_Store" in mdfile) or ("img" in mdfile) or (".git" in mdfile): continue
         linkables.add(mdfile.replace(".md", ""))
@@ -164,12 +164,12 @@ def total_auto_link(filename):
     with open(filename, "w") as f:
         f.write(fin)
 
-def full_site_auto_link():
-    for mdfile in os.listdir(cfg.wiki_directory):
-        path = os.path.join(cfg.wiki_directory, mdfile)
+def full_site_auto_link(all_files):
+    for path in get_md_file_paths(cfg.wiki_directory):
+        # path = os.path.join(cfg.wiki_directory, mdfile)
         if (".DS_Store" in path) or ("img" in path) or (".git" in path): continue
         auto_link(path)
-        total_auto_link(path)                            
+        total_auto_link(path, all_files)                            
 
 def main():
     # for filename in os.listdir(cfg.wiki_directory):
