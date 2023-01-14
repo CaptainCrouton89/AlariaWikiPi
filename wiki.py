@@ -183,7 +183,7 @@ def file_page(file_page):
 
                 app.logger.info(f"Converting to HTML with pandoc >>> '{md_file_path}' ...")
                 html = pypandoc.convert_file(md_file_path, "html5",
-                                             format='md', extra_args=["--mathjax"], filters=['pandoc-xnos'])
+                                             format='md', extra_args=["--wrap=preserve"])
 
                 mod = "Last modified: %s" % time.ctime(os.path.getmtime(md_file_path))
                 folder = file_page.split("/")
