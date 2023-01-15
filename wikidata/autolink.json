@@ -123,5 +123,27 @@
         "Aurus, the White Sun",
         "aurus",
         "white sun"
+    ],
+    "Attack and Defense Rolls": [
+        "A/D",
+        "attack roll",
+        "defense roll"
+    ],
+    "Advantage and Disadvantage": [
+        "advantage",
+        "disadvantage",
+        "A1",
+        "A2",
+        "A3",
+        "A4",
+        "A5",
+        "D1",
+        "D2",
+        "D3",
+        "D4",
+        "D5"
+    ],
+    "Servants of Anubis": [
+        "Servant of Anubis"
     ]
 }
