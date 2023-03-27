@@ -7,7 +7,7 @@ WIKMD_CONFIG_FILE = __file__.replace("config.py", "wikmd-config.yaml")
 
 # Default config parameters
 WIKMD_HOST_DEFAULT = "0.0.0.0"
-WIKMD_PORT_DEFAULT = 5000
+WIKMD_PORT_DEFAULT = 80
 WIKMD_LOGGING_DEFAULT = 1
 WIKMD_LOGGING_FILE_DEFAULT = "wikmd.log"
 
