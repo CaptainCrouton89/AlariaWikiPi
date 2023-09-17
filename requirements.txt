@@ -1,6 +1,6 @@
 Flask==1.1.2
-GitPython>3.1.0
-pypandoc==1.5
+GitPython==3.1.36
+pypandoc==1.11
 pytest==7.4.2
 PyYAML==6.0.1
 Werkzeug==1.0.1
