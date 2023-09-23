@@ -33,5 +33,5 @@ ENV LANG=C.UTF-8
 ENV HOME=/wiki
 
 # ports and volumes
-EXPOSE 5000
+EXPOSE 8000
 

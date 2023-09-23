@@ -16,7 +16,6 @@ from config import WikmdConfig
 from git_manager import WikiRepoManager
 import autoLinker
 
-
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
 
 SYSTEM_SETTINGS = {
@@ -68,6 +67,8 @@ def search():
     search_term = request.form['ss']
     escaped_search_term = re.escape(search_term)
     found = []
+    tag = re.match(r"^tag:", search_term)
+    tag_text = search_term.lower().replace(" ", "").replace("tag:", "")
 
     app.logger.info(f"Searching >>> '{search_term}' ...")
 
@@ -82,25 +83,15 @@ def search():
                 # Nothing interesting there too
                 continue
             with open(root + '/' + item, encoding="utf8", errors='ignore') as f:
-                fin = f.read()
+                fin = f.read()  
+                fin_tags = fin.partition('\n')[0].lower().replace("tags: ", "").replace(",", "")
                 try:
-                    if (re.search(escaped_search_term, root + '/' + item, re.IGNORECASE) or
+                    if tag and re.search(tag_text, fin_tags, re.IGNORECASE):
+                        found.append(get_info_from_item(item, root))
+                        app.logger.info(f"Found '{search_term}' in '{item}'")
+                    elif (re.search(escaped_search_term, root + '/' + item, re.IGNORECASE) or
                             re.search(escaped_search_term, fin, re.IGNORECASE) is not None):
-                        # Stripping 'wiki/' part of path before serving as a search result
-                        folder = root[len(cfg.wiki_directory + "/"):]
-                        if folder == "":
-                            url = os.path.splitext(
-                                root[len(cfg.wiki_directory + "/"):] + "/" + item)[0]
-                        else:
-                            url = "/" + \
-                                  os.path.splitext(
-                                      root[len(cfg.wiki_directory + "/"):] + "/" + item)[0]
-
-                        info = {'doc': item,
-                                'url': url,
-                                'folder': folder,
-                                'folder_url': root[len(cfg.wiki_directory + "/"):]}
-                        found.append(info)
+                        found.append(get_info_from_item(item, root))
                         app.logger.info(f"Found '{search_term}' in '{item}'")
                 except Exception as e:
                     app.logger.error(f"Error while searching >>> {str(e)}")
@@ -108,6 +99,23 @@ def search():
     found = sorted(found, key=lambda x: difflib.SequenceMatcher(None, x["doc"], search_term).ratio(), reverse=True)
     return render_template('search.html', zoekterm=found, system=SYSTEM_SETTINGS)
 
+def get_info_from_item(item, root):
+    # Stripping 'wiki/' part of path before serving as a search result
+    folder = root[len(cfg.wiki_directory + "/"):]
+    if folder == "":
+        url = os.path.splitext(
+            root[len(cfg.wiki_directory + "/"):] + "/" + item)[0]
+    else:
+        url = "/" + \
+            os.path.splitext(
+                root[len(cfg.wiki_directory + "/"):] + "/" + item)[0]
+
+    info = {'doc': item,
+            'url': url,
+            'folder': folder,
+            'folder_url': root[len(cfg.wiki_directory + "/"):]}
+    return info
+    
 
 def fetch_page_name() -> str:
     page_name = request.form['PN']

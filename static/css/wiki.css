@@ -65,7 +65,7 @@ td {
 }
 
 p {
-    margin: 0;
+    margin: .5rem 0;
 }
 
 h1,
@@ -93,4 +93,8 @@ hr {
 .destiny-level {
     margin-left: 3rem;
     font-weight: bold;
+}
+
+.CodeMirror-wrap pre {
+    word-break: break-word;
 }

@@ -65570,3 +65570,3125 @@ INFO:wiki:Showing HTML page >>> 'Gragunel'
 INFO:wiki:New git commit >>> Edit page 'Gragunel' on 2023-09-17 15:55:24.843130
 INFO:wiki:Pushed to the repo.
 INFO:wiki:Searching >>> 'tiira' ...
+INFO:wiki:Saving >>> 'Tiira' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tiira.md' ...
+INFO:wiki:Showing HTML page >>> 'Tiira'
+INFO:wiki:New git commit >>> Add page 'Tiira' on 2023-09-17 16:25:04.640533
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'myorna' ...
+INFO:wiki:Found 'myorna' in 'Aldriktch Trade Alliance.md'
+INFO:wiki:Found 'myorna' in 'States.md'
+INFO:wiki:Found 'myorna' in 'Stone Slums.md'
+INFO:wiki:Found 'myorna' in 'Sivakr.md'
+INFO:wiki:Found 'myorna' in 'Myorna.md'
+INFO:wiki:Found 'myorna' in 'King Thyolinor.md'
+INFO:wiki:Found 'myorna' in 'Erasnus.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/King Thyolinor.md' ...
+INFO:wiki:Showing HTML page >>> 'King Thyolinor'
+INFO:wiki:Saving >>> 'King Samaryn' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/King Samaryn.md' ...
+INFO:wiki:Showing HTML page >>> 'King Samaryn'
+INFO:wiki:New git commit >>> Edit page 'King Samaryn' on 2023-09-17 16:25:27.031820
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Showing HTML page >>> 'homepage'
+INFO:wiki:Converting to HTML with pandoc >>> 'homepage' ...
+INFO:wiki:Searching >>> 'thyolinor' ...
+INFO:wiki:Found 'thyolinor' in 'Myorna.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Myorna.md' ...
+INFO:wiki:Showing HTML page >>> 'Myorna'
+INFO:wiki:Saving >>> 'Myorna' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Myorna.md' ...
+INFO:wiki:Showing HTML page >>> 'Myorna'
+INFO:wiki:New git commit >>> Edit page 'Myorna' on 2023-09-17 16:26:45.651498
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sivakr.md' ...
+INFO:wiki:Showing HTML page >>> 'Sivakr'
+INFO:wiki:Showing HTML page >>> 'homepage'
+INFO:wiki:Converting to HTML with pandoc >>> 'homepage' ...
+INFO:wiki:Searching >>> 'history' ...
+INFO:wiki:Found 'history' in 'College and University.md'
+INFO:wiki:Found 'history' in 'Roule.md'
+INFO:wiki:Found 'history' in 'Ohblex.md'
+INFO:wiki:Found 'history' in 'Phirexes.md'
+INFO:wiki:Found 'history' in 'Echea.md'
+INFO:wiki:Found 'history' in 'Avalon.md'
+INFO:wiki:Found 'history' in 'Revenants.md'
+INFO:wiki:Found 'history' in 'L'coth D'hari.md'
+INFO:wiki:Found 'history' in 'Aldriktch Trade Alliance.md'
+INFO:wiki:Found 'history' in 'Tarn.md'
+INFO:wiki:Found 'history' in 'Danak.md'
+INFO:wiki:Found 'history' in 'Keth Esari.md'
+INFO:wiki:Found 'history' in 'Silzar.md'
+INFO:wiki:Found 'history' in 'Goblins.md'
+INFO:wiki:Found 'history' in 'Cendelle.md'
+INFO:wiki:Found 'history' in 'Kazül.md'
+INFO:wiki:Found 'history' in 'Phiora.md'
+INFO:wiki:Found 'history' in 'Gyv.md'
+INFO:wiki:Found 'history' in 'Bloodlings.md'
+INFO:wiki:Found 'history' in 'Cogheads.md'
+INFO:wiki:Found 'history' in 'Moigos.md'
+INFO:wiki:Found 'history' in 'Zylogmus Eternus.md'
+INFO:wiki:Found 'history' in 'Goshwen.md'
+INFO:wiki:Found 'history' in 'Korel.md'
+INFO:wiki:Found 'history' in 'Shontobi.md'
+INFO:wiki:Found 'history' in 'Xoth.md'
+INFO:wiki:Found 'history' in 'Nashua.md'
+INFO:wiki:Found 'history' in 'Dern.md'
+INFO:wiki:Found 'history' in 'Shazuihn.md'
+INFO:wiki:Found 'history' in 'Lethos.md'
+INFO:wiki:Found 'history' in 'Movasi.md'
+INFO:wiki:Found 'history' in 'Lyzine.md'
+INFO:wiki:Found 'history' in 'Caerine.md'
+INFO:wiki:Found 'history' in 'Lier.md'
+INFO:wiki:Found 'history' in 'Glivornax.md'
+INFO:wiki:Found 'history' in 'Iylovia.md'
+INFO:wiki:Found 'history' in 'Argysis.md'
+INFO:wiki:Found 'history' in 'Valkyries.md'
+INFO:wiki:Found 'history' in 'Azawahasi.md'
+INFO:wiki:Found 'history' in 'Myorna.md'
+INFO:wiki:Found 'history' in 'Campaign 2023.md'
+INFO:wiki:Found 'history' in 'Eoga.md'
+INFO:wiki:Found 'history' in 'Trømgar.md'
+INFO:wiki:Found 'history' in 'Ryuj.md'
+INFO:wiki:Found 'history' in 'Obuje.md'
+INFO:wiki:Found 'history' in 'Velwey.md'
+INFO:wiki:Found 'history' in 'Anarak.md'
+INFO:wiki:Found 'history' in 'Yngli.md'
+INFO:wiki:Found 'history' in 'Qet Yemani.md'
+INFO:wiki:Found 'history' in 'Alekroin.md'
+INFO:wiki:Found 'history' in 'state_ex.md'
+INFO:wiki:Found 'history' in 'Vyko.md'
+INFO:wiki:Found 'history' in 'Deva.md'
+INFO:wiki:Found 'history' in 'Keletus.md'
+INFO:wiki:Found 'history' in 'Skaag.md'
+INFO:wiki:Found 'history' in 'Knova.md'
+INFO:wiki:Found 'history' in 'Zintacas.md'
+INFO:wiki:Found 'history' in 'Ta Minn.md'
+INFO:wiki:Found 'history' in 'Uline.md'
+INFO:wiki:Found 'history' in 'Lacire.md'
+INFO:wiki:Found 'history' in 'Uhionai.md'
+INFO:wiki:Found 'history' in 'Nemo.md'
+INFO:wiki:Found 'history' in 'Chimea.md'
+INFO:wiki:Found 'history' in 'Camaran.md'
+INFO:wiki:Found 'history' in 'Zaelian.md'
+INFO:wiki:Found 'history' in 'Adron.md'
+INFO:wiki:Found 'history' in 'Da Trang.md'
+INFO:wiki:Found 'history' in 'Triton.md'
+INFO:wiki:Found 'history' in 'Grieb.md'
+INFO:wiki:Found 'history' in 'Ezuri.md'
+INFO:wiki:Found 'history' in 'Sharabha.md'
+INFO:wiki:Found 'history' in 'Jeh Bli.md'
+INFO:wiki:Found 'history' in 'Drasnian.md'
+INFO:wiki:Found 'history' in 'Oznak.md'
+INFO:wiki:Found 'history' in 'Thespia.md'
+INFO:wiki:Found 'history' in 'Hephake.md'
+INFO:wiki:Found 'history' in 'Nebúlkano.md'
+INFO:wiki:Found 'history' in 'Gillykin.md'
+INFO:wiki:Found 'history' in 'The Guiltless.md'
+INFO:wiki:Found 'history' in 'Old Tolaria.md'
+INFO:wiki:Found 'history' in 'Whitelings.md'
+INFO:wiki:Found 'history' in 'Kosko.md'
+INFO:wiki:Found 'history' in 'Cendoriln.md'
+INFO:wiki:Found 'history' in 'Neka.md'
+INFO:wiki:Found 'history' in 'Gorath.md'
+INFO:wiki:Found 'history' in 'Ghouls.md'
+INFO:wiki:Found 'history' in 'Etherweavers.md'
+INFO:wiki:Found 'history' in 'Mez.md'
+INFO:wiki:Found 'history' in 'Eros.md'
+INFO:wiki:Found 'history' in 'Minotaur.md'
+INFO:wiki:Found 'history' in 'Hedroscobb.md'
+INFO:wiki:Found 'history' in 'ztest.md'
+INFO:wiki:Found 'history' in 'Shyona.md'
+INFO:wiki:Found 'history' in 'Kyorda.md'
+INFO:wiki:Found 'history' in 'Husakas.md'
+INFO:wiki:Found 'history' in 'Ulvsjael.md'
+INFO:wiki:Found 'history' in 'Naga.md'
+INFO:wiki:Found 'history' in 'Rusalka.md'
+INFO:wiki:Found 'history' in 'Glorin.md'
+INFO:wiki:Found 'history' in 'Thorum.md'
+INFO:wiki:Found 'history' in 'Ogres.md'
+INFO:wiki:Found 'history' in 'Nyolci.md'
+INFO:wiki:Found 'history' in 'Lenora.md'
+INFO:wiki:Found 'history' in 'Dwelyn.md'
+INFO:wiki:Found 'history' in 'Tamadrez.md'
+INFO:wiki:Found 'history' in 'Mkinti.md'
+INFO:wiki:Found 'history' in 'Naruaghin.md'
+INFO:wiki:Found 'history' in 'Craven.md'
+INFO:wiki:Found 'history' in 'Sestros.md'
+INFO:wiki:Found 'history' in 'Bogies.md'
+INFO:wiki:Found 'history' in 'Silwyn.md'
+INFO:wiki:Found 'history' in 'Vystrilik.md'
+INFO:wiki:Found 'history' in 'Kor.md'
+INFO:wiki:Found 'history' in 'Scalawags.md'
+INFO:wiki:Found 'history' in 'Tikhaya.md'
+INFO:wiki:Found 'history' in 'Trollkin.md'
+INFO:wiki:Found 'history' in 'Belenstrope.md'
+INFO:wiki:Found 'history' in 'Azuros.md'
+INFO:wiki:Found 'history' in 'Atyeska.md'
+INFO:wiki:Found 'history' in 'Stipen.md'
+INFO:wiki:Found 'history' in 'Wendi.md'
+INFO:wiki:Found 'history' in 'Sylke.md'
+INFO:wiki:Found 'history' in 'Ios.md'
+INFO:wiki:Found 'history' in 'Kendrel.md'
+INFO:wiki:Found 'history' in 'Dregas.md'
+INFO:wiki:Found 'history' in 'Einwissel.md'
+INFO:wiki:Found 'history' in 'Bestacia.md'
+INFO:wiki:Found 'history' in 'World Timeline.md'
+INFO:wiki:Found 'history' in 'United Free Nations.md'
+INFO:wiki:Found 'history' in 'Kyagos.md'
+INFO:wiki:Found 'history' in 'Watar.md'
+INFO:wiki:Found 'history' in 'Rilyn.md'
+INFO:wiki:Found 'history' in 'Ubrik.md'
+INFO:wiki:Found 'history' in 'Dragons.md'
+INFO:wiki:Found 'history' in 'Erasnus.md'
+INFO:wiki:Found 'history' in 'Dengar.md'
+INFO:wiki:Found 'history' in 'Myastor.md'
+INFO:wiki:Found 'history' in 'Mueras.md'
+INFO:wiki:Found 'history' in 'Lorean.md'
+INFO:wiki:Found 'history' in 'Kuzagt.md'
+INFO:wiki:Found 'history' in 'Zelidia.md'
+INFO:wiki:Found 'history' in 'Kura.md'
+INFO:wiki:Found 'history' in 'Shykasas.md'
+INFO:wiki:Found 'history' in 'Verucan.md'
+INFO:wiki:Found 'history' in 'Rakite.md'
+INFO:wiki:Found 'history' in 'Gnomes.md'
+INFO:wiki:Found 'history' in 'Vyanoweir.md'
+INFO:wiki:Found 'history' in 'Tornia.md'
+INFO:wiki:Found 'history' in 'Atriik.md'
+INFO:wiki:Found 'history' in 'Neth.md'
+INFO:wiki:Found 'history' in 'Joswik.md'
+INFO:wiki:Found 'history' in 'Danaki.md'
+INFO:wiki:Found 'history' in 'New Chimea.md'
+INFO:wiki:Found 'history' in 'Drachma.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/World Timeline.md' ...
+INFO:wiki:Showing HTML page >>> 'World Timeline'
+INFO:wiki:Saving >>> 'World Timeline' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/World Timeline.md' ...
+INFO:wiki:Showing HTML page >>> 'World Timeline'
+INFO:wiki:New git commit >>> Edit page 'World Timeline' on 2023-09-17 16:29:51.019042
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'World Timeline' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/World Timeline.md' ...
+INFO:wiki:Showing HTML page >>> 'World Timeline'
+INFO:wiki:New git commit >>> Edit page 'World Timeline' on 2023-09-17 16:30:07.537782
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Sleep Sauce' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sleep Sauce.md' ...
+INFO:wiki:Showing HTML page >>> 'Sleep Sauce'
+INFO:wiki:New git commit >>> Add page 'Sleep Sauce' on 2023-09-17 16:40:01.659507
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Admiral Azmantir' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Admiral Azmantir.md' ...
+INFO:wiki:Showing HTML page >>> 'Admiral Azmantir'
+INFO:wiki:New git commit >>> Add page 'Admiral Azmantir' on 2023-09-17 16:40:48.933515
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Rodton' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Rodton.md' ...
+INFO:wiki:Showing HTML page >>> 'Rodton'
+INFO:wiki:New git commit >>> Add page 'Rodton' on 2023-09-17 16:45:35.478085
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Loyera.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Saving >>> 'Loyera' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Loyera.md' ...
+INFO:wiki:Showing HTML page >>> 'Loyera'
+INFO:wiki:New git commit >>> Edit page 'Loyera' on 2023-09-17 16:46:14.309451
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Tuskeselom' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tuskeselom.md' ...
+INFO:wiki:Showing HTML page >>> 'Tuskeselom'
+INFO:wiki:New git commit >>> Add page 'Tuskeselom' on 2023-09-17 16:49:21.132566
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Tuskeselom' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tuskeselom.md' ...
+INFO:wiki:Showing HTML page >>> 'Tuskeselom'
+INFO:wiki:New git commit >>> Edit page 'Tuskeselom' on 2023-09-17 16:49:26.749831
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Thaes' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Thaes.md' ...
+INFO:wiki:Showing HTML page >>> 'Thaes'
+INFO:wiki:New git commit >>> Add page 'Thaes' on 2023-09-17 16:50:40.950668
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Iqes.md' ...
+INFO:wiki:Showing HTML page >>> 'Iqes'
+INFO:wiki:Saving >>> 'Iqes' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Iqes.md' ...
+INFO:wiki:Showing HTML page >>> 'Iqes'
+INFO:wiki:New git commit >>> Edit page 'Iqes' on 2023-09-17 16:52:05.702504
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Iqes.md' ...
+INFO:wiki:Showing HTML page >>> 'Iqes'
+INFO:wiki:Searching >>> 'tiir' ...
+INFO:wiki:Found 'tiir' in 'Myorna.md'
+INFO:wiki:Found 'tiir' in 'Tiira.md'
+INFO:wiki:Found 'tiir' in 'World Timeline.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tiira.md' ...
+INFO:wiki:Showing HTML page >>> 'Tiira'
+INFO:wiki:Saving >>> 'Tiira' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tiira.md' ...
+INFO:wiki:Showing HTML page >>> 'Tiira'
+INFO:wiki:New git commit >>> Edit page 'Tiira' on 2023-09-17 16:55:22.852990
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tiira.md' ...
+INFO:wiki:Showing HTML page >>> 'Tiira'
+INFO:wiki:Showing HTML page >>> 'homepage'
+INFO:wiki:Converting to HTML with pandoc >>> 'homepage' ...
+INFO:wiki:Searching >>> 'qyornoc' ...
+INFO:wiki:Searching >>> 'yornoc' ...
+INFO:wiki:Searching >>> 'kendral' ...
+INFO:wiki:Searching >>> 'agreben' ...
+INFO:wiki:Saving >>> 'Agreben Sea' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Agreben Sea.md' ...
+INFO:wiki:Showing HTML page >>> 'Agreben Sea'
+INFO:wiki:New git commit >>> Add page 'Agreben Sea' on 2023-09-18 22:50:10.606848
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Bfaspeen.md' ...
+INFO:wiki:Showing HTML page >>> 'Bfaspeen'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'tykre' ...
+INFO:wiki:Found 'tykre' in 'Tykrenv.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tykrenv.md' ...
+INFO:wiki:Showing HTML page >>> 'Tykrenv'
+INFO:wiki:Searching >>> 'bastion' ...
+INFO:wiki:Found 'bastion' in 'Ghet.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Ghet.md' ...
+INFO:wiki:Showing HTML page >>> 'Ghet'
+INFO:wiki:Saving >>> 'Chained Hills of Anzubaba' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Chained Hills of Anzubaba.md' ...
+INFO:wiki:Showing HTML page >>> 'Chained Hills of Anzubaba'
+INFO:wiki:New git commit >>> Add page 'Chained Hills of Anzubaba' on 2023-09-18 22:52:26.983762
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'scale riders' ...
+INFO:wiki:Found 'scale riders' in 'Races.md'
+INFO:wiki:Found 'scale riders' in 'Scale Riders.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Scale Riders.md' ...
+INFO:wiki:Showing HTML page >>> 'Scale Riders'
+INFO:wiki:Saving >>> 'Scale Riders' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Scale Riders.md' ...
+INFO:wiki:Showing HTML page >>> 'Scale Riders'
+INFO:wiki:New git commit >>> Edit page 'Scale Riders' on 2023-09-18 22:54:20.928114
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Lyndwyrmspren' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Lyndwyrmspren.md' ...
+INFO:wiki:Showing HTML page >>> 'Lyndwyrmspren'
+INFO:wiki:New git commit >>> Edit page 'Lyndwyrmspren' on 2023-09-18 22:55:31.437132
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Lyagnadarr Mountains.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Lyagnadarr Mountains' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Lyagnadarr Mountains.md' ...
+INFO:wiki:Showing HTML page >>> 'Lyagnadarr Mountains'
+INFO:wiki:New git commit >>> Edit page 'Lyagnadarr Mountains' on 2023-09-18 22:55:41.133443
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Lyndwyrmspren.md' ...
+INFO:wiki:Showing HTML page >>> 'Lyndwyrmspren'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Races.md' ...
+INFO:wiki:Showing HTML page >>> 'Races'
+INFO:wiki:Saving >>> 'Races' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Races.md' ...
+INFO:wiki:New git commit >>> Edit page 'Races' on 2023-09-18 22:56:07.370495
+INFO:wiki:Showing HTML page >>> 'Races'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Cendoriln.md' ...
+INFO:wiki:Showing HTML page >>> 'Cendoriln'
+INFO:wiki:Searching >>> 'cendoriln' ...
+INFO:wiki:Found 'cendoriln' in 'Kendro.md'
+INFO:wiki:Found 'cendoriln' in 'Cendoriln.md'
+INFO:wiki:Found 'cendoriln' in 'Races.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Kendro.md' ...
+INFO:wiki:Showing HTML page >>> 'Kendro'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Cendoriln.md' ...
+INFO:wiki:Showing HTML page >>> 'Cendoriln'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Kendro.md' ...
+INFO:wiki:Showing HTML page >>> 'Kendro'
+INFO:wiki:Saving >>> 'Cendoriln' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Cendoriln.md' ...
+INFO:wiki:Showing HTML page >>> 'Cendoriln'
+INFO:wiki:New git commit >>> Edit page 'Cendoriln' on 2023-09-18 22:57:08.382737
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Kendro.md' ...
+INFO:wiki:Showing HTML page >>> 'Kendro'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Cendoriln.md' ...
+INFO:wiki:Showing HTML page >>> 'Cendoriln'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Kendro.md' ...
+INFO:wiki:Showing HTML page >>> 'Kendro'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Kendrel.md' ...
+INFO:wiki:Showing HTML page >>> 'Kendrel'
+INFO:wiki:Saving >>> 'Kendrel' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Kendrel.md' ...
+INFO:wiki:Showing HTML page >>> 'Kendrel'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Kendrel' on 2023-09-18 22:57:47.252902
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'kendral' ...
+INFO:wiki:Found 'kendral' in 'Agreben Sea.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Agreben Sea.md' ...
+INFO:wiki:Showing HTML page >>> 'Agreben Sea'
+INFO:wiki:Saving >>> 'Agreben Sea' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Agreben Sea.md' ...
+INFO:wiki:Showing HTML page >>> 'Agreben Sea'
+INFO:wiki:New git commit >>> Edit page 'Agreben Sea' on 2023-09-18 22:58:11.958979
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Dalizi Confederation' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dalizi Confederation.md' ...
+INFO:wiki:Showing HTML page >>> 'Dalizi Confederation'
+INFO:wiki:New git commit >>> Add page 'Dalizi Confederation' on 2023-09-18 23:06:19.832427
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Blaize.md' ...
+INFO:wiki:Showing HTML page >>> 'Blaize'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'tytheri' ...
+INFO:wiki:Found 'tytheri' in 'Tytheri.md'
+INFO:wiki:Found 'tytheri' in 'Orcs.md'
+INFO:wiki:Found 'tytheri' in 'Races.md'
+INFO:wiki:Found 'tytheri' in 'Kadroka.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tytheri.md' ...
+INFO:wiki:Showing HTML page >>> 'Tytheri'
+INFO:wiki:Saving >>> 'Tytheri' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tytheri.md' ...
+INFO:wiki:Showing HTML page >>> 'Tytheri'
+INFO:wiki:New git commit >>> Edit page 'Tytheri' on 2023-09-18 23:09:20.466702
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tythikerys.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Tythikerys' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tythikerys.md' ...
+INFO:wiki:Showing HTML page >>> 'Tythikerys'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tytheri.md' ...
+INFO:wiki:New git commit >>> Edit page 'Tythikerys' on 2023-09-18 23:09:36.260001
+INFO:wiki:Showing HTML page >>> 'Tytheri'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'cendoriln' ...
+INFO:wiki:Found 'cendoriln' in 'Kendro.md'
+INFO:wiki:Found 'cendoriln' in 'Cendoriln.md'
+INFO:wiki:Found 'cendoriln' in 'Races.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Cendoriln.md' ...
+INFO:wiki:Showing HTML page >>> 'Cendoriln'
+INFO:wiki:Saving >>> 'Cendoriln' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Cendoriln.md' ...
+INFO:wiki:Showing HTML page >>> 'Cendoriln'
+INFO:wiki:New git commit >>> Edit page 'Cendoriln' on 2023-09-18 23:14:22.519255
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Riptear Sea.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Riptear Sea' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Riptear Sea.md' ...
+INFO:wiki:Showing HTML page >>> 'Riptear Sea'
+INFO:wiki:New git commit >>> Edit page 'Riptear Sea' on 2023-09-18 23:14:38.154813
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Cendoriln.md' ...
+INFO:wiki:Showing HTML page >>> 'Cendoriln'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'fire sworn' ...
+INFO:wiki:Searching >>> 'sworn' ...
+INFO:wiki:Found 'sworn' in 'First Brotherhood.md'
+INFO:wiki:Found 'sworn' in 'Chaal Nazzerox.md'
+INFO:wiki:Found 'sworn' in 'Smoky Hills.md'
+INFO:wiki:Found 'sworn' in 'Firesworn.md'
+INFO:wiki:Found 'sworn' in 'Talents.md'
+INFO:wiki:Found 'sworn' in 'Edryss the Unsworn.md'
+INFO:wiki:Found 'sworn' in 'Bloodoath.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Firesworn.md' ...
+INFO:wiki:Showing HTML page >>> 'Firesworn'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Smoky Hills.md' ...
+INFO:wiki:Showing HTML page >>> 'Smoky Hills'
+INFO:wiki:Saving >>> 'Smoky Hills' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Smoky Hills.md' ...
+INFO:wiki:Showing HTML page >>> 'Smoky Hills'
+INFO:wiki:New git commit >>> Edit page 'Smoky Hills' on 2023-09-18 23:15:26.717696
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'inchion' ...
+INFO:wiki:Searching >>> 'inch' ...
+INFO:wiki:Searching >>> 'chion' ...
+INFO:wiki:Searching >>> 'naidorf' ...
+INFO:wiki:Searching >>> 'chion' ...
+INFO:wiki:Searching >>> 'nch' ...
+INFO:wiki:Found 'nch' in 'Cogheads.md'
+INFO:wiki:Found 'nch' in 'Goshwen.md'
+INFO:wiki:Found 'nch' in 'Wisgarrd.md'
+INFO:wiki:Found 'nch' in 'Campaign 2023.md'
+INFO:wiki:Found 'nch' in 'Pavik's Cave.md'
+INFO:wiki:Found 'nch' in 'Tenches.md'
+INFO:wiki:Found 'nch' in 'Chaal Nazzerox.md'
+INFO:wiki:Found 'nch' in 'Vyko.md'
+INFO:wiki:Found 'nch' in 'Currency.md'
+INFO:wiki:Found 'nch' in 'Zaelian.md'
+INFO:wiki:Found 'nch' in 'Teflin.md'
+INFO:wiki:Found 'nch' in 'Dwarblin.md'
+INFO:wiki:Found 'nch' in 'Gino the Terrible.md'
+INFO:wiki:Found 'nch' in 'Promise of Mythras.md'
+INFO:wiki:Found 'nch' in 'Forests.md'
+INFO:wiki:Found 'nch' in 'Drasnian.md'
+INFO:wiki:Found 'nch' in 'Sleepers.md'
+INFO:wiki:Found 'nch' in 'Gorath.md'
+INFO:wiki:Found 'nch' in 'Shenchen Forest.md'
+INFO:wiki:Found 'nch' in 'Morgnor (dragon).md'
+INFO:wiki:Found 'nch' in 'Whisper Isles.md'
+INFO:wiki:Found 'nch' in 'Sorrow Lake.md'
+INFO:wiki:Found 'nch' in 'Jotuns.md'
+INFO:wiki:Found 'nch' in 'Talents.md'
+INFO:wiki:Found 'nch' in 'Races.md'
+INFO:wiki:Found 'nch' in 'Xalahir.md'
+INFO:wiki:Found 'nch' in 'Cleverheart.md'
+INFO:wiki:Found 'nch' in 'Craven.md'
+INFO:wiki:Found 'nch' in 'Sestros.md'
+INFO:wiki:Found 'nch' in 'Celesté.md'
+INFO:wiki:Found 'nch' in 'Twilight Forest.md'
+INFO:wiki:Found 'nch' in 'World Timeline.md'
+INFO:wiki:Found 'nch' in 'Cyclops.md'
+INFO:wiki:Found 'nch' in 'Ruddings.md'
+INFO:wiki:Found 'nch' in 'Dengar.md'
+INFO:wiki:Found 'nch' in 'Satyrn Gray.md'
+INFO:wiki:Found 'nch' in 'Belagria.md'
+INFO:wiki:Found 'nch' in 'Assassin.md'
+INFO:wiki:Found 'nch' in 'Worldly Traveler.md'
+INFO:wiki:Searching >>> 'nchi' ...
+INFO:wiki:Found 'nchi' in 'Cleverheart.md'
+INFO:wiki:Searching >>> 'neck' ...
+INFO:wiki:Found 'neck' in 'Zylogmus Eternus.md'
+INFO:wiki:Found 'neck' in 'Dwarves.md'
+INFO:wiki:Found 'neck' in 'Rokunuri.md'
+INFO:wiki:Found 'neck' in 'Pythalomos.md'
+INFO:wiki:Found 'neck' in 'Black Citadel.md'
+INFO:wiki:Found 'neck' in 'Blood Monkeys.md'
+INFO:wiki:Found 'neck' in 'Kyagos.md'
+INFO:wiki:Searching >>> 'tevakiri' ...
+INFO:wiki:Found 'tevakiri' in 'Tevakiri.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tevakiri.md' ...
+INFO:wiki:Showing HTML page >>> 'Tevakiri'
+INFO:wiki:Showing HTML page >>> 'homepage'
+INFO:wiki:Converting to HTML with pandoc >>> 'homepage' ...
+INFO:wiki:Searching >>> 'blueskin' ...
+INFO:wiki:Searching >>> 'blue skin' ...
+INFO:wiki:Found 'blue skin' in 'Xibli.md'
+INFO:wiki:Found 'blue skin' in 'Rhea.md'
+INFO:wiki:Found 'blue skin' in 'Hooklings.md'
+INFO:wiki:Found 'blue skin' in 'Zwaeron.md'
+INFO:wiki:Searching >>> 'iks' ...
+INFO:wiki:Searching >>> 'ths' ...
+INFO:wiki:Found 'ths' in 'Ix'Vasyla.md'
+INFO:wiki:Found 'ths' in 'Brutemage.md'
+INFO:wiki:Found 'ths' in 'Desert Mammoth.md'
+INFO:wiki:Found 'ths' in 'Silzar.md'
+INFO:wiki:Found 'ths' in 'Deaddorf Strait.md'
+INFO:wiki:Found 'ths' in 'Nguinzi.md'
+INFO:wiki:Found 'ths' in 'Yngli.md'
+INFO:wiki:Found 'ths' in 'Mirko.md'
+INFO:wiki:Found 'ths' in 'Liches.md'
+INFO:wiki:Found 'ths' in 'Character Creation.md'
+INFO:wiki:Found 'ths' in 'Qorgath.md'
+INFO:wiki:Found 'ths' in 'Free Colonies.md'
+INFO:wiki:Found 'ths' in 'Camaran.md'
+INFO:wiki:Found 'ths' in 'Zaelian.md'
+INFO:wiki:Found 'ths' in 'Thunder Plains.md'
+INFO:wiki:Found 'ths' in 'Desert of One Million Shards.md'
+INFO:wiki:Found 'ths' in 'Dragons' Teeth.md'
+INFO:wiki:Found 'ths' in 'Whisper Isles.md'
+INFO:wiki:Found 'ths' in 'Faeja.md'
+INFO:wiki:Found 'ths' in 'Talents.md'
+INFO:wiki:Found 'ths' in 'River Yuforhi.md'
+INFO:wiki:Found 'ths' in 'Races.md'
+INFO:wiki:Found 'ths' in 'Cleverheart.md'
+INFO:wiki:Found 'ths' in 'Grayfang Mountains.md'
+INFO:wiki:Found 'ths' in 'Ogres.md'
+INFO:wiki:Found 'ths' in 'Bogies.md'
+INFO:wiki:Found 'ths' in 'Trollkin.md'
+INFO:wiki:Found 'ths' in 'World Timeline.md'
+INFO:wiki:Found 'ths' in 'Cyclops.md'
+INFO:wiki:Found 'ths' in 'Gruynmar.md'
+INFO:wiki:Found 'ths' in 'Neth.md'
+INFO:wiki:Found 'ths' in 'Observant.md'
+INFO:wiki:Searching >>> 'red orc' ...
+INFO:wiki:Searching >>> 'orc' ...
+INFO:wiki:Found 'orc' in 'Tarni.md'
+INFO:wiki:Found 'orc' in 'Phirexes.md'
+INFO:wiki:Found 'orc' in 'Echea.md'
+INFO:wiki:Found 'orc' in 'Avalon.md'
+INFO:wiki:Found 'orc' in 'Revenants.md'
+INFO:wiki:Found 'orc' in 'Griebi.md'
+INFO:wiki:Found 'orc' in 'Mirrored Palace.md'
+INFO:wiki:Found 'orc' in 'Tytheri.md'
+INFO:wiki:Found 'orc' in 'Satyr.md'
+INFO:wiki:Found 'orc' in 'Cogheads.md'
+INFO:wiki:Found 'orc' in 'Zylogmus Eternus.md'
+INFO:wiki:Found 'orc' in 'Steppe of Aziirn.md'
+INFO:wiki:Found 'orc' in 'Gel-armor'
+INFO:wiki:Found 'orc' in 'Valkyries.md'
+INFO:wiki:Found 'orc' in 'Eoga.md'
+INFO:wiki:Found 'orc' in 'Ryuj.md'
+INFO:wiki:Found 'orc' in 'Planar Races.md'
+INFO:wiki:Found 'orc' in 'Yngli.md'
+INFO:wiki:Found 'orc' in 'Glivornaxi.md'
+INFO:wiki:Found 'orc' in 'Rothogomos.md'
+INFO:wiki:Found 'orc' in 'Swuigrach.md'
+INFO:wiki:Found 'orc' in 'Character Creation.md'
+INFO:wiki:Found 'orc' in 'Deva.md'
+INFO:wiki:Found 'orc' in 'Uihonaii.md'
+INFO:wiki:Found 'orc' in 'Tiira.md'
+INFO:wiki:Found 'orc' in 'Languages.md'
+INFO:wiki:Found 'orc' in 'Tepheranos.md'
+INFO:wiki:Found 'orc' in 'Scorches.md'
+INFO:wiki:Found 'orc' in 'Ezuri.md'
+INFO:wiki:Found 'orc' in 'Xi'ivrach.md'
+INFO:wiki:Found 'orc' in 'Jeh Bli.md'
+INFO:wiki:Found 'orc' in 'Shazuihni.md'
+INFO:wiki:Found 'orc' in 'Blue Shale Peaks.md'
+INFO:wiki:Found 'orc' in 'Etherweavers.md'
+INFO:wiki:Found 'orc' in 'Orcs.md'
+INFO:wiki:Found 'orc' in 'Talents.md'
+INFO:wiki:Found 'orc' in 'Races.md'
+INFO:wiki:Found 'orc' in 'Elnir.md'
+INFO:wiki:Found 'orc' in 'Naga.md'
+INFO:wiki:Found 'orc' in 'Turxis Golathi.md'
+INFO:wiki:Found 'orc' in 'Greenskins.md'
+INFO:wiki:Found 'orc' in 'Dwelyn.md'
+INFO:wiki:Found 'orc' in 'Tamadrez.md'
+INFO:wiki:Found 'orc' in 'Tythikerys.md'
+INFO:wiki:Found 'orc' in 'Ios.md'
+INFO:wiki:Found 'orc' in 'Ghosts.md'
+INFO:wiki:Found 'orc' in 'World Timeline.md'
+INFO:wiki:Found 'orc' in 'United Free Nations.md'
+INFO:wiki:Found 'orc' in 'Dragons.md'
+INFO:wiki:Found 'orc' in 'Ipt.md'
+INFO:wiki:Found 'orc' in 'Windor.md'
+INFO:wiki:Found 'orc' in 'Kethic Elementalism.md'
+INFO:wiki:Found 'orc' in 'Everything has a price.md'
+INFO:wiki:Found 'orc' in 'Juggernaut.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Orcs.md' ...
+INFO:wiki:Showing HTML page >>> 'Orcs'
+INFO:wiki:Searching >>> 'white hill' ...
+INFO:wiki:Saving >>> 'White Hills' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/White Hills.md' ...
+INFO:wiki:Showing HTML page >>> 'White Hills'
+INFO:wiki:New git commit >>> Add page 'White Hills' on 2023-09-19 14:01:37.112993
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'White Hills' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/White Hills.md' ...
+INFO:wiki:Showing HTML page >>> 'White Hills'
+INFO:wiki:New git commit >>> Edit page 'White Hills' on 2023-09-19 14:01:41.800047
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Thrygun.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Thrygun' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Thrygun.md' ...
+INFO:wiki:Showing HTML page >>> 'Thrygun'
+INFO:wiki:New git commit >>> Edit page 'Thrygun' on 2023-09-19 14:02:03.994263
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'orc' ...
+INFO:wiki:Found 'orc' in 'Tarni.md'
+INFO:wiki:Found 'orc' in 'Phirexes.md'
+INFO:wiki:Found 'orc' in 'Echea.md'
+INFO:wiki:Found 'orc' in 'Avalon.md'
+INFO:wiki:Found 'orc' in 'Revenants.md'
+INFO:wiki:Found 'orc' in 'Griebi.md'
+INFO:wiki:Found 'orc' in 'Mirrored Palace.md'
+INFO:wiki:Found 'orc' in 'Tytheri.md'
+INFO:wiki:Found 'orc' in 'Satyr.md'
+INFO:wiki:Found 'orc' in 'Cogheads.md'
+INFO:wiki:Found 'orc' in 'Zylogmus Eternus.md'
+INFO:wiki:Found 'orc' in 'Steppe of Aziirn.md'
+INFO:wiki:Found 'orc' in 'Gel-armor'
+INFO:wiki:Found 'orc' in 'Valkyries.md'
+INFO:wiki:Found 'orc' in 'Eoga.md'
+INFO:wiki:Found 'orc' in 'Ryuj.md'
+INFO:wiki:Found 'orc' in 'Planar Races.md'
+INFO:wiki:Found 'orc' in 'Yngli.md'
+INFO:wiki:Found 'orc' in 'Glivornaxi.md'
+INFO:wiki:Found 'orc' in 'Rothogomos.md'
+INFO:wiki:Found 'orc' in 'Swuigrach.md'
+INFO:wiki:Found 'orc' in 'Character Creation.md'
+INFO:wiki:Found 'orc' in 'Deva.md'
+INFO:wiki:Found 'orc' in 'Uihonaii.md'
+INFO:wiki:Found 'orc' in 'Tiira.md'
+INFO:wiki:Found 'orc' in 'Languages.md'
+INFO:wiki:Found 'orc' in 'Tepheranos.md'
+INFO:wiki:Found 'orc' in 'Scorches.md'
+INFO:wiki:Found 'orc' in 'Ezuri.md'
+INFO:wiki:Found 'orc' in 'Xi'ivrach.md'
+INFO:wiki:Found 'orc' in 'Jeh Bli.md'
+INFO:wiki:Found 'orc' in 'Shazuihni.md'
+INFO:wiki:Found 'orc' in 'Blue Shale Peaks.md'
+INFO:wiki:Found 'orc' in 'Etherweavers.md'
+INFO:wiki:Found 'orc' in 'Orcs.md'
+INFO:wiki:Found 'orc' in 'Talents.md'
+INFO:wiki:Found 'orc' in 'Races.md'
+INFO:wiki:Found 'orc' in 'Elnir.md'
+INFO:wiki:Found 'orc' in 'Naga.md'
+INFO:wiki:Found 'orc' in 'Turxis Golathi.md'
+INFO:wiki:Found 'orc' in 'Thrygun.md'
+INFO:wiki:Found 'orc' in 'Greenskins.md'
+INFO:wiki:Found 'orc' in 'Dwelyn.md'
+INFO:wiki:Found 'orc' in 'Tamadrez.md'
+INFO:wiki:Found 'orc' in 'White Hills.md'
+INFO:wiki:Found 'orc' in 'Tythikerys.md'
+INFO:wiki:Found 'orc' in 'Ios.md'
+INFO:wiki:Found 'orc' in 'Ghosts.md'
+INFO:wiki:Found 'orc' in 'World Timeline.md'
+INFO:wiki:Found 'orc' in 'United Free Nations.md'
+INFO:wiki:Found 'orc' in 'Dragons.md'
+INFO:wiki:Found 'orc' in 'Ipt.md'
+INFO:wiki:Found 'orc' in 'Windor.md'
+INFO:wiki:Found 'orc' in 'Kethic Elementalism.md'
+INFO:wiki:Found 'orc' in 'Everything has a price.md'
+INFO:wiki:Found 'orc' in 'Juggernaut.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Orcs.md' ...
+INFO:wiki:Showing HTML page >>> 'Orcs'
+INFO:wiki:Saving >>> 'Orcs' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Orcs.md' ...
+INFO:wiki:Showing HTML page >>> 'Orcs'
+INFO:wiki:New git commit >>> Edit page 'Orcs' on 2023-09-19 14:02:41.252187
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Thrygun.md' ...
+INFO:wiki:Showing HTML page >>> 'Thrygun'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Thrygun' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Thrygun.md' ...
+INFO:wiki:Showing HTML page >>> 'Thrygun'
+INFO:wiki:New git commit >>> Edit page 'Thrygun' on 2023-09-19 14:03:06.782570
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'zae' ...
+INFO:wiki:Found 'zae' in 'Elves.md'
+INFO:wiki:Found 'zae' in 'Gyv.md'
+INFO:wiki:Found 'zae' in 'Caerine.md'
+INFO:wiki:Found 'zae' in 'Zaelian.md'
+INFO:wiki:Found 'zae' in 'Races.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Zaelian.md' ...
+INFO:wiki:Showing HTML page >>> 'Zaelian'
+INFO:wiki:Saving >>> 'Zaelian' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Zaelian.md' ...
+INFO:wiki:Showing HTML page >>> 'Zaelian'
+INFO:wiki:New git commit >>> Edit page 'Zaelian' on 2023-09-19 18:56:22.174973
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Nirvanis Mountains.md' ...
+INFO:wiki:Showing HTML page >>> 'Nirvanis Mountains'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'hookling' ...
+INFO:wiki:Found 'hookling' in 'Hooklings.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Hooklings.md' ...
+INFO:wiki:Showing HTML page >>> 'Hooklings'
+INFO:wiki:Saving >>> 'Hooklings' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Hooklings.md' ...
+INFO:wiki:Showing HTML page >>> 'Hooklings'
+INFO:wiki:New git commit >>> Edit page 'Hooklings' on 2023-09-19 23:35:18.371437
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Morelous.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Morelous' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Morelous.md' ...
+INFO:wiki:Showing HTML page >>> 'Morelous'
+INFO:wiki:New git commit >>> Edit page 'Morelous' on 2023-09-19 23:35:33.622448
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'zael' ...
+INFO:wiki:Found 'zael' in 'Elves.md'
+INFO:wiki:Found 'zael' in 'Gyv.md'
+INFO:wiki:Found 'zael' in 'Caerine.md'
+INFO:wiki:Found 'zael' in 'Zaelian.md'
+INFO:wiki:Found 'zael' in 'Races.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Zaelian.md' ...
+INFO:wiki:Showing HTML page >>> 'Zaelian'
+INFO:wiki:Saving >>> 'Zaelian' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Zaelian.md' ...
+INFO:wiki:Showing HTML page >>> 'Zaelian'
+INFO:wiki:New git commit >>> Edit page 'Zaelian' on 2023-09-19 23:37:46.262636
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sweivyon.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Sweivyon' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sweivyon.md' ...
+INFO:wiki:Showing HTML page >>> 'Sweivyon'
+INFO:wiki:New git commit >>> Edit page 'Sweivyon' on 2023-09-19 23:38:01.446338
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Zaelian.md' ...
+INFO:wiki:Showing HTML page >>> 'Zaelian'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'morelous' ...
+INFO:wiki:Found 'morelous' in 'Morelous.md'
+INFO:wiki:Found 'morelous' in 'Hooklings.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Morelous.md' ...
+INFO:wiki:Showing HTML page >>> 'Morelous'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Hooklings.md' ...
+INFO:wiki:Showing HTML page >>> 'Hooklings'
+INFO:wiki:Searching >>> 'nyinsylys' ...
+INFO:wiki:Saving >>> 'Nyinsyls' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Nyinsyls.md' ...
+INFO:wiki:Showing HTML page >>> 'Nyinsyls'
+INFO:wiki:New git commit >>> Add page 'Nyinsyls' on 2023-09-19 23:47:09.527085
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'melrin' ...
+INFO:wiki:Found 'melrin' in 'Melrin Mountains.md'
+INFO:wiki:Found 'melrin' in 'Titanwurm Mountains.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Melrin Mountains.md' ...
+INFO:wiki:Showing HTML page >>> 'Melrin Mountains'
+INFO:wiki:Saving >>> 'Melrin Mountains' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Melrin Mountains.md' ...
+INFO:wiki:Showing HTML page >>> 'Melrin Mountains'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Melrin Mountains' on 2023-09-19 23:48:10.262274
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Showing HTML page >>> 'homepage'
+INFO:wiki:Converting to HTML with pandoc >>> 'homepage' ...
+INFO:wiki:Searching >>> 'sun' ...
+INFO:wiki:Found 'sun' in 'Elves.md'
+INFO:wiki:Found 'sun' in 'House of the Second Sun.md'
+INFO:wiki:Found 'sun' in 'Stars.md'
+INFO:wiki:Found 'sun' in 'Lethos.md'
+INFO:wiki:Found 'sun' in 'Dwarves.md'
+INFO:wiki:Found 'sun' in 'Enimogos.md'
+INFO:wiki:Found 'sun' in 'Time and Seasons.md'
+INFO:wiki:Found 'sun' in 'Currency.md'
+INFO:wiki:Found 'sun' in 'Suns.md'
+INFO:wiki:Found 'sun' in 'Gilded Plains.md'
+INFO:wiki:Found 'sun' in 'Nemo.md'
+INFO:wiki:Found 'sun' in 'Aureum.md'
+INFO:wiki:Found 'sun' in 'Kryaaji.md'
+INFO:wiki:Found 'sun' in 'Murazi.md'
+INFO:wiki:Found 'sun' in 'Talents.md'
+INFO:wiki:Found 'sun' in 'Races.md'
+INFO:wiki:Found 'sun' in 'Xalahir.md'
+INFO:wiki:Found 'sun' in 'Sunwing Peaks.md'
+INFO:wiki:Found 'sun' in 'Astral Plane.md'
+INFO:wiki:Found 'sun' in 'Nydus, the Black Sun.md'
+INFO:wiki:Found 'sun' in 'Alaria.md'
+INFO:wiki:Found 'sun' in 'Malstaris.md'
+INFO:wiki:Found 'sun' in 'Hestrube.md'
+INFO:wiki:Found 'sun' in 'World Timeline.md'
+INFO:wiki:Found 'sun' in 'Nydor.md'
+INFO:wiki:Found 'sun' in 'Belagria.md'
+INFO:wiki:Found 'sun' in 'Sundering Blows.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Suns.md' ...
+INFO:wiki:Showing HTML page >>> 'Suns'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Bryn.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Aurus, the White Sun.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Nydus, the Black Sun.md' ...
+INFO:wiki:Showing HTML page >>> 'Nydus, the Black Sun'
+INFO:wiki:Searching >>> 'season' ...
+INFO:wiki:Found 'season' in 'Avalon.md'
+INFO:wiki:Found 'season' in 'Time and Seasons.md'
+INFO:wiki:Found 'season' in 'Everwood.md'
+INFO:wiki:Found 'season' in 'Ta Minn.md'
+INFO:wiki:Found 'season' in 'Temptari.md'
+INFO:wiki:Found 'season' in 'Husakas.md'
+INFO:wiki:Found 'season' in 'Malstaris.md'
+INFO:wiki:Found 'season' in 'Wytrolape.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Time and Seasons.md' ...
+INFO:wiki:Showing HTML page >>> 'Time and Seasons'
+INFO:wiki:Showing >>> 'all files'
+INFO:wiki:Searching >>> 'nydus' ...
+INFO:wiki:Found 'nydus' in 'Suns.md'
+INFO:wiki:Found 'nydus' in 'Astral Plane.md'
+INFO:wiki:Found 'nydus' in 'Nydus, the Black Sun.md'
+INFO:wiki:Found 'nydus' in 'Malstaris.md'
+INFO:wiki:Found 'nydus' in 'Nydor.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Nydus, the Black Sun.md' ...
+INFO:wiki:Showing HTML page >>> 'Nydus, the Black Sun'
+INFO:wiki:Saving >>> 'Time and Seasons' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Time and Seasons.md' ...
+INFO:wiki:Showing HTML page >>> 'Time and Seasons'
+INFO:wiki:New git commit >>> Edit page 'Time and Seasons' on 2023-09-20 00:00:21.636005
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'star' ...
+INFO:wiki:Found 'star' in 'Elves.md'
+INFO:wiki:Found 'star' in 'Avalon.md'
+INFO:wiki:Found 'star' in 'Revenants.md'
+INFO:wiki:Found 'star' in 'Sky-stone.md'
+INFO:wiki:Found 'star' in 'Children of Anubis.md'
+INFO:wiki:Found 'star' in 'Stars.md'
+INFO:wiki:Found 'star' in 'Starborn.md'
+INFO:wiki:Found 'star' in 'Celestial Forges.md'
+INFO:wiki:Found 'star' in 'Stalactites of Geth.md'
+INFO:wiki:Found 'star' in 'Campaign 2023.md'
+INFO:wiki:Found 'star' in 'Sarakiel.md'
+INFO:wiki:Found 'star' in 'Linas.md'
+INFO:wiki:Found 'star' in 'Time and Seasons.md'
+INFO:wiki:Found 'star' in 'Life and Death.md'
+INFO:wiki:Found 'star' in 'Humans.md'
+INFO:wiki:Found 'star' in 'Vyko.md'
+INFO:wiki:Found 'star' in 'Character Creation.md'
+INFO:wiki:Found 'star' in 'Hills of Gezzeri.md'
+INFO:wiki:Found 'star' in 'Free Colonies.md'
+INFO:wiki:Found 'star' in 'Zaelian.md'
+INFO:wiki:Found 'star' in 'Nebúlkano.md'
+INFO:wiki:Found 'star' in 'Gillykin.md'
+INFO:wiki:Found 'star' in 'Eidlenight Eight.md'
+INFO:wiki:Found 'star' in 'Parliament of Shadows.md'
+INFO:wiki:Found 'star' in 'Black Citadel.md'
+INFO:wiki:Found 'star' in 'Anderegnons.md'
+INFO:wiki:Found 'star' in 'Xynoth Azkonor.md'
+INFO:wiki:Found 'star' in 'Talents.md'
+INFO:wiki:Found 'star' in 'Grendel.md'
+INFO:wiki:Found 'star' in 'Races.md'
+INFO:wiki:Found 'star' in 'Cleverheart.md'
+INFO:wiki:Found 'star' in 'Vykus.md'
+INFO:wiki:Found 'star' in 'Gallows Giant.md'
+INFO:wiki:Found 'star' in 'Rusalka.md'
+INFO:wiki:Found 'star' in 'Astral Plane.md'
+INFO:wiki:Found 'star' in 'Nydus, the Black Sun.md'
+INFO:wiki:Found 'star' in 'Alaria.md'
+INFO:wiki:Found 'star' in 'Malstaris.md'
+INFO:wiki:Found 'star' in 'Elemental Planes.md'
+INFO:wiki:Found 'star' in 'Shades.md'
+INFO:wiki:Found 'star' in 'God's Court.md'
+INFO:wiki:Found 'star' in 'Ghosts.md'
+INFO:wiki:Found 'star' in 'Twilight Forest.md'
+INFO:wiki:Found 'star' in 'World Timeline.md'
+INFO:wiki:Found 'star' in 'Nydor.md'
+INFO:wiki:Found 'star' in 'Material Plane.md'
+INFO:wiki:Found 'star' in 'Star Hags.md'
+INFO:wiki:Found 'star' in 'Xaphkiel.md'
+INFO:wiki:Found 'star' in 'Push Off.md'
+INFO:wiki:Found 'star' in 'Battleweave.md'
+INFO:wiki:Found 'star' in 'Fate’s Mercy.md'
+INFO:wiki:Found 'star' in 'Dodge and Weave.md'
+INFO:wiki:Found 'star' in 'Choke.md'
+INFO:wiki:Found 'star' in 'Stargazer.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Celestial Forges.md' ...
+INFO:wiki:Showing HTML page >>> 'Celestial Forges'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Vyko.md' ...
+INFO:wiki:Showing HTML page >>> 'Vyko'
+INFO:wiki:Searching >>> 'x' ...
+INFO:wiki:Found 'x' in 'Roule.md'
+INFO:wiki:Found 'x' in 'Ohblex.md'
+INFO:wiki:Found 'x' in 'Elves.md'
+INFO:wiki:Found 'x' in 'Ix'Vasyla.md'
+INFO:wiki:Found 'x' in 'Foxborn.md'
+INFO:wiki:Found 'x' in 'Phirexes.md'
+INFO:wiki:Found 'x' in 'Echea.md'
+INFO:wiki:Found 'x' in 'Gates of Symbia.md'
+INFO:wiki:Found 'x' in 'Avalon.md'
+INFO:wiki:Found 'x' in 'Revenants.md'
+INFO:wiki:Found 'x' in 'L'coth D'hari.md'
+INFO:wiki:Found 'x' in 'Aldriktch Trade Alliance.md'
+INFO:wiki:Found 'x' in 'Tarn.md'
+INFO:wiki:Found 'x' in 'Danak.md'
+INFO:wiki:Found 'x' in 'Keth Esari.md'
+INFO:wiki:Found 'x' in 'Goblins.md'
+INFO:wiki:Found 'x' in 'Using the version control system.md'
+INFO:wiki:Found 'x' in 'Pseilemori.md'
+INFO:wiki:Found 'x' in 'Titanwurm.md'
+INFO:wiki:Found 'x' in 'King Samaryn.md'
+INFO:wiki:Found 'x' in 'Fylvrae Sylvrym.md'
+INFO:wiki:Found 'x' in 'Sky-stone.md'
+INFO:wiki:Found 'x' in 'Satyr.md'
+INFO:wiki:Found 'x' in 'States.md'
+INFO:wiki:Found 'x' in 'Kazül.md'
+INFO:wiki:Found 'x' in 'Besnoumeru.md'
+INFO:wiki:Found 'x' in 'Pain Walkers.md'
+INFO:wiki:Found 'x' in 'Phiora.md'
+INFO:wiki:Found 'x' in 'Xislmere.md'
+INFO:wiki:Found 'x' in 'Chulpe.md'
+INFO:wiki:Found 'x' in 'Cogheads.md'
+INFO:wiki:Found 'x' in 'Moigos.md'
+INFO:wiki:Found 'x' in 'Lizardfolk.md'
+INFO:wiki:Found 'x' in 'Zylogmus Eternus.md'
+INFO:wiki:Found 'x' in 'Goshwen.md'
+INFO:wiki:Found 'x' in 'Xyrionn.md'
+INFO:wiki:Found 'x' in 'Xi Chin.md'
+INFO:wiki:Found 'x' in 'Steppe of Aziirn.md'
+INFO:wiki:Found 'x' in 'Ekomorn.md'
+INFO:wiki:Found 'x' in 'Children of Anubis.md'
+INFO:wiki:Found 'x' in 'Wisgarrd.md'
+INFO:wiki:Found 'x' in 'Sivakr.md'
+INFO:wiki:Found 'x' in 'Pact of Barrik.md'
+INFO:wiki:Found 'x' in 'Stars.md'
+INFO:wiki:Found 'x' in 'Lyndwyrmspren.md'
+INFO:wiki:Found 'x' in 'Xoth.md'
+INFO:wiki:Found 'x' in 'Ix'Lorett.md'
+INFO:wiki:Found 'x' in 'Upoceax.md'
+INFO:wiki:Found 'x' in 'Nashua.md'
+INFO:wiki:Found 'x' in 'Planar Stack.md'
+INFO:wiki:Found 'x' in 'Dern.md'
+INFO:wiki:Found 'x' in 'Shazuihn.md'
+INFO:wiki:Found 'x' in 'Jae-Kai.md'
+INFO:wiki:Found 'x' in 'Lethos.md'
+INFO:wiki:Found 'x' in 'Chavux.md'
+INFO:wiki:Found 'x' in 'Movasi.md'
+INFO:wiki:Found 'x' in 'Whispering Sea.md'
+INFO:wiki:Found 'x' in 'Caerine.md'
+INFO:wiki:Found 'x' in 'Xibli.md'
+INFO:wiki:Found 'x' in 'Krell.md'
+INFO:wiki:Found 'x' in 'Pelican Isles.md'
+INFO:wiki:Found 'x' in 'Lier.md'
+INFO:wiki:Found 'x' in 'Glivornax.md'
+INFO:wiki:Found 'x' in 'Iylovia.md'
+INFO:wiki:Found 'x' in 'Argysis.md'
+INFO:wiki:Found 'x' in 'Azawahasi.md'
+INFO:wiki:Found 'x' in 'Lindworms.md'
+INFO:wiki:Found 'x' in 'Bzulakar.md'
+INFO:wiki:Found 'x' in 'Myorna.md'
+INFO:wiki:Found 'x' in 'Dwarves.md'
+INFO:wiki:Found 'x' in 'Terrogones.md'
+INFO:wiki:Found 'x' in 'Gül Mountains.md'
+INFO:wiki:Found 'x' in 'Eoga.md'
+INFO:wiki:Found 'x' in 'Trømgar.md'
+INFO:wiki:Found 'x' in 'Ryuj.md'
+INFO:wiki:Found 'x' in 'Obuje.md'
+INFO:wiki:Found 'x' in 'Sylthik.md'
+INFO:wiki:Found 'x' in 'Velwey.md'
+INFO:wiki:Found 'x' in 'Fieri.md'
+INFO:wiki:Found 'x' in 'Kona Morai.md'
+INFO:wiki:Found 'x' in 'Planar Races.md'
+INFO:wiki:Found 'x' in 'Fleimrut Mountains.md'
+INFO:wiki:Found 'x' in 'Anarak.md'
+INFO:wiki:Found 'x' in 'Sarakiel.md'
+INFO:wiki:Found 'x' in 'Pavik's Cave.md'
+INFO:wiki:Found 'x' in 'Yngli.md'
+INFO:wiki:Found 'x' in 'Ix'Tyrann.md'
+INFO:wiki:Found 'x' in 'Alisandra the Merciful.md'
+INFO:wiki:Found 'x' in 'Twyl.md'
+INFO:wiki:Found 'x' in 'Enimogos.md'
+INFO:wiki:Found 'x' in 'Glivornaxi.md'
+INFO:wiki:Found 'x' in 'Xica Rui.md'
+INFO:wiki:Found 'x' in 'Time and Seasons.md'
+INFO:wiki:Found 'x' in 'Tem Shyanna.md'
+INFO:wiki:Found 'x' in 'Shailin.md'
+INFO:wiki:Found 'x' in 'Advantage and Disadvantage.md'
+INFO:wiki:Found 'x' in 'Humans.md'
+INFO:wiki:Found 'x' in 'Qet Yemani.md'
+INFO:wiki:Found 'x' in 'Chaal Nazzerox.md'
+INFO:wiki:Found 'x' in 'Underrealms.md'
+INFO:wiki:Found 'x' in 'Swuigrach.md'
+INFO:wiki:Found 'x' in 'state_ex.md'
+INFO:wiki:Found 'x' in 'Elephant Groves.md'
+INFO:wiki:Found 'x' in 'Vyko.md'
+INFO:wiki:Found 'x' in 'Twaan.md'
+INFO:wiki:Found 'x' in 'Nektuna.md'
+INFO:wiki:Found 'x' in 'Currency.md'
+INFO:wiki:Found 'x' in 'Red Gold.md'
+INFO:wiki:Found 'x' in 'Rokunuri.md'
+INFO:wiki:Found 'x' in 'Tyberoskos.md'
+INFO:wiki:Found 'x' in 'Amverela.md'
+INFO:wiki:Found 'x' in 'Cherry Blossom River Valley.md'
+INFO:wiki:Found 'x' in 'Ayblek.md'
+INFO:wiki:Found 'x' in 'Character Creation.md'
+INFO:wiki:Found 'x' in 'Deva.md'
+INFO:wiki:Found 'x' in 'Keletus.md'
+INFO:wiki:Found 'x' in 'Skaag.md'
+INFO:wiki:Found 'x' in 'Hills of Gezzeri.md'
+INFO:wiki:Found 'x' in 'Knova.md'
+INFO:wiki:Found 'x' in 'Tsam'iynu.md'
+INFO:wiki:Found 'x' in 'Yorinthian.md'
+INFO:wiki:Found 'x' in 'Zintacas.md'
+INFO:wiki:Found 'x' in 'Ta Minn.md'
+INFO:wiki:Found 'x' in 'How to use the wiki.md'
+INFO:wiki:Found 'x' in 'Uline.md'
+INFO:wiki:Found 'x' in 'Shardmaw Isles.md'
+INFO:wiki:Found 'x' in 'Lacire.md'
+INFO:wiki:Found 'x' in 'Uhionai.md'
+INFO:wiki:Found 'x' in 'Dygon Beastlands.md'
+INFO:wiki:Found 'x' in 'Chronos.md'
+INFO:wiki:Found 'x' in 'Languages.md'
+INFO:wiki:Found 'x' in 'Piktiniti Desert.md'
+INFO:wiki:Found 'x' in 'Chimea.md'
+INFO:wiki:Found 'x' in 'Phaerhom.md'
+INFO:wiki:Found 'x' in 'Dwexes.md'
+INFO:wiki:Found 'x' in 'Rhea.md'
+INFO:wiki:Found 'x' in 'Camaran.md'
+INFO:wiki:Found 'x' in 'Zaelian.md'
+INFO:wiki:Found 'x' in 'Teflin.md'
+INFO:wiki:Found 'x' in 'Adron.md'
+INFO:wiki:Found 'x' in 'Da Trang.md'
+INFO:wiki:Found 'x' in 'Triton.md'
+INFO:wiki:Found 'x' in 'Grieb.md'
+INFO:wiki:Found 'x' in 'Astrelle.md'
+INFO:wiki:Found 'x' in 'Plains of Oblivion.md'
+INFO:wiki:Found 'x' in 'Ezuri.md'
+INFO:wiki:Found 'x' in 'Sharabha.md'
+INFO:wiki:Found 'x' in 'Xi'ivrach.md'
+INFO:wiki:Found 'x' in 'Jeh Bli.md'
+INFO:wiki:Found 'x' in 'Strolzaq.md'
+INFO:wiki:Found 'x' in 'Drasnian.md'
+INFO:wiki:Found 'x' in 'Loquine.md'
+INFO:wiki:Found 'x' in 'Oznak.md'
+INFO:wiki:Found 'x' in 'Ix'Meglyakuk.md'
+INFO:wiki:Found 'x' in 'Desert of One Million Shards.md'
+INFO:wiki:Found 'x' in 'Thespia.md'
+INFO:wiki:Found 'x' in 'Hephake.md'
+INFO:wiki:Found 'x' in 'Ythari.md'
+INFO:wiki:Found 'x' in 'Hooklings.md'
+INFO:wiki:Found 'x' in 'Nebúlkano.md'
+INFO:wiki:Found 'x' in 'Aureum.md'
+INFO:wiki:Found 'x' in 'Istora.md'
+INFO:wiki:Found 'x' in 'Gillykin.md'
+INFO:wiki:Found 'x' in 'The Guiltless.md'
+INFO:wiki:Found 'x' in 'Dragons' Teeth.md'
+INFO:wiki:Found 'x' in 'Shazuihni.md'
+INFO:wiki:Found 'x' in 'Old Tolaria.md'
+INFO:wiki:Found 'x' in 'Whitelings.md'
+INFO:wiki:Found 'x' in 'Kosko.md'
+INFO:wiki:Found 'x' in 'Skyways.md'
+INFO:wiki:Found 'x' in 'Smoky Hills.md'
+INFO:wiki:Found 'x' in 'Servants of Anubis.md'
+INFO:wiki:Found 'x' in 'Neka.md'
+INFO:wiki:Found 'x' in 'Gorath.md'
+INFO:wiki:Found 'x' in 'Blaize.md'
+INFO:wiki:Found 'x' in 'Sea of Sharks.md'
+INFO:wiki:Found 'x' in 'Tarkhon Empire.md'
+INFO:wiki:Found 'x' in 'Moon Wilds.md'
+INFO:wiki:Found 'x' in 'Kappa.md'
+INFO:wiki:Found 'x' in 'Anderegnons.md'
+INFO:wiki:Found 'x' in 'Blue Shale Peaks.md'
+INFO:wiki:Found 'x' in 'Ghouls.md'
+INFO:wiki:Found 'x' in 'Cirthikin.md'
+INFO:wiki:Found 'x' in 'Lusterwar.md'
+INFO:wiki:Found 'x' in 'Xeltri Plateau.md'
+INFO:wiki:Found 'x' in 'Sennites.md'
+INFO:wiki:Found 'x' in 'Etherweavers.md'
+INFO:wiki:Found 'x' in 'Mez.md'
+INFO:wiki:Found 'x' in 'Eros.md'
+INFO:wiki:Found 'x' in 'Minotaur.md'
+INFO:wiki:Found 'x' in 'Orcs.md'
+INFO:wiki:Found 'x' in 'Tykrenv.md'
+INFO:wiki:Found 'x' in 'Bognuts Swamp.md'
+INFO:wiki:Found 'x' in 'Hedroscobb.md'
+INFO:wiki:Found 'x' in 'Vel Ithagas.md'
+INFO:wiki:Found 'x' in 'Shyona.md'
+INFO:wiki:Found 'x' in 'Ansari.md'
+INFO:wiki:Found 'x' in 'Pixies.md'
+INFO:wiki:Found 'x' in 'Xynoth Azkonor.md'
+INFO:wiki:Found 'x' in 'Eloweir.md'
+INFO:wiki:Found 'x' in 'Faeja.md'
+INFO:wiki:Found 'x' in 'Talents.md'
+INFO:wiki:Found 'x' in 'Kyorda.md'
+INFO:wiki:Found 'x' in 'Races.md'
+INFO:wiki:Found 'x' in 'Xalahir.md'
+INFO:wiki:Found 'x' in 'Blitzling.md'
+INFO:wiki:Found 'x' in 'Chinayaqax Munaga.md'
+INFO:wiki:Found 'x' in 'Cleverheart.md'
+INFO:wiki:Found 'x' in 'Kaspion.md'
+INFO:wiki:Found 'x' in 'Free Isles.md'
+INFO:wiki:Found 'x' in 'Darklings.md'
+INFO:wiki:Found 'x' in 'Elnir.md'
+INFO:wiki:Found 'x' in 'Ulvsjael.md'
+INFO:wiki:Found 'x' in 'Naga.md'
+INFO:wiki:Found 'x' in 'Daemons.md'
+INFO:wiki:Found 'x' in 'Knives Mountains.md'
+INFO:wiki:Found 'x' in 'Turxis Golathi.md'
+INFO:wiki:Found 'x' in 'Xicrein.md'
+INFO:wiki:Found 'x' in 'Rusalka.md'
+INFO:wiki:Found 'x' in 'Glorin.md'
+INFO:wiki:Found 'x' in 'Thorum.md'
+INFO:wiki:Found 'x' in 'Halflings.md'
+INFO:wiki:Found 'x' in 'Druids.md'
+INFO:wiki:Found 'x' in 'Maps.md'
+INFO:wiki:Found 'x' in 'Lenora.md'
+INFO:wiki:Found 'x' in 'Kyth.md'
+INFO:wiki:Found 'x' in 'Tamadrez.md'
+INFO:wiki:Found 'x' in 'Mkinti.md'
+INFO:wiki:Found 'x' in 'Naruaghin.md'
+INFO:wiki:Found 'x' in 'Diamonds.md'
+INFO:wiki:Found 'x' in 'Icehearts.md'
+INFO:wiki:Found 'x' in 'Craven.md'
+INFO:wiki:Found 'x' in 'Grand Tolkarsus.md'
+INFO:wiki:Found 'x' in 'Deoric.md'
+INFO:wiki:Found 'x' in 'Alaria.md'
+INFO:wiki:Found 'x' in 'Malstaris.md'
+INFO:wiki:Found 'x' in 'Pyonokraus.md'
+INFO:wiki:Found 'x' in 'M'Svyla.md'
+INFO:wiki:Found 'x' in 'Phendexelas the Beautiful.md'
+INFO:wiki:Found 'x' in 'Sestros.md'
+INFO:wiki:Found 'x' in 'Bogies.md'
+INFO:wiki:Found 'x' in 'Atowatowa.md'
+INFO:wiki:Found 'x' in 'Silwyn.md'
+INFO:wiki:Found 'x' in 'Vystrilik.md'
+INFO:wiki:Found 'x' in 'Kor.md'
+INFO:wiki:Found 'x' in 'Scalawags.md'
+INFO:wiki:Found 'x' in 'Tikhaya.md'
+INFO:wiki:Found 'x' in 'Trollkin.md'
+INFO:wiki:Found 'x' in 'Benshu's Promise.md'
+INFO:wiki:Found 'x' in 'Everlong.md'
+INFO:wiki:Found 'x' in 'Belenstrope.md'
+INFO:wiki:Found 'x' in 'Forest of Statues.md'
+INFO:wiki:Found 'x' in 'Azuros.md'
+INFO:wiki:Found 'x' in 'Dryasa.md'
+INFO:wiki:Found 'x' in 'Atyeska.md'
+INFO:wiki:Found 'x' in 'Kerwin.md'
+INFO:wiki:Found 'x' in 'Celesté.md'
+INFO:wiki:Found 'x' in 'Stipen.md'
+INFO:wiki:Found 'x' in 'Surrey Mahaila.md'
+INFO:wiki:Found 'x' in 'Syvlius.md'
+INFO:wiki:Found 'x' in 'Magma Lizard.md'
+INFO:wiki:Found 'x' in 'White Wastes.md'
+INFO:wiki:Found 'x' in 'Sylke.md'
+INFO:wiki:Found 'x' in 'Ios.md'
+INFO:wiki:Found 'x' in 'Blood Mountains.md'
+INFO:wiki:Found 'x' in 'Dregas.md'
+INFO:wiki:Found 'x' in 'Bestacia.md'
+INFO:wiki:Found 'x' in 'Pity Knights.md'
+INFO:wiki:Found 'x' in 'Throatslit Mountains.md'
+INFO:wiki:Found 'x' in 'World Timeline.md'
+INFO:wiki:Found 'x' in 'United Free Nations.md'
+INFO:wiki:Found 'x' in 'Bzulakar's Keep.md'
+INFO:wiki:Found 'x' in 'Kyagos.md'
+INFO:wiki:Found 'x' in 'Cyclops.md'
+INFO:wiki:Found 'x' in 'Watar.md'
+INFO:wiki:Found 'x' in 'Nydor.md'
+INFO:wiki:Found 'x' in 'Rilyn.md'
+INFO:wiki:Found 'x' in 'Ubrik.md'
+INFO:wiki:Found 'x' in 'Dragons.md'
+INFO:wiki:Found 'x' in 'Erasnus.md'
+INFO:wiki:Found 'x' in 'Ipt.md'
+INFO:wiki:Found 'x' in 'Dengar.md'
+INFO:wiki:Found 'x' in 'Straker.md'
+INFO:wiki:Found 'x' in 'Myastor.md'
+INFO:wiki:Found 'x' in 'Mueras.md'
+INFO:wiki:Found 'x' in 'Instruxofinum.md'
+INFO:wiki:Found 'x' in 'Lorean.md'
+INFO:wiki:Found 'x' in 'Kuzagt.md'
+INFO:wiki:Found 'x' in 'Bynü Island Tribes.md'
+INFO:wiki:Found 'x' in 'Zelidia.md'
+INFO:wiki:Found 'x' in 'Kura.md'
+INFO:wiki:Found 'x' in 'Queen of Love.md'
+INFO:wiki:Found 'x' in 'Kethic Elementalism.md'
+INFO:wiki:Found 'x' in 'Weblin.md'
+INFO:wiki:Found 'x' in 'Foresaken of Anubis.md'
+INFO:wiki:Found 'x' in 'Gemecas.md'
+INFO:wiki:Found 'x' in 'Anthorlax.md'
+INFO:wiki:Found 'x' in 'Giants.md'
+INFO:wiki:Found 'x' in 'Neferati.md'
+INFO:wiki:Found 'x' in 'Shykasas.md'
+INFO:wiki:Found 'x' in 'Wytrolape.md'
+INFO:wiki:Found 'x' in 'Verucan.md'
+INFO:wiki:Found 'x' in 'Rakite.md'
+INFO:wiki:Found 'x' in 'Gruynmar.md'
+INFO:wiki:Found 'x' in 'Star Hags.md'
+INFO:wiki:Found 'x' in 'Xaphkiel.md'
+INFO:wiki:Found 'x' in 'Satyrn Gray.md'
+INFO:wiki:Found 'x' in 'Gnomes.md'
+INFO:wiki:Found 'x' in 'Vyanoweir.md'
+INFO:wiki:Found 'x' in 'Tornia.md'
+INFO:wiki:Found 'x' in 'Atriik.md'
+INFO:wiki:Found 'x' in 'Drifting Isles.md'
+INFO:wiki:Found 'x' in 'Neth.md'
+INFO:wiki:Found 'x' in 'Markdown cheatsheet.md'
+INFO:wiki:Found 'x' in 'Joswik.md'
+INFO:wiki:Found 'x' in 'Danaki.md'
+INFO:wiki:Found 'x' in 'New Chimea.md'
+INFO:wiki:Found 'x' in 'Drachma.md'
+INFO:wiki:Found 'x' in 'Witch Brewing.md'
+INFO:wiki:Found 'x' in 'Song of Desire.md'
+INFO:wiki:Found 'x' in 'Bloodlust.md'
+INFO:wiki:Found 'x' in 'Ballad of Björn.md'
+INFO:wiki:Found 'x' in 'Assassin.md'
+INFO:wiki:Found 'x' in 'Reflect.md'
+INFO:wiki:Found 'x' in 'Oracle.md'
+INFO:wiki:Found 'x' in 'Bloodoath.md'
+INFO:wiki:Found 'x' in 'Push Off.md'
+INFO:wiki:Found 'x' in 'Grip of the Kraken.md'
+INFO:wiki:Found 'x' in 'Battlefrenzy.md'
+INFO:wiki:Found 'x' in 'Song of Rage.md'
+INFO:wiki:Found 'x' in 'Perfect Defense.md'
+INFO:wiki:Found 'x' in 'Whispers of Madness.md'
+INFO:wiki:Found 'x' in 'Holmesian Logic.md'
+INFO:wiki:Found 'x' in 'Rejuvenate.md'
+INFO:wiki:Found 'x' in 'Phalanx.md'
+INFO:wiki:Found 'x' in 'First Strike.md'
+INFO:wiki:Found 'x' in 'Everything has a price.md'
+INFO:wiki:Found 'x' in 'Ancient Visions.md'
+INFO:wiki:Found 'x' in 'Backstab.md'
+INFO:wiki:Found 'x' in 'Dodge and Weave.md'
+INFO:wiki:Found 'x' in 'Boundless Fury.md'
+INFO:wiki:Found 'x' in 'Hulking.md'
+INFO:wiki:Found 'x' in 'Harass.md'
+INFO:wiki:Found 'x' in 'Last Stand.md'
+INFO:wiki:Found 'x' in 'Siren’s Song.md'
+INFO:wiki:Found 'x' in 'Staggering Blows.md'
+INFO:wiki:Found 'x' in 'Smooth Talker.md'
+INFO:wiki:Found 'x' in 'Glassy Touch.md'
+INFO:wiki:Found 'x' in 'Rope Servant.md'
+INFO:wiki:Found 'x' in 'Still Fresh.md'
+INFO:wiki:Found 'x' in 'Reckless Attack.md'
+INFO:wiki:Found 'x' in 'Druid’s Touch.md'
+INFO:wiki:Found 'x' in 'Nature’s Child.md'
+INFO:wiki:Found 'x' in 'Death mark.md'
+INFO:wiki:Found 'x' in 'Divine Weapon.md'
+INFO:wiki:Found 'x' in 'Take Advantage.md'
+INFO:wiki:Found 'x' in 'Beckon.md'
+INFO:wiki:Found 'x' in 'Explorer.md'
+INFO:wiki:Found 'x' in 'Fast Friends.md'
+INFO:wiki:Found 'x' in 'Brutal Criticals.md'
+INFO:wiki:Found 'x' in 'Cast Thoughts.md'
+INFO:wiki:Found 'x' in 'Juggernaut.md'
+INFO:wiki:Found 'x' in 'Dancing Fingers.md'
+INFO:wiki:Found 'x' in 'Waltz of the Weissenkauer.md'
+INFO:wiki:Found 'x' in 'Focused Fire.md'
+INFO:wiki:Found 'x' in 'Deoric Linguist.md'
+INFO:wiki:Found 'x' in 'Worldly Traveler.md'
+INFO:wiki:Found 'x' in 'Slippery.md'
+INFO:wiki:Found 'x' in 'Divine Consult.md'
+INFO:wiki:Found 'x' in 'Hate.md'
+INFO:wiki:Found 'x' in 'Battlescreech.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Phirexes.md' ...
+INFO:wiki:Showing HTML page >>> 'Phirexes'
+INFO:wiki:Searching >>> 'wing' ...
+INFO:wiki:Found 'wing' in 'College and University.md'
+INFO:wiki:Found 'wing' in 'Ix'Vasyla.md'
+INFO:wiki:Found 'wing' in 'Phirexes.md'
+INFO:wiki:Found 'wing' in 'Echea.md'
+INFO:wiki:Found 'wing' in 'Revenants.md'
+INFO:wiki:Found 'wing' in 'Aldriktch Trade Alliance.md'
+INFO:wiki:Found 'wing' in 'Pseilemori.md'
+INFO:wiki:Found 'wing' in 'Gloam.md'
+INFO:wiki:Found 'wing' in 'Pain Walkers.md'
+INFO:wiki:Found 'wing' in 'Cogheads.md'
+INFO:wiki:Found 'wing' in 'Archfalls.md'
+INFO:wiki:Found 'wing' in 'Wyverns.md'
+INFO:wiki:Found 'wing' in 'House of the Second Sun.md'
+INFO:wiki:Found 'wing' in 'Qindo.md'
+INFO:wiki:Found 'wing' in 'Stars.md'
+INFO:wiki:Found 'wing' in 'Chavux.md'
+INFO:wiki:Found 'wing' in 'Caerine.md'
+INFO:wiki:Found 'wing' in 'Krell.md'
+INFO:wiki:Found 'wing' in 'Azawahasi.md'
+INFO:wiki:Found 'wing' in 'Sarakiel.md'
+INFO:wiki:Found 'wing' in 'Ve.md'
+INFO:wiki:Found 'wing' in 'Ember Isles.md'
+INFO:wiki:Found 'wing' in 'Qet Yemani.md'
+INFO:wiki:Found 'wing' in 'Currency.md'
+INFO:wiki:Found 'wing' in 'Character Creation.md'
+INFO:wiki:Found 'wing' in 'Skaag.md'
+INFO:wiki:Found 'wing' in 'Tsam'iynu.md'
+INFO:wiki:Found 'wing' in 'Zaelian.md'
+INFO:wiki:Found 'wing' in 'Sharabha.md'
+INFO:wiki:Found 'wing' in 'Postronamas Empire.md'
+INFO:wiki:Found 'wing' in 'Sleepers.md'
+INFO:wiki:Found 'wing' in 'Aureum.md'
+INFO:wiki:Found 'wing' in 'Seyiki.md'
+INFO:wiki:Found 'wing' in 'Ghouls.md'
+INFO:wiki:Found 'wing' in 'Cirthikin.md'
+INFO:wiki:Found 'wing' in 'Etherweavers.md'
+INFO:wiki:Found 'wing' in 'Tykrenv.md'
+INFO:wiki:Found 'wing' in 'Demonwatch.md'
+INFO:wiki:Found 'wing' in 'Kryaaji.md'
+INFO:wiki:Found 'wing' in 'Pixies.md'
+INFO:wiki:Found 'wing' in 'Talents.md'
+INFO:wiki:Found 'wing' in 'Races.md'
+INFO:wiki:Found 'wing' in 'Cleverheart.md'
+INFO:wiki:Found 'wing' in 'Ulvsjael.md'
+INFO:wiki:Found 'wing' in 'Naga.md'
+INFO:wiki:Found 'wing' in 'Sunwing Peaks.md'
+INFO:wiki:Found 'wing' in 'Sprites.md'
+INFO:wiki:Found 'wing' in 'Craven.md'
+INFO:wiki:Found 'wing' in 'Forges of Phlethagoros.md'
+INFO:wiki:Found 'wing' in 'Atowatowa.md'
+INFO:wiki:Found 'wing' in 'Kor.md'
+INFO:wiki:Found 'wing' in 'Mudzwiti.md'
+INFO:wiki:Found 'wing' in 'Urzahd.md'
+INFO:wiki:Found 'wing' in 'Dinosaurs.md'
+INFO:wiki:Found 'wing' in 'Drakes.md'
+INFO:wiki:Found 'wing' in 'Denvil Iron Claw.md'
+INFO:wiki:Found 'wing' in 'Dragons.md'
+INFO:wiki:Found 'wing' in 'Dengar.md'
+INFO:wiki:Found 'wing' in 'Snagwing.md'
+INFO:wiki:Found 'wing' in 'Gymlstik.md'
+INFO:wiki:Found 'wing' in 'Frialve.md'
+INFO:wiki:Found 'wing' in 'Rakite.md'
+INFO:wiki:Found 'wing' in 'Xaphkiel.md'
+INFO:wiki:Found 'wing' in 'Neth.md'
+INFO:wiki:Found 'wing' in 'Danaki.md'
+INFO:wiki:Found 'wing' in 'Drachma.md'
+INFO:wiki:Found 'wing' in 'Witch Brewing.md'
+INFO:wiki:Found 'wing' in 'Assassin.md'
+INFO:wiki:Found 'wing' in 'Inspiring.md'
+INFO:wiki:Found 'wing' in 'Pinky Swear.md'
+INFO:wiki:Found 'wing' in 'Dual Wielder.md'
+INFO:wiki:Found 'wing' in 'Gambit.md'
+INFO:wiki:Found 'wing' in 'Cold Read.md'
+INFO:wiki:Found 'wing' in 'Druid’s Touch.md'
+INFO:wiki:Found 'wing' in 'Explorer.md'
+INFO:wiki:Found 'wing' in 'Nimble.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sarakiel.md' ...
+INFO:wiki:Showing HTML page >>> 'Sarakiel'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Stars.md' ...
+INFO:wiki:Showing HTML page >>> 'Stars'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Celestial Glass.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Starborn.md' ...
+INFO:wiki:Showing HTML page >>> 'Starborn'
+INFO:wiki:Saving >>> 'Starborn' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Starborn.md' ...
+INFO:wiki:Showing HTML page >>> 'Starborn'
+INFO:wiki:New git commit >>> Edit page 'Starborn' on 2023-09-20 00:02:19.728767
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'sun' ...
+INFO:wiki:Found 'sun' in 'Elves.md'
+INFO:wiki:Found 'sun' in 'House of the Second Sun.md'
+INFO:wiki:Found 'sun' in 'Stars.md'
+INFO:wiki:Found 'sun' in 'Lethos.md'
+INFO:wiki:Found 'sun' in 'Dwarves.md'
+INFO:wiki:Found 'sun' in 'Enimogos.md'
+INFO:wiki:Found 'sun' in 'Time and Seasons.md'
+INFO:wiki:Found 'sun' in 'Currency.md'
+INFO:wiki:Found 'sun' in 'Suns.md'
+INFO:wiki:Found 'sun' in 'Gilded Plains.md'
+INFO:wiki:Found 'sun' in 'Nemo.md'
+INFO:wiki:Found 'sun' in 'Aureum.md'
+INFO:wiki:Found 'sun' in 'Kryaaji.md'
+INFO:wiki:Found 'sun' in 'Murazi.md'
+INFO:wiki:Found 'sun' in 'Talents.md'
+INFO:wiki:Found 'sun' in 'Races.md'
+INFO:wiki:Found 'sun' in 'Xalahir.md'
+INFO:wiki:Found 'sun' in 'Sunwing Peaks.md'
+INFO:wiki:Found 'sun' in 'Astral Plane.md'
+INFO:wiki:Found 'sun' in 'Nydus, the Black Sun.md'
+INFO:wiki:Found 'sun' in 'Alaria.md'
+INFO:wiki:Found 'sun' in 'Malstaris.md'
+INFO:wiki:Found 'sun' in 'Hestrube.md'
+INFO:wiki:Found 'sun' in 'World Timeline.md'
+INFO:wiki:Found 'sun' in 'Nydor.md'
+INFO:wiki:Found 'sun' in 'Belagria.md'
+INFO:wiki:Found 'sun' in 'Sundering Blows.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Suns.md' ...
+INFO:wiki:Showing HTML page >>> 'Suns'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Bryn.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Saving >>> 'Bryn' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Bryn.md' ...
+INFO:wiki:Showing HTML page >>> 'Bryn'
+INFO:wiki:New git commit >>> Edit page 'Bryn' on 2023-09-20 00:06:55.117293
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Stars.md' ...
+INFO:wiki:Showing HTML page >>> 'Stars'
+INFO:wiki:Saving >>> 'Stars' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Stars.md' ...
+INFO:wiki:Showing HTML page >>> 'Stars'
+INFO:wiki:New git commit >>> Edit page 'Stars' on 2023-09-20 00:08:41.126582
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sarakiel.md' ...
+INFO:wiki:Showing HTML page >>> 'Sarakiel'
+INFO:wiki:Saving >>> 'Sarakiel' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sarakiel.md' ...
+INFO:wiki:Showing HTML page >>> 'Sarakiel'
+INFO:wiki:New git commit >>> Edit page 'Sarakiel' on 2023-09-20 00:09:16.720674
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Xaphkiel.md' ...
+INFO:wiki:Showing HTML page >>> 'Xaphkiel'
+INFO:wiki:Saving >>> 'Xaphkiel' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Xaphkiel.md' ...
+INFO:wiki:Showing HTML page >>> 'Xaphkiel'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Xaphkiel' on 2023-09-20 00:09:38.690499
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Xaphkiel' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Xaphkiel.md' ...
+INFO:wiki:Showing HTML page >>> 'Xaphkiel'
+INFO:wiki:New git commit >>> Edit page 'Xaphkiel' on 2023-09-20 00:10:15.088462
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Mosodori.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Saving >>> 'Mosodori' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Mosodori.md' ...
+INFO:wiki:Showing HTML page >>> 'Mosodori'
+INFO:wiki:New git commit >>> Edit page 'Mosodori' on 2023-09-20 00:10:30.461805
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Mosodori' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Mosodori.md' ...
+INFO:wiki:Showing HTML page >>> 'Mosodori'
+INFO:wiki:New git commit >>> Edit page 'Mosodori' on 2023-09-20 00:11:16.511028
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'seasons' ...
+INFO:wiki:Found 'seasons' in 'Avalon.md'
+INFO:wiki:Found 'seasons' in 'Time and Seasons.md'
+INFO:wiki:Found 'seasons' in 'Ta Minn.md'
+INFO:wiki:Found 'seasons' in 'Temptari.md'
+INFO:wiki:Found 'seasons' in 'Malstaris.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Time and Seasons.md' ...
+INFO:wiki:Showing HTML page >>> 'Time and Seasons'
+INFO:wiki:Saving >>> 'Time and Seasons' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Time and Seasons.md' ...
+INFO:wiki:Showing HTML page >>> 'Time and Seasons'
+INFO:wiki:New git commit >>> Edit page 'Time and Seasons' on 2023-09-20 17:05:03.616969
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Sea of Fools' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sea of Fools.md' ...
+INFO:wiki:Showing HTML page >>> 'Sea of Fools'
+INFO:wiki:New git commit >>> Add page 'Sea of Fools' on 2023-09-20 18:45:59.834369
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'aleve' ...
+INFO:wiki:Searching >>> 'floating island' ...
+INFO:wiki:Found 'floating island' in 'Astral Plane.md'
+INFO:wiki:Searching >>> 'seasons' ...
+INFO:wiki:Found 'seasons' in 'Avalon.md'
+INFO:wiki:Found 'seasons' in 'Time and Seasons.md'
+INFO:wiki:Found 'seasons' in 'Ta Minn.md'
+INFO:wiki:Found 'seasons' in 'Temptari.md'
+INFO:wiki:Found 'seasons' in 'Malstaris.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Time and Seasons.md' ...
+INFO:wiki:Showing HTML page >>> 'Time and Seasons'
+INFO:wiki:Searching >>> 'gnome' ...
+INFO:wiki:Found 'gnome' in 'Ohblex.md'
+INFO:wiki:Found 'gnome' in 'Foxborn.md'
+INFO:wiki:Found 'gnome' in 'Echea.md'
+INFO:wiki:Found 'gnome' in 'Goblins.md'
+INFO:wiki:Found 'gnome' in 'Bloodlings.md'
+INFO:wiki:Found 'gnome' in 'Cogheads.md'
+INFO:wiki:Found 'gnome' in 'Goshwen.md'
+INFO:wiki:Found 'gnome' in 'Pelican Isles.md'
+INFO:wiki:Found 'gnome' in 'Tyberoskos.md'
+INFO:wiki:Found 'gnome' in 'Tsam'iynu.md'
+INFO:wiki:Found 'gnome' in 'Ezuri.md'
+INFO:wiki:Found 'gnome' in 'Monsters.md'
+INFO:wiki:Found 'gnome' in 'Nekanzi Jungle.md'
+INFO:wiki:Found 'gnome' in 'Seyiki.md'
+INFO:wiki:Found 'gnome' in 'Whitelings.md'
+INFO:wiki:Found 'gnome' in 'Neka.md'
+INFO:wiki:Found 'gnome' in 'Ansari.md'
+INFO:wiki:Found 'gnome' in 'Races.md'
+INFO:wiki:Found 'gnome' in 'Cleverheart.md'
+INFO:wiki:Found 'gnome' in 'Qipi.md'
+INFO:wiki:Found 'gnome' in 'Mkinti.md'
+INFO:wiki:Found 'gnome' in 'United Free Nations.md'
+INFO:wiki:Found 'gnome' in 'Gnomes.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Gnomes.md' ...
+INFO:wiki:Showing HTML page >>> 'Gnomes'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Ohblex.md' ...
+INFO:wiki:Showing HTML page >>> 'Ohblex'
+INFO:wiki:Searching >>> 'edari' ...
+INFO:wiki:Found 'edari' in 'Ve.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Ve.md' ...
+INFO:wiki:Showing HTML page >>> 'Ve'
+INFO:wiki:Searching >>> 'koren' ...
+INFO:wiki:Found 'koren' in 'Koren.md'
+INFO:wiki:Found 'koren' in 'Races.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Koren.md' ...
+INFO:wiki:Showing HTML page >>> 'Koren'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Korel.md' ...
+INFO:wiki:Showing HTML page >>> 'Korel'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Kor.md' ...
+INFO:wiki:Showing HTML page >>> 'Kor'
+INFO:wiki:Searching >>> 'kor' ...
+INFO:wiki:Found 'kor' in 'Korel.md'
+INFO:wiki:Found 'kor' in 'Stars.md'
+INFO:wiki:Found 'kor' in 'Twaan.md'
+INFO:wiki:Found 'kor' in 'Korgül.md'
+INFO:wiki:Found 'kor' in 'Koren.md'
+INFO:wiki:Found 'kor' in 'Races.md'
+INFO:wiki:Found 'kor' in 'Kor.md'
+INFO:wiki:Found 'kor' in 'Atriik.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Atriik.md' ...
+INFO:wiki:Showing HTML page >>> 'Atriik'
+INFO:wiki:Saving >>> 'Atriik' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Atriik.md' ...
+INFO:wiki:Showing HTML page >>> 'Atriik'
+INFO:wiki:New git commit >>> Edit page 'Atriik' on 2023-09-22 18:23:29.346221
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'edari' ...
+INFO:wiki:Found 'edari' in 'Ve.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Ve.md' ...
+INFO:wiki:Showing HTML page >>> 'Ve'
+INFO:wiki:Saving >>> 'Ve' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Ve.md' ...
+INFO:wiki:Showing HTML page >>> 'Ve'
+INFO:wiki:New git commit >>> Edit page 'Ve' on 2023-09-22 18:23:46.561840
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Edari.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Edari' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Edari.md' ...
+INFO:wiki:Showing HTML page >>> 'Edari'
+INFO:wiki:New git commit >>> Edit page 'Edari' on 2023-09-22 18:24:20.100769
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'keshwindi' ...
+INFO:wiki:Searching >>> 'shyona' ...
+INFO:wiki:Found 'shyona' in 'Shontobi.md'
+INFO:wiki:Found 'shyona' in 'Ve.md'
+INFO:wiki:Found 'shyona' in 'Shyona.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Shyona.md' ...
+INFO:wiki:Showing HTML page >>> 'Shyona'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Shontobi.md' ...
+INFO:wiki:Showing HTML page >>> 'Shontobi'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sea of Fools.md' ...
+INFO:wiki:Showing HTML page >>> 'Sea of Fools'
+INFO:wiki:Saving >>> 'Keshwindi' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Keshwindi.md' ...
+INFO:wiki:Showing HTML page >>> 'Keshwindi'
+INFO:wiki:New git commit >>> Add page 'Keshwindi' on 2023-09-22 18:27:08.442869
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'gnotobi' ...
+INFO:wiki:Saving >>> 'Gnotobi' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Gnotobi.md' ...
+INFO:wiki:Showing HTML page >>> 'Gnotobi'
+INFO:wiki:New git commit >>> Add page 'Gnotobi' on 2023-09-22 18:37:16.740608
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Gnotobi' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Gnotobi.md' ...
+INFO:wiki:Showing HTML page >>> 'Gnotobi'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Gnotobi' on 2023-09-22 18:37:20.573547
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Gnotobi' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Gnotobi.md' ...
+INFO:wiki:Showing HTML page >>> 'Gnotobi'
+INFO:wiki:New git commit >>> Edit page 'Gnotobi' on 2023-09-22 18:39:40.581709
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Gnotobi' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Gnotobi.md' ...
+INFO:wiki:Showing HTML page >>> 'Gnotobi'
+INFO:wiki:New git commit >>> Edit page 'Gnotobi' on 2023-09-22 18:43:35.206591
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Orange Flake.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Orange Flake' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Orange Flake.md' ...
+INFO:wiki:Showing HTML page >>> 'Orange Flake'
+INFO:wiki:New git commit >>> Edit page 'Orange Flake' on 2023-09-22 18:44:08.373146
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'loquine' ...
+INFO:wiki:Found 'loquine' in 'Loquine.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Loquine.md' ...
+INFO:wiki:Showing HTML page >>> 'Loquine'
+INFO:wiki:Saving >>> 'Locquine' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Locquine.md' ...
+INFO:wiki:Showing HTML page >>> 'Locquine'
+INFO:wiki:New git commit >>> Edit page 'Locquine' on 2023-09-22 18:58:13.469325
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Ognarad's Cave' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Ognarad's Cave.md' ...
+INFO:wiki:Showing HTML page >>> 'Ognarad's Cave'
+INFO:wiki:New git commit >>> Add page 'Ognarad's Cave' on 2023-09-22 19:01:36.526690
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'sestros' ...
+INFO:wiki:Found 'sestros' in 'Ve.md'
+INFO:wiki:Found 'sestros' in 'Shailin.md'
+INFO:wiki:Found 'sestros' in 'Talressses.md'
+INFO:wiki:Found 'sestros' in 'Sestros.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sestros.md' ...
+INFO:wiki:Showing HTML page >>> 'Sestros'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Shailin.md' ...
+INFO:wiki:Showing HTML page >>> 'Shailin'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Daemons.md' ...
+INFO:wiki:Showing HTML page >>> 'Daemons'
+INFO:wiki:Searching >>> 'thaes' ...
+INFO:wiki:Found 'thaes' in 'Thaes.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Thaes.md' ...
+INFO:wiki:Showing HTML page >>> 'Thaes'
+INFO:wiki:Searching >>> 'bird' ...
+INFO:wiki:Found 'bird' in 'Zintacas.md'
+INFO:wiki:Found 'bird' in 'Tuskeselom.md'
+INFO:wiki:Found 'bird' in 'Roccy Hills.md'
+INFO:wiki:Found 'bird' in 'Neka.md'
+INFO:wiki:Found 'bird' in 'Tykrenv.md'
+INFO:wiki:Found 'bird' in 'Frialve.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tuskeselom.md' ...
+INFO:wiki:Showing HTML page >>> 'Tuskeselom'
+INFO:wiki:Saving >>> 'Daemons' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Daemons.md' ...
+INFO:wiki:Showing HTML page >>> 'Daemons'
+INFO:wiki:New git commit >>> Edit page 'Daemons' on 2023-09-22 19:21:13.737328
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Thaes.md' ...
+INFO:wiki:Showing HTML page >>> 'Thaes'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Iqes.md' ...
+INFO:wiki:Showing HTML page >>> 'Iqes'
+INFO:wiki:Searching >>> 'rodton' ...
+INFO:wiki:Found 'rodton' in 'Daemons.md'
+INFO:wiki:Found 'rodton' in 'Rodton.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Rodton.md' ...
+INFO:wiki:Showing HTML page >>> 'Rodton'
+INFO:wiki:Saving >>> 'Daemons' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Daemons.md' ...
+INFO:wiki:Showing HTML page >>> 'Daemons'
+INFO:wiki:New git commit >>> Edit page 'Daemons' on 2023-09-22 19:23:14.329136
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'sestros' ...
+INFO:wiki:Found 'sestros' in 'Ve.md'
+INFO:wiki:Found 'sestros' in 'Shailin.md'
+INFO:wiki:Found 'sestros' in 'Talressses.md'
+INFO:wiki:Found 'sestros' in 'Sestros.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sestros.md' ...
+INFO:wiki:Showing HTML page >>> 'Sestros'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Shailin.md' ...
+INFO:wiki:Showing HTML page >>> 'Shailin'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/States.md' ...
+INFO:wiki:Showing HTML page >>> 'States'
+INFO:wiki:Searching >>> 'state' ...
+INFO:wiki:Found 'state' in 'Istokos.md'
+INFO:wiki:Found 'state' in 'Roule.md'
+INFO:wiki:Found 'state' in 'Keshwindi.md'
+INFO:wiki:Found 'state' in 'Phirexes.md'
+INFO:wiki:Found 'state' in 'Echea.md'
+INFO:wiki:Found 'state' in 'Avalon.md'
+INFO:wiki:Found 'state' in 'L'coth D'hari.md'
+INFO:wiki:Found 'state' in 'Testing.md'
+INFO:wiki:Found 'state' in 'Tarn.md'
+INFO:wiki:Found 'state' in 'Danak.md'
+INFO:wiki:Found 'state' in 'Keth Esari.md'
+INFO:wiki:Found 'state' in 'Dustforge.md'
+INFO:wiki:Found 'state' in 'States.md'
+INFO:wiki:Found 'state' in 'Kazül.md'
+INFO:wiki:Found 'state' in 'Breia.md'
+INFO:wiki:Found 'state' in 'Blackport.md'
+INFO:wiki:Found 'state' in 'Phiora.md'
+INFO:wiki:Found 'state' in 'Dalizi Confederation.md'
+INFO:wiki:Found 'state' in 'Murth.md'
+INFO:wiki:Found 'state' in 'Hik.md'
+INFO:wiki:Found 'state' in 'Moigos.md'
+INFO:wiki:Found 'state' in 'Solhalven.md'
+INFO:wiki:Found 'state' in 'Xi Chin.md'
+INFO:wiki:Found 'state' in 'Vogenfeld.md'
+INFO:wiki:Found 'state' in 'Wisgarrd.md'
+INFO:wiki:Found 'state' in 'Xoth.md'
+INFO:wiki:Found 'state' in 'First Brotherhood.md'
+INFO:wiki:Found 'state' in 'Nashua.md'
+INFO:wiki:Found 'state' in 'Dern.md'
+INFO:wiki:Found 'state' in 'Shazuihn.md'
+INFO:wiki:Found 'state' in 'Lethos.md'
+INFO:wiki:Found 'state' in 'Melaia.md'
+INFO:wiki:Found 'state' in 'Movasi.md'
+INFO:wiki:Found 'state' in 'Lier.md'
+INFO:wiki:Found 'state' in 'Enapay.md'
+INFO:wiki:Found 'state' in 'Glivornax.md'
+INFO:wiki:Found 'state' in 'Iylovia.md'
+INFO:wiki:Found 'state' in 'Enymu.md'
+INFO:wiki:Found 'state' in 'Argysis.md'
+INFO:wiki:Found 'state' in 'Iques.md'
+INFO:wiki:Found 'state' in 'Azawahasi.md'
+INFO:wiki:Found 'state' in 'Myorna.md'
+INFO:wiki:Found 'state' in 'Iqes.md'
+INFO:wiki:Found 'state' in 'Sheîr.md'
+INFO:wiki:Found 'state' in 'Nguinzi.md'
+INFO:wiki:Found 'state' in 'Eoga.md'
+INFO:wiki:Found 'state' in 'Trømgar.md'
+INFO:wiki:Found 'state' in 'Ryuj.md'
+INFO:wiki:Found 'state' in 'Obuje.md'
+INFO:wiki:Found 'state' in 'Anarak.md'
+INFO:wiki:Found 'state' in 'Edari.md'
+INFO:wiki:Found 'state' in 'Linas.md'
+INFO:wiki:Found 'state' in 'Tenches.md'
+INFO:wiki:Found 'state' in 'Ve.md'
+INFO:wiki:Found 'state' in 'Sennos.md'
+INFO:wiki:Found 'state' in 'Mirko.md'
+INFO:wiki:Found 'state' in 'Grustos.md'
+INFO:wiki:Found 'state' in 'Qet Yemani.md'
+INFO:wiki:Found 'state' in 'Chaal Nazzerox.md'
+INFO:wiki:Found 'state' in 'state_ex.md'
+INFO:wiki:Found 'state' in 'Elephant Groves.md'
+INFO:wiki:Found 'state' in 'Nektuna.md'
+INFO:wiki:Found 'state' in 'Ayblek.md'
+INFO:wiki:Found 'state' in 'Keletus.md'
+INFO:wiki:Found 'state' in 'Balduahr.md'
+INFO:wiki:Found 'state' in 'Knova.md'
+INFO:wiki:Found 'state' in 'Tsam'iynu.md'
+INFO:wiki:Found 'state' in 'Zintacas.md'
+INFO:wiki:Found 'state' in 'Ta Minn.md'
+INFO:wiki:Found 'state' in 'Lacire.md'
+INFO:wiki:Found 'state' in 'Free Colonies.md'
+INFO:wiki:Found 'state' in 'Uhionai.md'
+INFO:wiki:Found 'state' in 'Vetral.md'
+INFO:wiki:Found 'state' in 'Languages.md'
+INFO:wiki:Found 'state' in 'Chimea.md'
+INFO:wiki:Found 'state' in 'Camaran.md'
+INFO:wiki:Found 'state' in 'Adron.md'
+INFO:wiki:Found 'state' in 'Enavadi.md'
+INFO:wiki:Found 'state' in 'Locquine.md'
+INFO:wiki:Found 'state' in 'Da Trang.md'
+INFO:wiki:Found 'state' in 'Grieb.md'
+INFO:wiki:Found 'state' in 'Astrelle.md'
+INFO:wiki:Found 'state' in 'Postronamas Empire.md'
+INFO:wiki:Found 'state' in 'Jeh Bli.md'
+INFO:wiki:Found 'state' in 'Thespia.md'
+INFO:wiki:Found 'state' in 'Hephake.md'
+INFO:wiki:Found 'state' in 'Istora.md'
+INFO:wiki:Found 'state' in 'Old Tolaria.md'
+INFO:wiki:Found 'state' in 'Seyiki.md'
+INFO:wiki:Found 'state' in 'Kosko.md'
+INFO:wiki:Found 'state' in 'Gorath.md'
+INFO:wiki:Found 'state' in 'Tarkhon Empire.md'
+INFO:wiki:Found 'state' in 'Xeltri Plateau.md'
+INFO:wiki:Found 'state' in 'Mez.md'
+INFO:wiki:Found 'state' in 'Eros.md'
+INFO:wiki:Found 'state' in 'Hedroscobb.md'
+INFO:wiki:Found 'state' in 'Shyona.md'
+INFO:wiki:Found 'state' in 'Talents.md'
+INFO:wiki:Found 'state' in 'Qintas.md'
+INFO:wiki:Found 'state' in 'Maun.md'
+INFO:wiki:Found 'state' in 'Kyorda.md'
+INFO:wiki:Found 'state' in 'Cleverheart.md'
+INFO:wiki:Found 'state' in 'Vykus.md'
+INFO:wiki:Found 'state' in 'Knives Mountains.md'
+INFO:wiki:Found 'state' in 'Glorin.md'
+INFO:wiki:Found 'state' in 'Thorum.md'
+INFO:wiki:Found 'state' in 'Blvnird.md'
+INFO:wiki:Found 'state' in 'Üod.md'
+INFO:wiki:Found 'state' in 'Lenora.md'
+INFO:wiki:Found 'state' in 'Tamadrez.md'
+INFO:wiki:Found 'state' in 'Mkinti.md'
+INFO:wiki:Found 'state' in 'Gnotobi.md'
+INFO:wiki:Found 'state' in 'Chechol.md'
+INFO:wiki:Found 'state' in 'Deoric.md'
+INFO:wiki:Found 'state' in 'Alaria.md'
+INFO:wiki:Found 'state' in 'Pyonokraus.md'
+INFO:wiki:Found 'state' in 'M'Svyla.md'
+INFO:wiki:Found 'state' in 'Sestros.md'
+INFO:wiki:Found 'state' in 'Silwyn.md'
+INFO:wiki:Found 'state' in 'Vystrilik.md'
+INFO:wiki:Found 'state' in 'Urzula.md'
+INFO:wiki:Found 'state' in 'Azuros.md'
+INFO:wiki:Found 'state' in 'Enuau Kemjallb.md'
+INFO:wiki:Found 'state' in 'Atyeska.md'
+INFO:wiki:Found 'state' in 'Kerwin.md'
+INFO:wiki:Found 'state' in 'Stipen.md'
+INFO:wiki:Found 'state' in 'Sylke.md'
+INFO:wiki:Found 'state' in 'Kadroka.md'
+INFO:wiki:Found 'state' in 'Ios.md'
+INFO:wiki:Found 'state' in 'Aal Salma.md'
+INFO:wiki:Found 'state' in 'Dregas.md'
+INFO:wiki:Found 'state' in 'Bestacia.md'
+INFO:wiki:Found 'state' in 'World Timeline.md'
+INFO:wiki:Found 'state' in 'United Free Nations.md'
+INFO:wiki:Found 'state' in 'Sweivyon.md'
+INFO:wiki:Found 'state' in 'Kyagos.md'
+INFO:wiki:Found 'state' in 'Watar.md'
+INFO:wiki:Found 'state' in 'Rilyn.md'
+INFO:wiki:Found 'state' in 'Ubrik.md'
+INFO:wiki:Found 'state' in 'Emblydium.md'
+INFO:wiki:Found 'state' in 'Wykakas.md'
+INFO:wiki:Found 'state' in 'Erasnus.md'
+INFO:wiki:Found 'state' in 'Windor.md'
+INFO:wiki:Found 'state' in 'Myastor.md'
+INFO:wiki:Found 'state' in 'Mueras.md'
+INFO:wiki:Found 'state' in 'Gymlstik.md'
+INFO:wiki:Found 'state' in 'Bynü Island Tribes.md'
+INFO:wiki:Found 'state' in 'Zelidia.md'
+INFO:wiki:Found 'state' in 'Kura.md'
+INFO:wiki:Found 'state' in 'Shykasas.md'
+INFO:wiki:Found 'state' in 'Rakite.md'
+INFO:wiki:Found 'state' in 'Poum-Titch.md'
+INFO:wiki:Found 'state' in 'Tornia.md'
+INFO:wiki:Found 'state' in 'Atriik.md'
+INFO:wiki:Found 'state' in 'Joswik.md'
+INFO:wiki:Found 'state' in 'Danaki.md'
+INFO:wiki:Found 'state' in 'New Chimea.md'
+INFO:wiki:Found 'state' in 'Focused Fire.md'
+INFO:wiki:Found 'state' in 'Keen Eye.md'
+INFO:wiki:Searching >>> 'blyss' ...
+INFO:wiki:Searching >>> 'grag' ...
+INFO:wiki:Found 'grag' in 'Campaign 2023.md'
+INFO:wiki:Found 'grag' in 'Gragunel.md'
+INFO:wiki:Searching >>> 'grag' ...
+INFO:wiki:Found 'grag' in 'Campaign 2023.md'
+INFO:wiki:Found 'grag' in 'Gragunel.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Gragunel.md' ...
+INFO:wiki:Showing HTML page >>> 'Gragunel'
+INFO:wiki:Saving >>> 'Sunshine Meadows' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sunshine Meadows.md' ...
+INFO:wiki:Showing HTML page >>> 'Sunshine Meadows'
+INFO:wiki:New git commit >>> Add page 'Sunshine Meadows' on 2023-09-23 11:18:00.336367
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Sunshine Meadows' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sunshine Meadows.md' ...
+INFO:wiki:Showing HTML page >>> 'Sunshine Meadows'
+INFO:wiki:New git commit >>> Edit page 'Sunshine Meadows' on 2023-09-23 11:18:27.706653
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Sunshine Meadows' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sunshine Meadows.md' ...
+INFO:wiki:Showing HTML page >>> 'Sunshine Meadows'
+INFO:wiki:New git commit >>> Edit page 'Sunshine Meadows' on 2023-09-23 11:19:13.429815
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'starfall' ...
+INFO:wiki:Saving >>> 'Bturi's Tomb' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Bturi's Tomb.md' ...
+INFO:wiki:Showing HTML page >>> 'Bturi's Tomb'
+INFO:wiki:New git commit >>> Add page 'Bturi's Tomb' on 2023-09-23 11:37:11.026182
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Tomb of Braggus Eternus' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tomb of Braggus Eternus.md' ...
+INFO:wiki:Showing HTML page >>> 'Tomb of Braggus Eternus'
+INFO:wiki:New git commit >>> Add page 'Tomb of Braggus Eternus' on 2023-09-23 11:37:45.472711
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Dungeon of Flowers' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dungeon of Flowers.md' ...
+INFO:wiki:Showing HTML page >>> 'Dungeon of Flowers'
+INFO:wiki:New git commit >>> Add page 'Dungeon of Flowers' on 2023-09-23 11:39:36.816732
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Spire of Ascension' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Spire of Ascension.md' ...
+INFO:wiki:Showing HTML page >>> 'Spire of Ascension'
+INFO:wiki:New git commit >>> Add page 'Spire of Ascension' on 2023-09-23 11:40:32.040835
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Spire of Ascension' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Spire of Ascension.md' ...
+INFO:wiki:Showing HTML page >>> 'Spire of Ascension'
+INFO:wiki:New git commit >>> Edit page 'Spire of Ascension' on 2023-09-23 11:41:05.465065
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'motionless' ...
+INFO:wiki:Found 'motionless' in 'Kor.md'
+INFO:wiki:Found 'motionless' in 'Trollkin.md'
+INFO:wiki:Found 'motionless' in 'Weblin.md'
+INFO:wiki:Saving >>> 'Motionless Meadows' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Motionless Meadows.md' ...
+INFO:wiki:Showing HTML page >>> 'Motionless Meadows'
+INFO:wiki:New git commit >>> Add page 'Motionless Meadows' on 2023-09-23 11:43:04.435176
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Showing HTML page >>> 'homepage'
+INFO:wiki:Converting to HTML with pandoc >>> 'homepage' ...
+INFO:wiki:Saving >>> 'Elo' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Elo.md' ...
+INFO:wiki:Showing HTML page >>> 'Elo'
+INFO:wiki:New git commit >>> Add page 'Elo' on 2023-09-23 12:11:35.520372
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/eloen.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Searching >>> 'Elo' ...
+INFO:wiki:Found 'Elo' in 'Roule.md'
+INFO:wiki:Found 'Elo' in 'Elves.md'
+INFO:wiki:Found 'Elo' in 'Phirexes.md'
+INFO:wiki:Found 'Elo' in 'Echea.md'
+INFO:wiki:Found 'Elo' in 'Avalon.md'
+INFO:wiki:Found 'Elo' in 'L'coth D'hari.md'
+INFO:wiki:Found 'Elo' in 'Tarn.md'
+INFO:wiki:Found 'Elo' in 'Danak.md'
+INFO:wiki:Found 'Elo' in 'Keth Esari.md'
+INFO:wiki:Found 'Elo' in 'Using the version control system.md'
+INFO:wiki:Found 'Elo' in 'Dustforge.md'
+INFO:wiki:Found 'Elo' in 'Kazül.md'
+INFO:wiki:Found 'Elo' in 'Breia.md'
+INFO:wiki:Found 'Elo' in 'Phiora.md'
+INFO:wiki:Found 'Elo' in 'Cogheads.md'
+INFO:wiki:Found 'Elo' in 'Moigos.md'
+INFO:wiki:Found 'Elo' in 'Elo.md'
+INFO:wiki:Found 'Elo' in 'Zylogmus Eternus.md'
+INFO:wiki:Found 'Elo' in 'Wisgarrd.md'
+INFO:wiki:Found 'Elo' in 'Xoth.md'
+INFO:wiki:Found 'Elo' in 'Nashua.md'
+INFO:wiki:Found 'Elo' in 'Dern.md'
+INFO:wiki:Found 'Elo' in 'Shazuihn.md'
+INFO:wiki:Found 'Elo' in 'Lethos.md'
+INFO:wiki:Found 'Elo' in 'Movasi.md'
+INFO:wiki:Found 'Elo' in 'Lyzine.md'
+INFO:wiki:Found 'Elo' in 'Gwyndolsong Mountains.md'
+INFO:wiki:Found 'Elo' in 'Lier.md'
+INFO:wiki:Found 'Elo' in 'Glivornax.md'
+INFO:wiki:Found 'Elo' in 'Iylovia.md'
+INFO:wiki:Found 'Elo' in 'Argysis.md'
+INFO:wiki:Found 'Elo' in 'Azawahasi.md'
+INFO:wiki:Found 'Elo' in 'Stalactites of Geth.md'
+INFO:wiki:Found 'Elo' in 'Myorna.md'
+INFO:wiki:Found 'Elo' in 'Sheîr.md'
+INFO:wiki:Found 'Elo' in 'Eoga.md'
+INFO:wiki:Found 'Elo' in 'Trømgar.md'
+INFO:wiki:Found 'Elo' in 'Ryuj.md'
+INFO:wiki:Found 'Elo' in 'Obuje.md'
+INFO:wiki:Found 'Elo' in 'Talathere.md'
+INFO:wiki:Found 'Elo' in 'Fieri.md'
+INFO:wiki:Found 'Elo' in 'Anarak.md'
+INFO:wiki:Found 'Elo' in 'Sarakiel.md'
+INFO:wiki:Found 'Elo' in 'Qet Yemani.md'
+INFO:wiki:Found 'Elo' in 'Underrealms.md'
+INFO:wiki:Found 'Elo' in 'state_ex.md'
+INFO:wiki:Found 'Elo' in 'Vyko.md'
+INFO:wiki:Found 'Elo' in 'Everwood.md'
+INFO:wiki:Found 'Elo' in 'Ayblek.md'
+INFO:wiki:Found 'Elo' in 'Character Creation.md'
+INFO:wiki:Found 'Elo' in 'Keletus.md'
+INFO:wiki:Found 'Elo' in 'Morelous.md'
+INFO:wiki:Found 'Elo' in 'Zintacas.md'
+INFO:wiki:Found 'Elo' in 'Ta Minn.md'
+INFO:wiki:Found 'Elo' in 'Lacire.md'
+INFO:wiki:Found 'Elo' in 'Uhionai.md'
+INFO:wiki:Found 'Elo' in 'Tuskeselom.md'
+INFO:wiki:Found 'Elo' in 'Languages.md'
+INFO:wiki:Found 'Elo' in 'Chimea.md'
+INFO:wiki:Found 'Elo' in 'Camaran.md'
+INFO:wiki:Found 'Elo' in 'Adron.md'
+INFO:wiki:Found 'Elo' in 'Da Trang.md'
+INFO:wiki:Found 'Elo' in 'Grieb.md'
+INFO:wiki:Found 'Elo' in 'Eivelorn.md'
+INFO:wiki:Found 'Elo' in 'Jeh Bli.md'
+INFO:wiki:Found 'Elo' in 'Thespia.md'
+INFO:wiki:Found 'Elo' in 'Hephake.md'
+INFO:wiki:Found 'Elo' in 'Hooklings.md'
+INFO:wiki:Found 'Elo' in 'Old Tolaria.md'
+INFO:wiki:Found 'Elo' in 'Kosko.md'
+INFO:wiki:Found 'Elo' in 'Gorath.md'
+INFO:wiki:Found 'Elo' in 'Stormfather.md'
+INFO:wiki:Found 'Elo' in 'Ghouls.md'
+INFO:wiki:Found 'Elo' in 'Mez.md'
+INFO:wiki:Found 'Elo' in 'Hedroscobb.md'
+INFO:wiki:Found 'Elo' in 'Vel Ithagas.md'
+INFO:wiki:Found 'Elo' in 'Shyona.md'
+INFO:wiki:Found 'Elo' in 'Eloweir.md'
+INFO:wiki:Found 'Elo' in 'Talents.md'
+INFO:wiki:Found 'Elo' in 'Kyorda.md'
+INFO:wiki:Found 'Elo' in 'Races.md'
+INFO:wiki:Found 'Elo' in 'Free Isles.md'
+INFO:wiki:Found 'Elo' in 'Naga.md'
+INFO:wiki:Found 'Elo' in 'Daemons.md'
+INFO:wiki:Found 'Elo' in 'Glorin.md'
+INFO:wiki:Found 'Elo' in 'Thorum.md'
+INFO:wiki:Found 'Elo' in 'Astral Plane.md'
+INFO:wiki:Found 'Elo' in 'Lenora.md'
+INFO:wiki:Found 'Elo' in 'Tamadrez.md'
+INFO:wiki:Found 'Elo' in 'Mkinti.md'
+INFO:wiki:Found 'Elo' in 'Deoric.md'
+INFO:wiki:Found 'Elo' in 'Songsilk.md'
+INFO:wiki:Found 'Elo' in 'Alaria.md'
+INFO:wiki:Found 'Elo' in 'Sestros.md'
+INFO:wiki:Found 'Elo' in 'Silwyn.md'
+INFO:wiki:Found 'Elo' in 'Vystrilik.md'
+INFO:wiki:Found 'Elo' in 'Kor.md'
+INFO:wiki:Found 'Elo' in 'Azuros.md'
+INFO:wiki:Found 'Elo' in 'Atyeska.md'
+INFO:wiki:Found 'Elo' in 'Stipen.md'
+INFO:wiki:Found 'Elo' in 'Sylke.md'
+INFO:wiki:Found 'Elo' in 'Ios.md'
+INFO:wiki:Found 'Elo' in 'Dregas.md'
+INFO:wiki:Found 'Elo' in 'Bestacia.md'
+INFO:wiki:Found 'Elo' in 'World Timeline.md'
+INFO:wiki:Found 'Elo' in 'United Free Nations.md'
+INFO:wiki:Found 'Elo' in 'Kyagos.md'
+INFO:wiki:Found 'Elo' in 'Watar.md'
+INFO:wiki:Found 'Elo' in 'Faesong.md'
+INFO:wiki:Found 'Elo' in 'Rilyn.md'
+INFO:wiki:Found 'Elo' in 'Ubrik.md'
+INFO:wiki:Found 'Elo' in 'Erasnus.md'
+INFO:wiki:Found 'Elo' in 'Dengar.md'
+INFO:wiki:Found 'Elo' in 'Myastor.md'
+INFO:wiki:Found 'Elo' in 'Mueras.md'
+INFO:wiki:Found 'Elo' in 'Siren Islands.md'
+INFO:wiki:Found 'Elo' in 'Gymlstik.md'
+INFO:wiki:Found 'Elo' in 'Zelidia.md'
+INFO:wiki:Found 'Elo' in 'Kura.md'
+INFO:wiki:Found 'Elo' in 'Kethic Elementalism.md'
+INFO:wiki:Found 'Elo' in 'Material Plane.md'
+INFO:wiki:Found 'Elo' in 'Shykasas.md'
+INFO:wiki:Found 'Elo' in 'Rakite.md'
+INFO:wiki:Found 'Elo' in 'Tornia.md'
+INFO:wiki:Found 'Elo' in 'Atriik.md'
+INFO:wiki:Found 'Elo' in 'Belagria.md'
+INFO:wiki:Found 'Elo' in 'Markdown cheatsheet.md'
+INFO:wiki:Found 'Elo' in 'Joswik.md'
+INFO:wiki:Found 'Elo' in 'New Chimea.md'
+INFO:wiki:Found 'Elo' in 'Song of Desire.md'
+INFO:wiki:Found 'Elo' in 'Ballad of Björn.md'
+INFO:wiki:Found 'Elo' in 'Hypnotic tune.md'
+INFO:wiki:Found 'Elo' in 'Hymn of Peace.md'
+INFO:wiki:Found 'Elo' in 'Song of Rage.md'
+INFO:wiki:Found 'Elo' in 'Song of Rest.md'
+INFO:wiki:Found 'Elo' in 'Call of Delorn.md'
+INFO:wiki:Found 'Elo' in 'Siren’s Song.md'
+INFO:wiki:Found 'Elo' in 'Poisonblade.md'
+INFO:wiki:Found 'Elo' in 'Divine Weapon.md'
+INFO:wiki:Found 'Elo' in 'Juggernaut.md'
+INFO:wiki:Found 'Elo' in 'Waltz of the Weissenkauer.md'
+INFO:wiki:Found 'Elo' in 'Poisoner.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Elo.md' ...
+INFO:wiki:Showing HTML page >>> 'Elo'
+INFO:wiki:Saving >>> 'Bathemiel' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Bathemiel.md' ...
+INFO:wiki:Showing HTML page >>> 'Bathemiel'
+INFO:wiki:New git commit >>> Add page 'Bathemiel' on 2023-09-23 16:10:04.360523
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'tomb of braggus' ...
+INFO:wiki:Found 'tomb of braggus' in 'Tomb of Braggus Eternus.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tomb of Braggus Eternus.md' ...
+INFO:wiki:Showing HTML page >>> 'Tomb of Braggus Eternus'
+INFO:wiki:Saving >>> 'Tomb of Braggus Solas' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tomb of Braggus Solas.md' ...
+INFO:wiki:Showing HTML page >>> 'Tomb of Braggus Solas'
+INFO:wiki:New git commit >>> Edit page 'Tomb of Braggus Solas' on 2023-09-23 16:10:18.768752
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'bturi' ...
+INFO:wiki:Found 'bturi' in 'Bturi's Tomb.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Bturi's Tomb.md' ...
+INFO:wiki:Showing HTML page >>> 'Bturi's Tomb'
+INFO:wiki:Searching >>> 'dungeon of flower' ...
+INFO:wiki:Found 'dungeon of flower' in 'Dungeon of Flowers.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dungeon of Flowers.md' ...
+INFO:wiki:Showing HTML page >>> 'Dungeon of Flowers'
+INFO:wiki:Saving >>> 'Dungeon of Flowers' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dungeon of Flowers.md' ...
+INFO:wiki:Showing HTML page >>> 'Dungeon of Flowers'
+INFO:wiki:New git commit >>> Edit page 'Dungeon of Flowers' on 2023-09-23 16:10:48.172599
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'motionless' ...
+INFO:wiki:Found 'motionless' in 'Motionless Meadows.md'
+INFO:wiki:Found 'motionless' in 'Kor.md'
+INFO:wiki:Found 'motionless' in 'Trollkin.md'
+INFO:wiki:Found 'motionless' in 'Weblin.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Motionless Meadows.md' ...
+INFO:wiki:Showing HTML page >>> 'Motionless Meadows'
+INFO:wiki:Saving >>> 'Sunshine Meadows' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sunshine Meadows.md' ...
+INFO:wiki:Showing HTML page >>> 'Sunshine Meadows'
+INFO:wiki:New git commit >>> Edit page 'Sunshine Meadows' on 2023-09-23 16:11:13.976671
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'stas' ...
+INFO:wiki:Searching >>> 'stars' ...
+INFO:wiki:Found 'stars' in 'Sky-stone.md'
+INFO:wiki:Found 'stars' in 'Stars.md'
+INFO:wiki:Found 'stars' in 'Starborn.md'
+INFO:wiki:Found 'stars' in 'Celestial Forges.md'
+INFO:wiki:Found 'stars' in 'Sarakiel.md'
+INFO:wiki:Found 'stars' in 'Time and Seasons.md'
+INFO:wiki:Found 'stars' in 'Vyko.md'
+INFO:wiki:Found 'stars' in 'Nebúlkano.md'
+INFO:wiki:Found 'stars' in 'Talents.md'
+INFO:wiki:Found 'stars' in 'Races.md'
+INFO:wiki:Found 'stars' in 'Astral Plane.md'
+INFO:wiki:Found 'stars' in 'Twilight Forest.md'
+INFO:wiki:Found 'stars' in 'Mosodori.md'
+INFO:wiki:Found 'stars' in 'Star Hags.md'
+INFO:wiki:Found 'stars' in 'Xaphkiel.md'
+INFO:wiki:Found 'stars' in 'Bryn.md'
+INFO:wiki:Found 'stars' in 'Stargazer.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Stars.md' ...
+INFO:wiki:Showing HTML page >>> 'Stars'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Astral Plane.md' ...
+INFO:wiki:Showing HTML page >>> 'Astral Plane'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Sky-stone.md' ...
+INFO:wiki:Showing HTML page >>> 'Sky-stone'
+INFO:wiki:Saving >>> 'Astral Plane' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Astral Plane.md' ...
+INFO:wiki:Showing HTML page >>> 'Astral Plane'
+INFO:wiki:New git commit >>> Edit page 'Astral Plane' on 2023-09-23 16:13:01.444306
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Astral Plane' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Astral Plane.md' ...
+INFO:wiki:Showing HTML page >>> 'Astral Plane'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Astral Plane' on 2023-09-23 16:13:19.672574
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Nydus, the Black Sun.md' ...
+INFO:wiki:Showing HTML page >>> 'Nydus, the Black Sun'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Aurus, the White Sun.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Searching >>> 'nydor' ...
+INFO:wiki:Found 'nydor' in 'Dwarves.md'
+INFO:wiki:Found 'nydor' in 'Time and Seasons.md'
+INFO:wiki:Found 'nydor' in 'Races.md'
+INFO:wiki:Found 'nydor' in 'Denvil Iron Claw.md'
+INFO:wiki:Found 'nydor' in 'Nydor.md'
+INFO:wiki:Found 'nydor' in 'Emblydium.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Nydor.md' ...
+INFO:wiki:Showing HTML page >>> 'Nydor'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Time and Seasons.md' ...
+INFO:wiki:Showing HTML page >>> 'Time and Seasons'
+INFO:wiki:Saving >>> 'Time and Seasons' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Time and Seasons.md' ...
+INFO:wiki:Showing HTML page >>> 'Time and Seasons'
+INFO:wiki:New git commit >>> Edit page 'Time and Seasons' on 2023-09-23 16:13:58.648588
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Time and Seasons' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Time and Seasons.md' ...
+INFO:wiki:Showing HTML page >>> 'Time and Seasons'
+INFO:wiki:New git commit >>> Edit page 'Time and Seasons' on 2023-09-23 16:14:20.858224
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Nydus, the Black Sun.md' ...
+INFO:wiki:Showing HTML page >>> 'Nydus, the Black Sun'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Aurus, the White Sun.md' ...
+INFO:wiki:source_file is not a valid path
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Time and Seasons.md' ...
+INFO:wiki:Showing HTML page >>> 'Time and Seasons'
+INFO:wiki:Showing HTML page >>> 'homepage'
+INFO:wiki:Converting to HTML with pandoc >>> 'homepage' ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Races.md' ...
+INFO:wiki:Showing HTML page >>> 'Races'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+INFO:wiki:Saving >>> 'Dwarves' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Dwarves' on 2023-09-23 17:52:08.974425
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Dwarves' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Dwarves' on 2023-09-23 17:57:33.184324
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+INFO:wiki:Saving >>> 'Dwarves' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+INFO:wiki:New git commit >>> Edit page 'Dwarves' on 2023-09-23 18:04:01.160432
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Dwarves' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Dwarves' on 2023-09-23 18:06:42.540035
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Dwarves' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Dwarves' on 2023-09-23 18:06:52.725781
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Dwarves' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Dwarves' on 2023-09-23 18:08:17.601594
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Dwarves' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+INFO:wiki:New git commit >>> Edit page 'Dwarves' on 2023-09-23 18:08:40.737447
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Saving >>> 'Dwarves' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+INFO:wiki:New git commit >>> Edit page 'Dwarves' on 2023-09-23 18:09:19.727528
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+INFO:wiki:Saving >>> 'Dwarves' ...
+INFO:wiki:Pulling from the repo >>> AlariaWiki ...
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Dwarves.md' ...
+INFO:wiki:Showing HTML page >>> 'Dwarves'
+ERROR:wiki:git commit failed >>> Cmd('git') failed due to: exit code(1)
+  cmdline: git commit -m Edit page 'Dwarves' on 2023-09-23 18:13:17.179661
+  stdout: 'On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean'
+INFO:wiki:Pushed to the repo.
+INFO:wiki:Searching >>> 'tag: dwarf' ...
+INFO:wiki:Searching >>> 'tag: state' ...
+INFO:wiki:Searching >>> 'tag: state' ...
+INFO:wiki:Searching >>> 'tag: state' ...
+ERROR:wiki:Error while searching >>> name 'root' is not defined
+ERROR:wiki:Error while searching >>> name 'root' is not defined
+ERROR:wiki:Error while searching >>> name 'root' is not defined
+ERROR:wiki:Error while searching >>> name 'root' is not defined
+INFO:wiki:Searching >>> 'tag: state' ...
+ERROR:wiki:Error while searching >>> name 'root' is not defined
+ERROR:wiki:Error while searching >>> name 'root' is not defined
+ERROR:wiki:Error while searching >>> name 'root' is not defined
+ERROR:wiki:Error while searching >>> name 'root' is not defined
+INFO:wiki:Searching >>> 'tag: state' ...
+INFO:wiki:Found 'tag: state' in 'Linas.md'
+INFO:wiki:Found 'tag: state' in 'Sennos.md'
+INFO:wiki:Found 'tag: state' in 'Mirko.md'
+INFO:wiki:Found 'tag: state' in 'Vykus.md'
+INFO:wiki:Searching >>> 'tag: race' ...
+INFO:wiki:Found 'tag: race' in 'Elnir.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Elnir.md' ...
+INFO:wiki:Showing HTML page >>> 'Elnir'
+INFO:wiki:Searching >>> 'tag: npc' ...
+INFO:wiki:Searching >>> 'tag: orc' ...
+INFO:wiki:Found 'tag: orc' in 'Tarni.md'
+INFO:wiki:Found 'tag: orc' in 'Glivornaxi.md'
+INFO:wiki:Found 'tag: orc' in 'Thrygun.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tarni.md' ...
+INFO:wiki:Showing HTML page >>> 'Tarni'
+INFO:wiki:Searching >>> 'tag: race' ...
+INFO:wiki:Found 'tag: race' in 'Elnir.md'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Elnir.md' ...
+INFO:wiki:Showing HTML page >>> 'Elnir'
+INFO:wiki:Converting to HTML with pandoc >>> 'AlariaWiki/Tarni.md' ...
+INFO:wiki:Showing HTML page >>> 'Tarni'
+INFO:wiki:Searching >>> 'tag: race' ...
+INFO:wiki:Found 'tag: race' in 'Elnir.md'
+INFO:wiki:Searching >>> 'tag: state' ...
+INFO:wiki:Found 'tag: state' in 'Linas.md'
+INFO:wiki:Found 'tag: state' in 'Sennos.md'
+INFO:wiki:Found 'tag: state' in 'Mirko.md'
+INFO:wiki:Found 'tag: state' in 'Vykus.md'
+INFO:wiki:Searching >>> 'tag: race' ...
+INFO:wiki:Found 'tag: race' in 'Elnir.md'
+INFO:wiki:Searching >>> 'race' ...
+INFO:wiki:Found 'race' in 'Bfaspeen.md'
+INFO:wiki:Found 'race' in 'Ohblex.md'
+INFO:wiki:Found 'race' in 'Elves.md'
+INFO:wiki:Found 'race' in 'Ix'Vasyla.md'
+INFO:wiki:Found 'race' in 'Tarni.md'
+INFO:wiki:Found 'race' in 'Foxborn.md'
+INFO:wiki:Found 'race' in 'Kendro.md'
+INFO:wiki:Found 'race' in 'Echea.md'
+INFO:wiki:Found 'race' in 'Revenants.md'
+INFO:wiki:Found 'race' in 'Silzar.md'
+INFO:wiki:Found 'race' in 'Goblins.md'
+INFO:wiki:Found 'race' in 'Qord'ik.md'
+INFO:wiki:Found 'race' in 'Tytheri.md'
+INFO:wiki:Found 'race' in 'Cendelle.md'
+INFO:wiki:Found 'race' in 'Satyr.md'
+INFO:wiki:Found 'race' in 'Grayls.md'
+INFO:wiki:Found 'race' in 'Windorf.md'
+INFO:wiki:Found 'race' in 'Chulpe.md'
+INFO:wiki:Found 'race' in 'Gyv.md'
+INFO:wiki:Found 'race' in 'Bloodlings.md'
+INFO:wiki:Found 'race' in 'Cogheads.md'
+INFO:wiki:Found 'race' in 'Lizardfolk.md'
+INFO:wiki:Found 'race' in 'Greater Satyr.md'
+INFO:wiki:Found 'race' in 'Goshwen.md'
+INFO:wiki:Found 'race' in 'Korel.md'
+INFO:wiki:Found 'race' in 'Shontobi.md'
+INFO:wiki:Found 'race' in 'Qindo.md'
+INFO:wiki:Found 'race' in 'Children of Anubis.md'
+INFO:wiki:Found 'race' in 'Sivakr.md'
+INFO:wiki:Found 'race' in 'Lyndwyrmspren.md'
+INFO:wiki:Found 'race' in 'Ix'Lorett.md'
+INFO:wiki:Found 'race' in 'Mnurvlyon.md'
+INFO:wiki:Found 'race' in 'Jae-Kai.md'
+INFO:wiki:Found 'race' in 'Starborn.md'
+INFO:wiki:Found 'race' in 'Lyzine.md'
+INFO:wiki:Found 'race' in 'Caerine.md'
+INFO:wiki:Found 'race' in 'Xibli.md'
+INFO:wiki:Found 'race' in 'Spindral.md'
+INFO:wiki:Found 'race' in 'Valkyries.md'
+INFO:wiki:Found 'race' in 'Tarnak.md'
+INFO:wiki:Found 'race' in 'Dwarves.md'
+INFO:wiki:Found 'race' in 'Terrogones.md'
+INFO:wiki:Found 'race' in 'Eoga.md'
+INFO:wiki:Found 'race' in 'Sylthik.md'
+INFO:wiki:Found 'race' in 'Velwey.md'
+INFO:wiki:Found 'race' in 'Fieri.md'
+INFO:wiki:Found 'race' in 'Planar Races.md'
+INFO:wiki:Found 'race' in 'Sarakiel.md'
+INFO:wiki:Found 'race' in 'Myushli.md'
+INFO:wiki:Found 'race' in 'Yngli.md'
+INFO:wiki:Found 'race' in 'Ix'Tyrann.md'
+INFO:wiki:Found 'race' in 'Syngers.md'
+INFO:wiki:Found 'race' in 'Glivornaxi.md'
+INFO:wiki:Found 'race' in 'Splinkreen.md'
+INFO:wiki:Found 'race' in 'Rakiten.md'
+INFO:wiki:Found 'race' in 'Shailin.md'
+INFO:wiki:Found 'race' in 'Troenka.md'
+INFO:wiki:Found 'race' in 'Humans.md'
+INFO:wiki:Found 'race' in 'Alekroin.md'
+INFO:wiki:Found 'race' in 'Megélren.md'
+INFO:wiki:Found 'race' in 'Swuigrach.md'
+INFO:wiki:Found 'race' in 'Vyko.md'
+INFO:wiki:Found 'race' in 'Twaan.md'
+INFO:wiki:Found 'race' in 'Nektuna.md'
+INFO:wiki:Found 'race' in 'Wispen.md'
+INFO:wiki:Found 'race' in 'Rokunuri.md'
+INFO:wiki:Found 'race' in 'Tyberoskos.md'
+INFO:wiki:Found 'race' in 'Amverela.md'
+INFO:wiki:Found 'race' in 'Belgron.md'
+INFO:wiki:Found 'race' in 'Ayblek.md'
+INFO:wiki:Found 'race' in 'Character Creation.md'
+INFO:wiki:Found 'race' in 'Deva.md'
+INFO:wiki:Found 'race' in 'Skaag.md'
+INFO:wiki:Found 'race' in 'Bledreon.md'
+INFO:wiki:Found 'race' in 'Yorinthian.md'
+INFO:wiki:Found 'race' in 'Gezzerin.md'
+INFO:wiki:Found 'race' in 'Uline.md'
+INFO:wiki:Found 'race' in 'Shyka.md'
+INFO:wiki:Found 'race' in 'Chargon.md'
+INFO:wiki:Found 'race' in 'Nemo.md'
+INFO:wiki:Found 'race' in 'Piktiniti Desert.md'
+INFO:wiki:Found 'race' in 'Rhea.md'
+INFO:wiki:Found 'race' in 'Zaelian.md'
+INFO:wiki:Found 'race' in 'Teflin.md'
+INFO:wiki:Found 'race' in 'Surry.md'
+INFO:wiki:Found 'race' in 'Dwarblin.md'
+INFO:wiki:Found 'race' in 'Triton.md'
+INFO:wiki:Found 'race' in 'Ezuri.md'
+INFO:wiki:Found 'race' in 'Sharabha.md'
+INFO:wiki:Found 'race' in 'Xi'ivrach.md'
+INFO:wiki:Found 'race' in 'Drasnian.md'
+INFO:wiki:Found 'race' in 'Oznak.md'
+INFO:wiki:Found 'race' in 'Ix'Meglyakuk.md'
+INFO:wiki:Found 'race' in 'Gamori.md'
+INFO:wiki:Found 'race' in 'Ythari.md'
+INFO:wiki:Found 'race' in 'Hooklings.md'
+INFO:wiki:Found 'race' in 'Nebúlkano.md'
+INFO:wiki:Found 'race' in 'Aureum.md'
+INFO:wiki:Found 'race' in 'Gillykin.md'
+INFO:wiki:Found 'race' in 'Wydlings.md'
+INFO:wiki:Found 'race' in 'The Guiltless.md'
+INFO:wiki:Found 'race' in 'Whitelings.md'
+INFO:wiki:Found 'race' in 'Cendoriln.md'
+INFO:wiki:Found 'race' in 'Servants of Anubis.md'
+INFO:wiki:Found 'race' in 'Neka.md'
+INFO:wiki:Found 'race' in 'Blaize.md'
+INFO:wiki:Found 'race' in 'Stone Men.md'
+INFO:wiki:Found 'race' in 'Kappa.md'
+INFO:wiki:Found 'race' in 'Ghouls.md'
+INFO:wiki:Found 'race' in 'Karchon.md'
+INFO:wiki:Found 'race' in 'Sennites.md'
+INFO:wiki:Found 'race' in 'Koren.md'
+INFO:wiki:Found 'race' in 'Temptari.md'
+INFO:wiki:Found 'race' in 'Etherweavers.md'
+INFO:wiki:Found 'race' in 'Firesworn.md'
+INFO:wiki:Found 'race' in 'Minotaur.md'
+INFO:wiki:Found 'race' in 'Tykrenv.md'
+INFO:wiki:Found 'race' in 'Stravlar.md'
+INFO:wiki:Found 'race' in 'ztest.md'
+INFO:wiki:Found 'race' in 'Kryaaji.md'
+INFO:wiki:Found 'race' in 'Ansari.md'
+INFO:wiki:Found 'race' in 'Eloweir.md'
+INFO:wiki:Found 'race' in 'Murazi.md'
+INFO:wiki:Found 'race' in 'Faeja.md'
+INFO:wiki:Found 'race' in 'Deadclaws.md'
+INFO:wiki:Found 'race' in 'Races.md'
+INFO:wiki:Found 'race' in 'Xalahir.md'
+INFO:wiki:Found 'race' in 'Blitzling.md'
+INFO:wiki:Found 'race' in 'Husakas.md'
+INFO:wiki:Found 'race' in 'Elnir.md'
+INFO:wiki:Found 'race' in 'Ulvsjael.md'
+INFO:wiki:Found 'race' in 'Naga.md'
+INFO:wiki:Found 'race' in 'Xicrein.md'
+INFO:wiki:Found 'race' in 'Rusalka.md'
+INFO:wiki:Found 'race' in 'Qipi.md'
+INFO:wiki:Found 'race' in 'Tuktuk.md'
+INFO:wiki:Found 'race' in 'Halflings.md'
+INFO:wiki:Found 'race' in 'Ogres.md'
+INFO:wiki:Found 'race' in 'Thrygun.md'
+INFO:wiki:Found 'race' in 'Greenskins.md'
+INFO:wiki:Found 'race' in 'Druids.md'
+INFO:wiki:Found 'race' in 'Nyolci.md'
+INFO:wiki:Found 'race' in 'Dwelyn.md'
+INFO:wiki:Found 'race' in 'Shapers.md'
+INFO:wiki:Found 'race' in 'Naruaghin.md'
+INFO:wiki:Found 'race' in 'Icehearts.md'
+INFO:wiki:Found 'race' in 'Craven.md'
+INFO:wiki:Found 'race' in 'Alaria.md'
+INFO:wiki:Found 'race' in 'Skree.md'
+INFO:wiki:Found 'race' in 'Sestros.md'
+INFO:wiki:Found 'race' in 'Bogies.md'
+INFO:wiki:Found 'race' in 'Dead Claw.md'
+INFO:wiki:Found 'race' in 'Kor.md'
+INFO:wiki:Found 'race' in 'Scalawags.md'
+INFO:wiki:Found 'race' in 'Tikhaya.md'
+INFO:wiki:Found 'race' in 'Trollkin.md'
+INFO:wiki:Found 'race' in 'Hestrube.md'
+INFO:wiki:Found 'race' in 'Mudzwiti.md'
+INFO:wiki:Found 'race' in 'Belenstrope.md'
+INFO:wiki:Found 'race' in 'Mira.md'
+INFO:wiki:Found 'race' in 'Nuun.md'
+INFO:wiki:Found 'race' in 'Wendi.md'
+INFO:wiki:Found 'race' in 'Kendrel.md'
+INFO:wiki:Found 'race' in 'Einwissel.md'
+INFO:wiki:Found 'race' in 'World Timeline.md'
+INFO:wiki:Found 'race' in 'United Free Nations.md'
+INFO:wiki:Found 'race' in 'Kyagos.md'
+INFO:wiki:Found 'race' in 'Cyclops.md'
+INFO:wiki:Found 'race' in 'Aciabro.md'
+INFO:wiki:Found 'race' in 'Ruddings.md'
+INFO:wiki:Found 'race' in 'Nydor.md'
+INFO:wiki:Found 'race' in 'Istori.md'
+INFO:wiki:Found 'race' in 'Dragons.md'
+INFO:wiki:Found 'race' in 'Lesser Satyr.md'
+INFO:wiki:Found 'race' in 'Dengar.md'
+INFO:wiki:Found 'race' in 'Swordsmen.md'
+INFO:wiki:Found 'race' in 'Lorean.md'
+INFO:wiki:Found 'race' in 'Kuzagt.md'
+INFO:wiki:Found 'race' in 'Rentar.md'
+INFO:wiki:Found 'race' in 'Weblin.md'
+INFO:wiki:Found 'race' in 'Foresaken of Anubis.md'
+INFO:wiki:Found 'race' in 'Kimril.md'
+INFO:wiki:Found 'race' in 'Giants.md'
+INFO:wiki:Found 'race' in 'Neferati.md'
+INFO:wiki:Found 'race' in 'Wytrolape.md'
+INFO:wiki:Found 'race' in 'Verucan.md'
+INFO:wiki:Found 'race' in 'Frialve.md'
+INFO:wiki:Found 'race' in 'Aleghi.md'
+INFO:wiki:Found 'race' in 'Gruynmar.md'
+INFO:wiki:Found 'race' in 'Star Hags.md'
+INFO:wiki:Found 'race' in 'Xaphkiel.md'
+INFO:wiki:Found 'race' in 'Zwaeron.md'
+INFO:wiki:Found 'race' in 'Kuru.md'
+INFO:wiki:Found 'race' in 'Gnomes.md'
+INFO:wiki:Found 'race' in 'Feriptus.md'
+INFO:wiki:Found 'race' in 'Vyanoweir.md'
+INFO:wiki:Found 'race' in 'Neth.md'
+INFO:wiki:Found 'race' in 'Danaki.md'
+INFO:wiki:Found 'race' in 'Drachma.md'
+INFO:wiki:Searching >>> 'tag: race' ...
+INFO:wiki:Found 'tag: race' in 'Elnir.md'
+INFO:wiki:Searching >>> 'tag: state' ...
+INFO:wiki:Searching >>> 'tag: state' ...
+INFO:wiki:Found 'tag: state' in 'Istokos.md'
+INFO:wiki:Found 'tag: state' in 'Roule.md'
+INFO:wiki:Found 'tag: state' in 'Keshwindi.md'
+INFO:wiki:Found 'tag: state' in 'Phirexes.md'
+INFO:wiki:Found 'tag: state' in 'Echea.md'
+INFO:wiki:Found 'tag: state' in 'Avalon.md'
+INFO:wiki:Found 'tag: state' in 'L'coth D'hari.md'
+INFO:wiki:Found 'tag: state' in 'Testing.md'
+INFO:wiki:Found 'tag: state' in 'Tarn.md'
+INFO:wiki:Found 'tag: state' in 'Danak.md'
+INFO:wiki:Found 'tag: state' in 'Keth Esari.md'
+INFO:wiki:Found 'tag: state' in 'Dustforge.md'
+INFO:wiki:Found 'tag: state' in 'States.md'
+INFO:wiki:Found 'tag: state' in 'Kazül.md'
+INFO:wiki:Found 'tag: state' in 'Breia.md'
+INFO:wiki:Found 'tag: state' in 'Blackport.md'
+INFO:wiki:Found 'tag: state' in 'Phiora.md'
+INFO:wiki:Found 'tag: state' in 'Dalizi Confederation.md'
+INFO:wiki:Found 'tag: state' in 'Murth.md'
+INFO:wiki:Found 'tag: state' in 'Hik.md'
+INFO:wiki:Found 'tag: state' in 'Moigos.md'
+INFO:wiki:Found 'tag: state' in 'Elo.md'
+INFO:wiki:Found 'tag: state' in 'Solhalven.md'
+INFO:wiki:Found 'tag: state' in 'Xi Chin.md'
+INFO:wiki:Found 'tag: state' in 'Vogenfeld.md'
+INFO:wiki:Found 'tag: state' in 'Wisgarrd.md'
+INFO:wiki:Found 'tag: state' in 'Xoth.md'
+INFO:wiki:Found 'tag: state' in 'Nashua.md'
+INFO:wiki:Found 'tag: state' in 'Dern.md'
+INFO:wiki:Found 'tag: state' in 'Shazuihn.md'
+INFO:wiki:Found 'tag: state' in 'Lethos.md'
+INFO:wiki:Found 'tag: state' in 'Melaia.md'
+INFO:wiki:Found 'tag: state' in 'Movasi.md'
+INFO:wiki:Found 'tag: state' in 'Lier.md'
+INFO:wiki:Found 'tag: state' in 'Enapay.md'
+INFO:wiki:Found 'tag: state' in 'Glivornax.md'
+INFO:wiki:Found 'tag: state' in 'Iylovia.md'
+INFO:wiki:Found 'tag: state' in 'Enymu.md'
+INFO:wiki:Found 'tag: state' in 'Argysis.md'
+INFO:wiki:Found 'tag: state' in 'Iques.md'
+INFO:wiki:Found 'tag: state' in 'Azawahasi.md'
+INFO:wiki:Found 'tag: state' in 'Myorna.md'
+INFO:wiki:Found 'tag: state' in 'Iqes.md'
+INFO:wiki:Found 'tag: state' in 'Sheîr.md'
+INFO:wiki:Found 'tag: state' in 'Nguinzi.md'
+INFO:wiki:Found 'tag: state' in 'Eoga.md'
+INFO:wiki:Found 'tag: state' in 'Trømgar.md'
+INFO:wiki:Found 'tag: state' in 'Ryuj.md'
+INFO:wiki:Found 'tag: state' in 'Obuje.md'
+INFO:wiki:Found 'tag: state' in 'Anarak.md'
+INFO:wiki:Found 'tag: state' in 'Edari.md'
+INFO:wiki:Found 'tag: state' in 'Linas.md'
+INFO:wiki:Found 'tag: state' in 'Tenches.md'
+INFO:wiki:Found 'tag: state' in 'Sennos.md'
+INFO:wiki:Found 'tag: state' in 'Mirko.md'
+INFO:wiki:Found 'tag: state' in 'Grustos.md'
+INFO:wiki:Found 'tag: state' in 'Qet Yemani.md'
+INFO:wiki:Found 'tag: state' in 'Chaal Nazzerox.md'
+INFO:wiki:Found 'tag: state' in 'state_ex.md'
+INFO:wiki:Found 'tag: state' in 'Nektuna.md'
+INFO:wiki:Found 'tag: state' in 'Ayblek.md'
+INFO:wiki:Found 'tag: state' in 'Keletus.md'
+INFO:wiki:Found 'tag: state' in 'Balduahr.md'
+INFO:wiki:Found 'tag: state' in 'Knova.md'
+INFO:wiki:Found 'tag: state' in 'Tsam'iynu.md'
+INFO:wiki:Found 'tag: state' in 'Zintacas.md'
+INFO:wiki:Found 'tag: state' in 'Ta Minn.md'
+INFO:wiki:Found 'tag: state' in 'Lacire.md'
+INFO:wiki:Found 'tag: state' in 'Free Colonies.md'
+INFO:wiki:Found 'tag: state' in 'Uhionai.md'
+INFO:wiki:Found 'tag: state' in 'Vetral.md'
+INFO:wiki:Found 'tag: state' in 'Chimea.md'
+INFO:wiki:Found 'tag: state' in 'Camaran.md'
+INFO:wiki:Found 'tag: state' in 'Adron.md'
+INFO:wiki:Found 'tag: state' in 'Enavadi.md'
+INFO:wiki:Found 'tag: state' in 'Locquine.md'
+INFO:wiki:Found 'tag: state' in 'Da Trang.md'
+INFO:wiki:Found 'tag: state' in 'Grieb.md'
+INFO:wiki:Found 'tag: state' in 'Astrelle.md'
+INFO:wiki:Found 'tag: state' in 'Postronamas Empire.md'
+INFO:wiki:Found 'tag: state' in 'Jeh Bli.md'
+INFO:wiki:Found 'tag: state' in 'Thespia.md'
+INFO:wiki:Found 'tag: state' in 'Hephake.md'
+INFO:wiki:Found 'tag: state' in 'Istora.md'
+INFO:wiki:Found 'tag: state' in 'Old Tolaria.md'
+INFO:wiki:Found 'tag: state' in 'Seyiki.md'
+INFO:wiki:Found 'tag: state' in 'Kosko.md'
+INFO:wiki:Found 'tag: state' in 'Gorath.md'
+INFO:wiki:Found 'tag: state' in 'Tarkhon Empire.md'
+INFO:wiki:Found 'tag: state' in 'Mez.md'
+INFO:wiki:Found 'tag: state' in 'Eros.md'
+INFO:wiki:Found 'tag: state' in 'Hedroscobb.md'
+INFO:wiki:Found 'tag: state' in 'Shyona.md'
+INFO:wiki:Found 'tag: state' in 'Qintas.md'
+INFO:wiki:Found 'tag: state' in 'Maun.md'
+INFO:wiki:Found 'tag: state' in 'Kyorda.md'
+INFO:wiki:Found 'tag: state' in 'Vykus.md'
+INFO:wiki:Found 'tag: state' in 'Glorin.md'
+INFO:wiki:Found 'tag: state' in 'Thorum.md'
+INFO:wiki:Found 'tag: state' in 'Blvnird.md'
+INFO:wiki:Found 'tag: state' in 'Üod.md'
+INFO:wiki:Found 'tag: state' in 'Lenora.md'
+INFO:wiki:Found 'tag: state' in 'Tamadrez.md'
+INFO:wiki:Found 'tag: state' in 'Mkinti.md'
+INFO:wiki:Found 'tag: state' in 'Gnotobi.md'
+INFO:wiki:Found 'tag: state' in 'Chechol.md'
+INFO:wiki:Found 'tag: state' in 'Pyonokraus.md'
+INFO:wiki:Found 'tag: state' in 'M'Svyla.md'
+INFO:wiki:Found 'tag: state' in 'Sestros.md'
+INFO:wiki:Found 'tag: state' in 'Silwyn.md'
+INFO:wiki:Found 'tag: state' in 'Vystrilik.md'
+INFO:wiki:Found 'tag: state' in 'Urzula.md'
+INFO:wiki:Found 'tag: state' in 'Azuros.md'
+INFO:wiki:Found 'tag: state' in 'Enuau Kemjallb.md'
+INFO:wiki:Found 'tag: state' in 'Atyeska.md'
+INFO:wiki:Found 'tag: state' in 'Kerwin.md'
+INFO:wiki:Found 'tag: state' in 'Stipen.md'
+INFO:wiki:Found 'tag: state' in 'Sylke.md'
+INFO:wiki:Found 'tag: state' in 'Kadroka.md'
+INFO:wiki:Found 'tag: state' in 'Ios.md'
+INFO:wiki:Found 'tag: state' in 'Aal Salma.md'
+INFO:wiki:Found 'tag: state' in 'Dregas.md'
+INFO:wiki:Found 'tag: state' in 'Bestacia.md'
+INFO:wiki:Found 'tag: state' in 'United Free Nations.md'
+INFO:wiki:Found 'tag: state' in 'Sweivyon.md'
+INFO:wiki:Found 'tag: state' in 'Kyagos.md'
+INFO:wiki:Found 'tag: state' in 'Watar.md'
+INFO:wiki:Found 'tag: state' in 'Rilyn.md'
+INFO:wiki:Found 'tag: state' in 'Ubrik.md'
+INFO:wiki:Found 'tag: state' in 'Emblydium.md'
+INFO:wiki:Found 'tag: state' in 'Wykakas.md'
+INFO:wiki:Found 'tag: state' in 'Erasnus.md'
+INFO:wiki:Found 'tag: state' in 'Windor.md'
+INFO:wiki:Found 'tag: state' in 'Myastor.md'
+INFO:wiki:Found 'tag: state' in 'Mueras.md'
+INFO:wiki:Found 'tag: state' in 'Gymlstik.md'
+INFO:wiki:Found 'tag: state' in 'Bynü Island Tribes.md'
+INFO:wiki:Found 'tag: state' in 'Zelidia.md'
+INFO:wiki:Found 'tag: state' in 'Kura.md'
+INFO:wiki:Found 'tag: state' in 'Shykasas.md'
+INFO:wiki:Found 'tag: state' in 'Rakite.md'
+INFO:wiki:Found 'tag: state' in 'Poum-Titch.md'
+INFO:wiki:Found 'tag: state' in 'Tornia.md'
+INFO:wiki:Found 'tag: state' in 'Atriik.md'
+INFO:wiki:Found 'tag: state' in 'Joswik.md'
+INFO:wiki:Found 'tag: state' in 'New Chimea.md'
+INFO:wiki:Searching >>> 'tag: race' ...
+INFO:wiki:Found 'tag: race' in 'Bfaspeen.md'
+INFO:wiki:Found 'tag: race' in 'Ohblex.md'
+INFO:wiki:Found 'tag: race' in 'Elves.md'
+INFO:wiki:Found 'tag: race' in 'Ix'Vasyla.md'
+INFO:wiki:Found 'tag: race' in 'Tarni.md'
+INFO:wiki:Found 'tag: race' in 'Foxborn.md'
+INFO:wiki:Found 'tag: race' in 'Kendro.md'
+INFO:wiki:Found 'tag: race' in 'Revenants.md'
+INFO:wiki:Found 'tag: race' in 'Silzar.md'
+INFO:wiki:Found 'tag: race' in 'Goblins.md'
+INFO:wiki:Found 'tag: race' in 'Qord'ik.md'
+INFO:wiki:Found 'tag: race' in 'Tytheri.md'
+INFO:wiki:Found 'tag: race' in 'Cendelle.md'
+INFO:wiki:Found 'tag: race' in 'Satyr.md'
+INFO:wiki:Found 'tag: race' in 'Grayls.md'
+INFO:wiki:Found 'tag: race' in 'Windorf.md'
+INFO:wiki:Found 'tag: race' in 'Chulpe.md'
+INFO:wiki:Found 'tag: race' in 'Gyv.md'
+INFO:wiki:Found 'tag: race' in 'Bloodlings.md'
+INFO:wiki:Found 'tag: race' in 'Cogheads.md'
+INFO:wiki:Found 'tag: race' in 'Lizardfolk.md'
+INFO:wiki:Found 'tag: race' in 'Greater Satyr.md'
+INFO:wiki:Found 'tag: race' in 'Goshwen.md'
+INFO:wiki:Found 'tag: race' in 'Korel.md'
+INFO:wiki:Found 'tag: race' in 'Shontobi.md'
+INFO:wiki:Found 'tag: race' in 'Qindo.md'
+INFO:wiki:Found 'tag: race' in 'Children of Anubis.md'
+INFO:wiki:Found 'tag: race' in 'Sivakr.md'
+INFO:wiki:Found 'tag: race' in 'Lyndwyrmspren.md'
+INFO:wiki:Found 'tag: race' in 'Ix'Lorett.md'
+INFO:wiki:Found 'tag: race' in 'Mnurvlyon.md'
+INFO:wiki:Found 'tag: race' in 'Jae-Kai.md'
+INFO:wiki:Found 'tag: race' in 'Starborn.md'
+INFO:wiki:Found 'tag: race' in 'Lyzine.md'
+INFO:wiki:Found 'tag: race' in 'Caerine.md'
+INFO:wiki:Found 'tag: race' in 'Xibli.md'
+INFO:wiki:Found 'tag: race' in 'Spindral.md'
+INFO:wiki:Found 'tag: race' in 'Valkyries.md'
+INFO:wiki:Found 'tag: race' in 'Tarnak.md'
+INFO:wiki:Found 'tag: race' in 'Dwarves.md'
+INFO:wiki:Found 'tag: race' in 'Terrogones.md'
+INFO:wiki:Found 'tag: race' in 'Velwey.md'
+INFO:wiki:Found 'tag: race' in 'Fieri.md'
+INFO:wiki:Found 'tag: race' in 'Planar Races.md'
+INFO:wiki:Found 'tag: race' in 'Sarakiel.md'
+INFO:wiki:Found 'tag: race' in 'Myushli.md'
+INFO:wiki:Found 'tag: race' in 'Yngli.md'
+INFO:wiki:Found 'tag: race' in 'Ix'Tyrann.md'
+INFO:wiki:Found 'tag: race' in 'Syngers.md'
+INFO:wiki:Found 'tag: race' in 'Glivornaxi.md'
+INFO:wiki:Found 'tag: race' in 'Splinkreen.md'
+INFO:wiki:Found 'tag: race' in 'Rakiten.md'
+INFO:wiki:Found 'tag: race' in 'Shailin.md'
+INFO:wiki:Found 'tag: race' in 'Troenka.md'
+INFO:wiki:Found 'tag: race' in 'Humans.md'
+INFO:wiki:Found 'tag: race' in 'Alekroin.md'
+INFO:wiki:Found 'tag: race' in 'Megélren.md'
+INFO:wiki:Found 'tag: race' in 'Swuigrach.md'
+INFO:wiki:Found 'tag: race' in 'Vyko.md'
+INFO:wiki:Found 'tag: race' in 'Twaan.md'
+INFO:wiki:Found 'tag: race' in 'Wispen.md'
+INFO:wiki:Found 'tag: race' in 'Rokunuri.md'
+INFO:wiki:Found 'tag: race' in 'Amverela.md'
+INFO:wiki:Found 'tag: race' in 'Belgron.md'
+INFO:wiki:Found 'tag: race' in 'Ayblek.md'
+INFO:wiki:Found 'tag: race' in 'Deva.md'
+INFO:wiki:Found 'tag: race' in 'Skaag.md'
+INFO:wiki:Found 'tag: race' in 'Bledreon.md'
+INFO:wiki:Found 'tag: race' in 'Yorinthian.md'
+INFO:wiki:Found 'tag: race' in 'Gezzerin.md'
+INFO:wiki:Found 'tag: race' in 'Uline.md'
+INFO:wiki:Found 'tag: race' in 'Shyka.md'
+INFO:wiki:Found 'tag: race' in 'Chargon.md'
+INFO:wiki:Found 'tag: race' in 'Nemo.md'
+INFO:wiki:Found 'tag: race' in 'Rhea.md'
+INFO:wiki:Found 'tag: race' in 'Zaelian.md'
+INFO:wiki:Found 'tag: race' in 'Teflin.md'
+INFO:wiki:Found 'tag: race' in 'Surry.md'
+INFO:wiki:Found 'tag: race' in 'Dwarblin.md'
+INFO:wiki:Found 'tag: race' in 'Triton.md'
+INFO:wiki:Found 'tag: race' in 'Ezuri.md'
+INFO:wiki:Found 'tag: race' in 'Sharabha.md'
+INFO:wiki:Found 'tag: race' in 'Xi'ivrach.md'
+INFO:wiki:Found 'tag: race' in 'Oznak.md'
+INFO:wiki:Found 'tag: race' in 'Ix'Meglyakuk.md'
+INFO:wiki:Found 'tag: race' in 'Gamori.md'
+INFO:wiki:Found 'tag: race' in 'Ythari.md'
+INFO:wiki:Found 'tag: race' in 'Hooklings.md'
+INFO:wiki:Found 'tag: race' in 'Aureum.md'
+INFO:wiki:Found 'tag: race' in 'Gillykin.md'
+INFO:wiki:Found 'tag: race' in 'Wydlings.md'
+INFO:wiki:Found 'tag: race' in 'The Guiltless.md'
+INFO:wiki:Found 'tag: race' in 'Whitelings.md'
+INFO:wiki:Found 'tag: race' in 'Cendoriln.md'
+INFO:wiki:Found 'tag: race' in 'Servants of Anubis.md'
+INFO:wiki:Found 'tag: race' in 'Neka.md'
+INFO:wiki:Found 'tag: race' in 'Blaize.md'
+INFO:wiki:Found 'tag: race' in 'Stone Men.md'
+INFO:wiki:Found 'tag: race' in 'Kappa.md'
+INFO:wiki:Found 'tag: race' in 'Ghouls.md'
+INFO:wiki:Found 'tag: race' in 'Karchon.md'
+INFO:wiki:Found 'tag: race' in 'Sennites.md'
+INFO:wiki:Found 'tag: race' in 'Koren.md'
+INFO:wiki:Found 'tag: race' in 'Temptari.md'
+INFO:wiki:Found 'tag: race' in 'Etherweavers.md'
+INFO:wiki:Found 'tag: race' in 'Firesworn.md'
+INFO:wiki:Found 'tag: race' in 'Minotaur.md'
+INFO:wiki:Found 'tag: race' in 'Tykrenv.md'
+INFO:wiki:Found 'tag: race' in 'Stravlar.md'
+INFO:wiki:Found 'tag: race' in 'ztest.md'
+INFO:wiki:Found 'tag: race' in 'Kryaaji.md'
+INFO:wiki:Found 'tag: race' in 'Ansari.md'
+INFO:wiki:Found 'tag: race' in 'Eloweir.md'
+INFO:wiki:Found 'tag: race' in 'Murazi.md'
+INFO:wiki:Found 'tag: race' in 'Faeja.md'
+INFO:wiki:Found 'tag: race' in 'Deadclaws.md'
+INFO:wiki:Found 'tag: race' in 'Xalahir.md'
+INFO:wiki:Found 'tag: race' in 'Blitzling.md'
+INFO:wiki:Found 'tag: race' in 'Husakas.md'
+INFO:wiki:Found 'tag: race' in 'Elnir.md'
+INFO:wiki:Found 'tag: race' in 'Ulvsjael.md'
+INFO:wiki:Found 'tag: race' in 'Naga.md'
+INFO:wiki:Found 'tag: race' in 'Xicrein.md'
+INFO:wiki:Found 'tag: race' in 'Rusalka.md'
+INFO:wiki:Found 'tag: race' in 'Qipi.md'
+INFO:wiki:Found 'tag: race' in 'Tuktuk.md'
+INFO:wiki:Found 'tag: race' in 'Halflings.md'
+INFO:wiki:Found 'tag: race' in 'Ogres.md'
+INFO:wiki:Found 'tag: race' in 'Thrygun.md'
+INFO:wiki:Found 'tag: race' in 'Greenskins.md'
+INFO:wiki:Found 'tag: race' in 'Druids.md'
+INFO:wiki:Found 'tag: race' in 'Nyolci.md'
+INFO:wiki:Found 'tag: race' in 'Dwelyn.md'
+INFO:wiki:Found 'tag: race' in 'Shapers.md'
+INFO:wiki:Found 'tag: race' in 'Naruaghin.md'
+INFO:wiki:Found 'tag: race' in 'Icehearts.md'
+INFO:wiki:Found 'tag: race' in 'Craven.md'
+INFO:wiki:Found 'tag: race' in 'Skree.md'
+INFO:wiki:Found 'tag: race' in 'Bogies.md'
+INFO:wiki:Found 'tag: race' in 'Dead Claw.md'
+INFO:wiki:Found 'tag: race' in 'Kor.md'
+INFO:wiki:Found 'tag: race' in 'Scalawags.md'
+INFO:wiki:Found 'tag: race' in 'Tikhaya.md'
+INFO:wiki:Found 'tag: race' in 'Trollkin.md'
+INFO:wiki:Found 'tag: race' in 'Hestrube.md'
+INFO:wiki:Found 'tag: race' in 'Mudzwiti.md'
+INFO:wiki:Found 'tag: race' in 'Belenstrope.md'
+INFO:wiki:Found 'tag: race' in 'Mira.md'
+INFO:wiki:Found 'tag: race' in 'Nuun.md'
+INFO:wiki:Found 'tag: race' in 'Wendi.md'
+INFO:wiki:Found 'tag: race' in 'Kendrel.md'
+INFO:wiki:Found 'tag: race' in 'Einwissel.md'
+INFO:wiki:Found 'tag: race' in 'Cyclops.md'
+INFO:wiki:Found 'tag: race' in 'Aciabro.md'
+INFO:wiki:Found 'tag: race' in 'Ruddings.md'
+INFO:wiki:Found 'tag: race' in 'Nydor.md'
+INFO:wiki:Found 'tag: race' in 'Istori.md'
+INFO:wiki:Found 'tag: race' in 'Lesser Satyr.md'
+INFO:wiki:Found 'tag: race' in 'Dengar.md'
+INFO:wiki:Found 'tag: race' in 'Swordsmen.md'
+INFO:wiki:Found 'tag: race' in 'Lorean.md'
+INFO:wiki:Found 'tag: race' in 'Kuzagt.md'
+INFO:wiki:Found 'tag: race' in 'Rentar.md'
+INFO:wiki:Found 'tag: race' in 'Weblin.md'
+INFO:wiki:Found 'tag: race' in 'Foresaken of Anubis.md'
+INFO:wiki:Found 'tag: race' in 'Giants.md'
+INFO:wiki:Found 'tag: race' in 'Neferati.md'
+INFO:wiki:Found 'tag: race' in 'Wytrolape.md'
+INFO:wiki:Found 'tag: race' in 'Verucan.md'
+INFO:wiki:Found 'tag: race' in 'Frialve.md'
+INFO:wiki:Found 'tag: race' in 'Aleghi.md'
+INFO:wiki:Found 'tag: race' in 'Gruynmar.md'
+INFO:wiki:Found 'tag: race' in 'Star Hags.md'
+INFO:wiki:Found 'tag: race' in 'Xaphkiel.md'
+INFO:wiki:Found 'tag: race' in 'Zwaeron.md'
+INFO:wiki:Found 'tag: race' in 'Kuru.md'
+INFO:wiki:Found 'tag: race' in 'Gnomes.md'
+INFO:wiki:Found 'tag: race' in 'Vyanoweir.md'
+INFO:wiki:Found 'tag: race' in 'Neth.md'
+INFO:wiki:Found 'tag: race' in 'Danaki.md'
+INFO:wiki:Found 'tag: race' in 'Drachma.md'
+INFO:wiki:Searching >>> 'tag: citystate' ...
+INFO:wiki:Found 'tag: citystate' in 'Keshwindi.md'
+INFO:wiki:Found 'tag: citystate' in 'Dustforge.md'
+INFO:wiki:Found 'tag: citystate' in 'Blackport.md'
+INFO:wiki:Found 'tag: citystate' in 'Hik.md'
+INFO:wiki:Found 'tag: citystate' in 'Elo.md'
+INFO:wiki:Found 'tag: citystate' in 'Xi Chin.md'
+INFO:wiki:Found 'tag: citystate' in 'Wisgarrd.md'
+INFO:wiki:Found 'tag: citystate' in 'Melaia.md'
+INFO:wiki:Found 'tag: citystate' in 'Linas.md'
+INFO:wiki:Found 'tag: citystate' in 'Sennos.md'
+INFO:wiki:Found 'tag: citystate' in 'Mirko.md'
+INFO:wiki:Found 'tag: citystate' in 'Tsam'iynu.md'
+INFO:wiki:Found 'tag: citystate' in 'Locquine.md'
+INFO:wiki:Found 'tag: citystate' in 'Jeh Bli.md'
+INFO:wiki:Found 'tag: citystate' in 'Maun.md'
+INFO:wiki:Found 'tag: citystate' in 'Vykus.md'
+INFO:wiki:Found 'tag: citystate' in 'Blvnird.md'
+INFO:wiki:Found 'tag: citystate' in 'Üod.md'
+INFO:wiki:Found 'tag: citystate' in 'Gnotobi.md'
+INFO:wiki:Found 'tag: citystate' in 'Enuau Kemjallb.md'
+INFO:wiki:Found 'tag: citystate' in 'Sweivyon.md'
+INFO:wiki:Searching >>> 'tag: race' ...
+INFO:wiki:Found 'tag: race' in 'Bfaspeen.md'
+INFO:wiki:Found 'tag: race' in 'Ohblex.md'
+INFO:wiki:Found 'tag: race' in 'Elves.md'
+INFO:wiki:Found 'tag: race' in 'Ix'Vasyla.md'
+INFO:wiki:Found 'tag: race' in 'Tarni.md'
+INFO:wiki:Found 'tag: race' in 'Foxborn.md'
+INFO:wiki:Found 'tag: race' in 'Kendro.md'
+INFO:wiki:Found 'tag: race' in 'Revenants.md'
+INFO:wiki:Found 'tag: race' in 'Silzar.md'
+INFO:wiki:Found 'tag: race' in 'Goblins.md'
+INFO:wiki:Found 'tag: race' in 'Qord'ik.md'
+INFO:wiki:Found 'tag: race' in 'Tytheri.md'
+INFO:wiki:Found 'tag: race' in 'Cendelle.md'
+INFO:wiki:Found 'tag: race' in 'Satyr.md'
+INFO:wiki:Found 'tag: race' in 'Grayls.md'
+INFO:wiki:Found 'tag: race' in 'Windorf.md'
+INFO:wiki:Found 'tag: race' in 'Chulpe.md'
+INFO:wiki:Found 'tag: race' in 'Gyv.md'
+INFO:wiki:Found 'tag: race' in 'Bloodlings.md'
+INFO:wiki:Found 'tag: race' in 'Cogheads.md'
+INFO:wiki:Found 'tag: race' in 'Lizardfolk.md'
+INFO:wiki:Found 'tag: race' in 'Greater Satyr.md'
+INFO:wiki:Found 'tag: race' in 'Goshwen.md'
+INFO:wiki:Found 'tag: race' in 'Korel.md'
+INFO:wiki:Found 'tag: race' in 'Shontobi.md'
+INFO:wiki:Found 'tag: race' in 'Qindo.md'
+INFO:wiki:Found 'tag: race' in 'Children of Anubis.md'
+INFO:wiki:Found 'tag: race' in 'Sivakr.md'
+INFO:wiki:Found 'tag: race' in 'Lyndwyrmspren.md'
+INFO:wiki:Found 'tag: race' in 'Ix'Lorett.md'
+INFO:wiki:Found 'tag: race' in 'Mnurvlyon.md'
+INFO:wiki:Found 'tag: race' in 'Jae-Kai.md'
+INFO:wiki:Found 'tag: race' in 'Starborn.md'
+INFO:wiki:Found 'tag: race' in 'Lyzine.md'
+INFO:wiki:Found 'tag: race' in 'Caerine.md'
+INFO:wiki:Found 'tag: race' in 'Xibli.md'
+INFO:wiki:Found 'tag: race' in 'Spindral.md'
+INFO:wiki:Found 'tag: race' in 'Valkyries.md'
+INFO:wiki:Found 'tag: race' in 'Tarnak.md'
+INFO:wiki:Found 'tag: race' in 'Dwarves.md'
+INFO:wiki:Found 'tag: race' in 'Terrogones.md'
+INFO:wiki:Found 'tag: race' in 'Velwey.md'
+INFO:wiki:Found 'tag: race' in 'Fieri.md'
+INFO:wiki:Found 'tag: race' in 'Planar Races.md'
+INFO:wiki:Found 'tag: race' in 'Sarakiel.md'
+INFO:wiki:Found 'tag: race' in 'Myushli.md'
+INFO:wiki:Found 'tag: race' in 'Yngli.md'
+INFO:wiki:Found 'tag: race' in 'Ix'Tyrann.md'
+INFO:wiki:Found 'tag: race' in 'Syngers.md'
+INFO:wiki:Found 'tag: race' in 'Glivornaxi.md'
+INFO:wiki:Found 'tag: race' in 'Splinkreen.md'
+INFO:wiki:Found 'tag: race' in 'Rakiten.md'
+INFO:wiki:Found 'tag: race' in 'Shailin.md'
+INFO:wiki:Found 'tag: race' in 'Troenka.md'
+INFO:wiki:Found 'tag: race' in 'Humans.md'
+INFO:wiki:Found 'tag: race' in 'Alekroin.md'
+INFO:wiki:Found 'tag: race' in 'Megélren.md'
+INFO:wiki:Found 'tag: race' in 'Swuigrach.md'
+INFO:wiki:Found 'tag: race' in 'Vyko.md'
+INFO:wiki:Found 'tag: race' in 'Twaan.md'
+INFO:wiki:Found 'tag: race' in 'Wispen.md'
+INFO:wiki:Found 'tag: race' in 'Rokunuri.md'
+INFO:wiki:Found 'tag: race' in 'Amverela.md'
+INFO:wiki:Found 'tag: race' in 'Belgron.md'
+INFO:wiki:Found 'tag: race' in 'Ayblek.md'
+INFO:wiki:Found 'tag: race' in 'Deva.md'
+INFO:wiki:Found 'tag: race' in 'Skaag.md'
+INFO:wiki:Found 'tag: race' in 'Bledreon.md'
+INFO:wiki:Found 'tag: race' in 'Yorinthian.md'
+INFO:wiki:Found 'tag: race' in 'Gezzerin.md'
+INFO:wiki:Found 'tag: race' in 'Uline.md'
+INFO:wiki:Found 'tag: race' in 'Shyka.md'
+INFO:wiki:Found 'tag: race' in 'Chargon.md'
+INFO:wiki:Found 'tag: race' in 'Nemo.md'
+INFO:wiki:Found 'tag: race' in 'Rhea.md'
+INFO:wiki:Found 'tag: race' in 'Zaelian.md'
+INFO:wiki:Found 'tag: race' in 'Teflin.md'
+INFO:wiki:Found 'tag: race' in 'Surry.md'
+INFO:wiki:Found 'tag: race' in 'Dwarblin.md'
+INFO:wiki:Found 'tag: race' in 'Triton.md'
+INFO:wiki:Found 'tag: race' in 'Ezuri.md'
+INFO:wiki:Found 'tag: race' in 'Sharabha.md'
+INFO:wiki:Found 'tag: race' in 'Xi'ivrach.md'
+INFO:wiki:Found 'tag: race' in 'Oznak.md'
+INFO:wiki:Found 'tag: race' in 'Ix'Meglyakuk.md'
+INFO:wiki:Found 'tag: race' in 'Gamori.md'
+INFO:wiki:Found 'tag: race' in 'Ythari.md'
+INFO:wiki:Found 'tag: race' in 'Hooklings.md'
+INFO:wiki:Found 'tag: race' in 'Aureum.md'
+INFO:wiki:Found 'tag: race' in 'Gillykin.md'
+INFO:wiki:Found 'tag: race' in 'Wydlings.md'
+INFO:wiki:Found 'tag: race' in 'The Guiltless.md'
+INFO:wiki:Found 'tag: race' in 'Whitelings.md'
+INFO:wiki:Found 'tag: race' in 'Cendoriln.md'
+INFO:wiki:Found 'tag: race' in 'Servants of Anubis.md'
+INFO:wiki:Found 'tag: race' in 'Neka.md'
+INFO:wiki:Found 'tag: race' in 'Blaize.md'
+INFO:wiki:Found 'tag: race' in 'Stone Men.md'
+INFO:wiki:Found 'tag: race' in 'Kappa.md'
+INFO:wiki:Found 'tag: race' in 'Ghouls.md'
+INFO:wiki:Found 'tag: race' in 'Karchon.md'
+INFO:wiki:Found 'tag: race' in 'Sennites.md'
+INFO:wiki:Found 'tag: race' in 'Koren.md'
+INFO:wiki:Found 'tag: race' in 'Temptari.md'
+INFO:wiki:Found 'tag: race' in 'Etherweavers.md'
+INFO:wiki:Found 'tag: race' in 'Firesworn.md'
+INFO:wiki:Found 'tag: race' in 'Minotaur.md'
+INFO:wiki:Found 'tag: race' in 'Tykrenv.md'
+INFO:wiki:Found 'tag: race' in 'Stravlar.md'
+INFO:wiki:Found 'tag: race' in 'ztest.md'
+INFO:wiki:Found 'tag: race' in 'Kryaaji.md'
+INFO:wiki:Found 'tag: race' in 'Ansari.md'
+INFO:wiki:Found 'tag: race' in 'Eloweir.md'
+INFO:wiki:Found 'tag: race' in 'Murazi.md'
+INFO:wiki:Found 'tag: race' in 'Faeja.md'
+INFO:wiki:Found 'tag: race' in 'Deadclaws.md'
+INFO:wiki:Found 'tag: race' in 'Xalahir.md'
+INFO:wiki:Found 'tag: race' in 'Blitzling.md'
+INFO:wiki:Found 'tag: race' in 'Husakas.md'
+INFO:wiki:Found 'tag: race' in 'Elnir.md'
+INFO:wiki:Found 'tag: race' in 'Ulvsjael.md'
+INFO:wiki:Found 'tag: race' in 'Naga.md'
+INFO:wiki:Found 'tag: race' in 'Xicrein.md'
+INFO:wiki:Found 'tag: race' in 'Rusalka.md'
+INFO:wiki:Found 'tag: race' in 'Qipi.md'
+INFO:wiki:Found 'tag: race' in 'Tuktuk.md'
+INFO:wiki:Found 'tag: race' in 'Halflings.md'
+INFO:wiki:Found 'tag: race' in 'Ogres.md'
+INFO:wiki:Found 'tag: race' in 'Thrygun.md'
+INFO:wiki:Found 'tag: race' in 'Greenskins.md'
+INFO:wiki:Found 'tag: race' in 'Druids.md'
+INFO:wiki:Found 'tag: race' in 'Nyolci.md'
+INFO:wiki:Found 'tag: race' in 'Dwelyn.md'
+INFO:wiki:Found 'tag: race' in 'Shapers.md'
+INFO:wiki:Found 'tag: race' in 'Naruaghin.md'
+INFO:wiki:Found 'tag: race' in 'Icehearts.md'
+INFO:wiki:Found 'tag: race' in 'Craven.md'
+INFO:wiki:Found 'tag: race' in 'Skree.md'
+INFO:wiki:Found 'tag: race' in 'Bogies.md'
+INFO:wiki:Found 'tag: race' in 'Dead Claw.md'
+INFO:wiki:Found 'tag: race' in 'Kor.md'
+INFO:wiki:Found 'tag: race' in 'Scalawags.md'
+INFO:wiki:Found 'tag: race' in 'Tikhaya.md'
+INFO:wiki:Found 'tag: race' in 'Trollkin.md'
+INFO:wiki:Found 'tag: race' in 'Hestrube.md'
+INFO:wiki:Found 'tag: race' in 'Mudzwiti.md'
+INFO:wiki:Found 'tag: race' in 'Belenstrope.md'
+INFO:wiki:Found 'tag: race' in 'Mira.md'
+INFO:wiki:Found 'tag: race' in 'Nuun.md'
+INFO:wiki:Found 'tag: race' in 'Wendi.md'
+INFO:wiki:Found 'tag: race' in 'Kendrel.md'
+INFO:wiki:Found 'tag: race' in 'Einwissel.md'
+INFO:wiki:Found 'tag: race' in 'Cyclops.md'
+INFO:wiki:Found 'tag: race' in 'Aciabro.md'
+INFO:wiki:Found 'tag: race' in 'Ruddings.md'
+INFO:wiki:Found 'tag: race' in 'Nydor.md'
+INFO:wiki:Found 'tag: race' in 'Istori.md'
+INFO:wiki:Found 'tag: race' in 'Lesser Satyr.md'
+INFO:wiki:Found 'tag: race' in 'Dengar.md'
+INFO:wiki:Found 'tag: race' in 'Swordsmen.md'
+INFO:wiki:Found 'tag: race' in 'Lorean.md'
+INFO:wiki:Found 'tag: race' in 'Kuzagt.md'
+INFO:wiki:Found 'tag: race' in 'Rentar.md'
+INFO:wiki:Found 'tag: race' in 'Weblin.md'
+INFO:wiki:Found 'tag: race' in 'Foresaken of Anubis.md'
+INFO:wiki:Found 'tag: race' in 'Giants.md'
+INFO:wiki:Found 'tag: race' in 'Neferati.md'
+INFO:wiki:Found 'tag: race' in 'Wytrolape.md'
+INFO:wiki:Found 'tag: race' in 'Verucan.md'
+INFO:wiki:Found 'tag: race' in 'Frialve.md'
+INFO:wiki:Found 'tag: race' in 'Aleghi.md'
+INFO:wiki:Found 'tag: race' in 'Gruynmar.md'
+INFO:wiki:Found 'tag: race' in 'Star Hags.md'
+INFO:wiki:Found 'tag: race' in 'Xaphkiel.md'
+INFO:wiki:Found 'tag: race' in 'Zwaeron.md'
+INFO:wiki:Found 'tag: race' in 'Kuru.md'
+INFO:wiki:Found 'tag: race' in 'Gnomes.md'
+INFO:wiki:Found 'tag: race' in 'Vyanoweir.md'
+INFO:wiki:Found 'tag: race' in 'Neth.md'
+INFO:wiki:Found 'tag: race' in 'Danaki.md'
+INFO:wiki:Found 'tag: race' in 'Drachma.md'
+INFO:wiki:Searching >>> 'tag: villain' ...
+INFO:wiki:Found 'tag: villain' in 'Xynoth Azkonor.md'
+INFO:wiki:Found 'tag: villain' in 'Edryss the Unsworn.md'
+INFO:wiki:Found 'tag: villain' in 'Feriptus.md'
+INFO:wiki:Searching >>> 'tag: npc' ...
+INFO:wiki:Found 'tag: npc' in 'Mordessa.md'
+INFO:wiki:Found 'tag: npc' in 'King Samaryn.md'
+INFO:wiki:Found 'tag: npc' in 'Bzulakar.md'
+INFO:wiki:Found 'tag: npc' in 'Alisandra the Merciful.md'
+INFO:wiki:Found 'tag: npc' in 'Red, the Screaming Blade.md'
+INFO:wiki:Found 'tag: npc' in 'Beshu's Court.md'
+INFO:wiki:Found 'tag: npc' in 'Gino the Terrible.md'
+INFO:wiki:Found 'tag: npc' in 'Xynoth Azkonor.md'
+INFO:wiki:Found 'tag: npc' in 'Awelde.md'
+INFO:wiki:Found 'tag: npc' in 'Timiru.md'
+INFO:wiki:Found 'tag: npc' in 'Queen Eranes.md'
+INFO:wiki:Found 'tag: npc' in 'Gihatti.md'
+INFO:wiki:Found 'tag: npc' in 'Gragunel.md'
+INFO:wiki:Found 'tag: npc' in 'Dryasa.md'
+INFO:wiki:Found 'tag: npc' in 'Denvil Iron Claw.md'
+INFO:wiki:Found 'tag: npc' in 'Bridger Blindeyes.md'
+INFO:wiki:Found 'tag: npc' in 'Edryss the Unsworn.md'
+INFO:wiki:Found 'tag: npc' in 'Versisi.md'
+INFO:wiki:Found 'tag: npc' in 'Feriptus.md'
+INFO:wiki:Searching >>> 'tag: desert' ...
+INFO:wiki:Found 'tag: desert' in 'Dunes of Kunagi.md'
+INFO:wiki:Found 'tag: desert' in 'Wastes of Dezolos.md'
+INFO:wiki:Found 'tag: desert' in 'Luquihn Desert.md'
+INFO:wiki:Found 'tag: desert' in 'Kona Morai.md'
+INFO:wiki:Found 'tag: desert' in 'Hills of Gezzeri.md'
+INFO:wiki:Found 'tag: desert' in 'Piktiniti Desert.md'
+INFO:wiki:Found 'tag: desert' in 'Scorches.md'
+INFO:wiki:Found 'tag: desert' in 'Desert of One Million Shards.md'
+INFO:wiki:Found 'tag: desert' in 'Anu'itiklik.md'
+INFO:wiki:Found 'tag: desert' in 'Deadwalk.md'
+INFO:wiki:Found 'tag: desert' in 'Shyalaviin.md'
