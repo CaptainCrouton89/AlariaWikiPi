@@ -59,10 +59,15 @@
 
     <script>
         document.addEventListener("keydown", function(e) {
-        if (e.keyCode === 69 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
-            e.preventDefault();
-            document.getElementById("submit-button").click();
-        }
+            if ((e.keyCode === 69 || e.keyCode === 83) && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+                e.preventDefault();
+                document.getElementById("submit-button").click();
+            }
+            if (e.keyCode === 66 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
+                e.preventDefault();
+                console.log("value")
+                document.getElementById("new-page-button").click();
+            }
         }, false);
 
     </script>

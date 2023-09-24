@@ -20,7 +20,7 @@
     <form id="form" method="POST">
         <div class="form-group mb-3 col-12" style="display: flex">
             <button type="submit" class="btn btn-success" style="margin-right: .5rem;">Save</button>
-            <input type="text" class="form-control" id="name" name="PN" value="{{title}}">
+            <input type="text" class="form-control" id="name" name="PN" autofocus value="{{title}}">
         </div>
         <div class="form-group mb-3">
             <textarea style="display: none; word-break: break-all;" class="form-control" id="content" rows="25" name="CT">{{content}}</textarea>
@@ -91,6 +91,5 @@
             form.submit();
         }
         }, false);
-
     </script>
 {% endblock %}
