@@ -81,6 +81,7 @@ def auto_link(filename):
             continue
         else:
             url = fin[link.start()+padding+1:index-1]
+            url = ' '.join(word[0].upper() + word[1:] for word in url.split())
             fin = fin[:index] + "(" + url + ")" + fin[index:]
             padding += len(url) + 2
                 
