@@ -1,7 +1,7 @@
 # wikmd configuration file
 
 wikmd_host: "0.0.0.0"
-wikmd_port: 80
+wikmd_port: 5501
 wikmd_logging: 1
 wikmd_logging_file: "wikmd.log"
 
