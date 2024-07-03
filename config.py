@@ -1,4 +1,5 @@
 import os
+
 import yaml
 
 WIKMD_CONFIG_FILE = __file__.replace("config.py", "wikmd-config.yaml")
