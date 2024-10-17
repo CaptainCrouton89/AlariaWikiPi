@@ -1,13 +1,168 @@
 {% extends 'base.html'%} {%block content%}
 
-<!-- <a style="float:right; padding-right:10px" href="/edit/homepage">
-    <button class="btn btn-primary my-2 my-sm-0" type="submit">
-        <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-pencil-square" viewBox="0 0 16 16">
-            <path d="M15.502 1.94a.5.5 0 0 1 0 .706L14.459 3.69l-2-2L13.502.646a.5.5 0 0 1 .707 0l1.293 1.293zm-1.75 2.456-2-2L4.939 9.21a.5.5 0 0 0-.121.196l-.805 2.414a.25.25 0 0 0 .316.316l2.414-.805a.5.5 0 0 0 .196-.12l6.813-6.814z"/>
-            <path fill-rule="evenodd" d="M1 13.5A1.5 1.5 0 0 0 2.5 15h11a1.5 1.5 0 0 0 1.5-1.5v-6a.5.5 0 0 0-1 0v6a.5.5 0 0 1-.5.5h-11a.5.5 0 0 1-.5-.5v-11a.5.5 0 0 1 .5-.5H9a.5.5 0 0 0 0-1H2.5A1.5 1.5 0 0 0 1 2.5v11z"/>
-        </svg>
-        Edit Homepage
-    </button>
-</a> -->
+<div class="container mt-3">
+  <h1>Alaria Wiki</h1>
 
+  <hr />
+  <p>
+    Welcome! This is the Almanac of <a href="Alaria">Alaria</a>—a guide to the
+    world of <a href="Alaria">Alaria</a>. It aims to provide enough information
+    to answer any of the Big Questions™ ranging all the way from “How does
+    <a href="Magic">magic</a> work?” down to “Why is this country at war with
+    this other country?” Hopefully you find it useful for whatever your needs
+    may be.
+  </p>
+  <p><strong>Common Pages</strong></p>
+  <ul>
+    <li><a href="Races">Races</a></li>
+    <li><a href="States">States</a></li>
+    <li><a href="Geography">Geography</a></li>
+    <li><a href="Traveling%20Encounters">Traveling Encounters</a></li>
+    <li><a href="Factions">Factions</a></li>
+    <li><a href="Monsters">Monsters</a></li>
+    <li><a href="Daemons">Daemons</a></li>
+    <li><a href="NPCs">NPCs</a></li>
+    <li><a href="Factions">Factions</a></li>
+  </ul>
+  <h1 id="campaigns">Campaigns</h1>
+  <p>A collection of different campaign ideas</p>
+  <ul>
+    <li>
+      <a href="Campaign%20-%20%5BRoule%5D(Roule)%20Invades"
+        >Accidentally invading a sovereign country</a
+      >
+    </li>
+  </ul>
+  <h1 id="about-alaria">About Alaria</h1>
+  <p>
+    The Alarian <a href="Planar%20Stack">Planar Stack</a>, also commonly known
+    as <a href="Alaria">Alaria</a>, is the focus of this almanac. Within it lie
+    several <a href="Planes">planes</a>, stacked on top of each other.
+  </p>
+  <h1 id="geography-of-the-planes">
+    <a href="Geography">Geography</a> of the <a href="Planes">Planes</a>
+  </h1>
+  <h2 id="material-plane">Material Plane</h2>
+  <p>
+    In the very middle is the <a href="Material%20Plane">Material Plane</a>—a
+    world of kingdoms and conquest and <a href="Magic">magic</a>, dominated by
+    typical masses of land and ocean. However, on the opposite side of the
+    <a href="Material%20Plane">Material Plane</a>—as though on the flip
+    side—lies <a href="Celesté">Celesté</a>: the realm of
+    <a href="Daemons">daemons</a>. It is a dream-like mirror image of the
+    material plane.
+  </p>
+  <h3 id="celesté"><a href="Celesté">Celesté</a></h3>
+  <p>
+    Celesté was created when the Alarian Planar Stack fragmented and Ezz poured
+    in from beyond. The material plane peeled apart and a new plane of
+    conceptual existence was born. Emotion, free will, and thought poured into
+    Alaria. Celesté is made of the coalescense of thought/emotion/etc on the
+    material plane. Where there is thought, there is a counterpart to the
+    material planes.
+  </p>
+  <hr />
+  <h2 id="astral-plane"><a href="Astral%20Plane">Astral Plane</a></h2>
+  <p>
+    “Above” the <a href="Material%20Plane">Material Plane</a> is the
+    <a href="Astral%20Plane">Astral Plane</a>. Although technically connected to
+    the Material Plane, it is quite distant from it, and the laws of physics and
+    nature are different. The <a href="Astral%20Plane">Astral Plane</a> is home
+    to <a href="Ghosts">ghosts</a>, and consists of small
+    <a href="Deserts">desert</a> islands scattered throughout a vast ocean under
+    a bright <a href="Aurus,%20the%20White%20Sun">white sun</a>. The spirit
+    cannot naturally survive here, but creatures exist here—just with weaker
+    free will. They are agents of Aurus, living pawns of his will.
+  </p>
+  <h3 id="astraeva"><a href="Astraeva">Astraeva</a></h3>
+  <p>
+    On the flip side of the <a href="Astral%20Plane">Astral Plane</a> is
+    <a href="Astraeva">Astraeva</a>. Astraeva mirrors the Astral Plane but is
+    devoid of souls. Aurus has no power here—spirits are weaker here—it is
+    nearly barren except for a few notable points of interest. Psyic energy
+    still exists here, but it is weak.
+  </p>
+  <hr />
+  <h2 id="malstaris"><a href="Malstaris">Malstaris</a></h2>
+  <p>
+    “Below” the Material Plane is <a href="Malstaris">Malstaris</a>—an intensely
+    dark, mountainous, ashen land filled with caves and covered with black
+    lakes. Like the <a href="Astral%20Plane">Astral Plane</a>, it is physically
+    connected to the Material Plane, but has different laws of nature, and is
+    fundamentally inhospitable to creatures that live on the Material Plane. The
+    spirit cannot naturally survive here, but creatures exist here—just with
+    weaker free will. They are agents of Nydus, living pawns of his will.
+  </p>
+  <h3 id="eindumor"><a href="Eindumor">Eindumor</a></h3>
+  <p>
+    On its flip side of Malstaris is <a href="Eindumor">Eindumor</a>. Eindumor
+    mirrors Malstaris but is devoid of shadows. Nydus has no power here—spirits
+    are weaker here—it is nearly barren except for a few notable points of
+    interest. Psyic energy still exists here, but it is weak.
+  </p>
+  <hr />
+  <h2 id="elemental-planes">Elemental Planes</h2>
+  <p>
+    In addition to these planes, there are nine planes of the primary elements,
+    known as the <a href="Elemental%20Planes">elemental planes</a>, each thinly
+    overlayed on the top sides of the three main layers.
+  </p>
+  <h2 id="ethereal-and-nethereal-planes">Ethereal and Nethereal Planes</h2>
+  <p>
+    Lastly, there are two very faint planes that overlay all of the rest of the
+    planes—the <a href="Ethereal%20Plane">Ethereal</a> and
+    <a href="Nethereal%20Plane">Nethereal</a> Planes. Physical objects do not
+    exist in these planes, but elements of ones
+    <a href="Life%20and%20Death">spirit</a>, among other types of energy, can be
+    found on these planes.
+  </p>
+  <hr />
+  <h2 id="planar-travel">Planar Travel</h2>
+  <p>
+    Many of the planes are physically connected to one another, although their
+    connections do not always obey Euclidean laws of geometry.
+  </p>
+  <p>
+    Each plane is a square, meaning that each plane has four sides where the
+    plane ends. Crossing any one of these borders results in flipping to the
+    “opposite” side of that plane. For exmaple, if you were on the Material
+    Plane, upon reaching the edge of the ocean, you could continue travling that
+    direction but now be traveling back towards land (as though mirrored) and
+    now in <a href="Celesté">Celesté</a>.
+  </p>
+  <p>
+    Likewise, traveling to the border north, south, west, or eastern border of
+    <a href="Malstaris">Malstaris</a> would take you to Eindumor.
+  </p>
+  <p>
+    Traveling between the Material Plane and the Astral Plane or
+    <a href="Malstaris">Malstaris</a> requires vertical distance, as opposed to
+    horizontal. The sky of the Material Plane is the furthest abysses of the
+    Astral sea. As you travel up higher and higher, the air becomes ocean, and
+    eventually you reach the Astral Plane. Similarly, to reach Malstaris, one
+    must travel up through the Crags of Geth in Phlethagoras until one
+    eventually reaches the surface again, on Malstaris.
+  </p>
+  <p>
+    Getting to the other <a href="Planes">planes</a> is more difficult, and
+    usually completely incompatible with one’s survival. Although some people
+    can channel power from the
+    <a href="Elemental%20Planes">elemental planes</a>, and others can see or
+    dream on the Ethereal or Nethereal <a href="Planes">Planes</a>, none can
+    sustain <a href="Life%20and%20Death">spirit</a>,
+    <a href="Life%20and%20Death">soul</a>, or
+    <a href="Life%20and%20Death">shadow</a>.
+  </p>
+  <h1 id="psyic-energy">Psyic Energy</h1>
+  <p>
+    Psyic energy makes up the space between the planar layers of
+    <a href="Alaria">Alaria</a>. It is an ever-present, omnipresent, swirling
+    mass of the thoughts of all life within the
+    <a href="Planar%20Stack">planar stack</a>. Through special practice or
+    natural ability, this energy can be harnessed to perform
+    <a href="Magic">magic</a> on <a href="Alaria">Alaria</a>.
+  </p>
+
+  <hr />
+</div>
 {{homepage|safe}} {%endblock%}
