@@ -1,20 +1,19 @@
-import os
-import time
-import re
-import logging
-import uuid
-import pypandoc
-import knowledge_graph
 import difflib
-
-from flask import Flask, render_template, request, redirect, url_for, send_from_directory
-from werkzeug.utils import secure_filename
+import logging
+import os
+import re
+import time
+import uuid
 from random import randint
 from threading import Thread
 
-from config import WikmdConfig
-from git_manager import WikiRepoManager
 import autoLinker
+import knowledge_graph
+import pypandoc
+from config import WikmdConfig
+from flask import Flask, redirect, render_template, request, send_from_directory, url_for
+from git_manager import WikiRepoManager
+from werkzeug.utils import secure_filename
 
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
 
@@ -225,69 +224,6 @@ def index():
         return render_template('index.html', homepage=html, system=SYSTEM_SETTINGS)
 
 
-@app.route('/add_new', methods=['POST', 'GET'])
-def add_new():
-    if request.method == 'POST':
-        page_name = fetch_page_name()
-        save(page_name)
-        git_sync_thread = Thread(target=wrm.git_sync, args=(page_name, "Add"))
-        git_sync_thread.start()
-
-        return redirect(url_for("file_page", file_page=page_name))
-    else:
-        return render_template('new.html', upload_path=cfg.images_route, system=SYSTEM_SETTINGS)
-
-
-@app.route('/edit/homepage', methods=['POST', 'GET'])
-def edit_homepage():
-    if request.method == 'POST':
-        page_name = fetch_page_name()
-        save(page_name)
-        git_sync_thread = Thread(target=wrm.git_sync, args=(page_name, "Edit"))
-        git_sync_thread.start()
-
-        return redirect(url_for("file_page", file_page=page_name))
-    else:
-
-        with open(os.path.join(cfg.wiki_directory, cfg.homepage), 'r', encoding="utf-8", errors='ignore') as f:
-
-            content = f.read()
-        return render_template("new.html", content=content, title=cfg.homepage_title, upload_path=cfg.images_route,
-                               system=SYSTEM_SETTINGS)
-
-
-@app.route('/remove/<path:page>', methods=['GET'])
-def remove(page):
-    filename = os.path.join(cfg.wiki_directory, page + '.md')
-    os.remove(filename)
-    git_sync_thread = Thread(target=wrm.git_sync, args=(page, "Remove"))
-    git_sync_thread.start()
-    return redirect("/")
-
-
-@app.route('/edit/<path:page>', methods=['POST', 'GET'])
-def edit(page):
-    filename = os.path.join(cfg.wiki_directory, page + '.md')
-    if request.method == 'POST':
-        page_name = fetch_page_name()
-        if page_name != page:
-            os.remove(filename)
-
-        save(page_name)
-        git_sync_thread = Thread(target=wrm.git_sync, args=(page_name, "Edit"))
-        git_sync_thread.start()
-
-        return redirect(url_for("file_page", file_page=page_name))
-    else:
-        if not os.path.exists(filename):
-            with open(filename, "w") as f:
-                f.close()
-        with open(filename, 'r', encoding="utf-8", errors='ignore') as f:
-            content = f.read()
-        return render_template("new.html", content=content, title=page, upload_path=cfg.images_route,
-                               system=SYSTEM_SETTINGS)
-
-
 @app.route('/' + cfg.images_route, methods=['POST', 'DELETE'])
 def upload_file():
     app.logger.info(f"Uploading new image ...")
@@ -323,13 +259,6 @@ def upload_file():
             app.logger.error(f"Could not remove {str(filename)}")
         return 'OK'
 
-
-@app.route('/knowledge-graph', methods=['GET'])
-def graph():
-    global links
-    links = knowledge_graph.find_links()
-    return render_template("knowledge-graph.html", links=links, system=SYSTEM_SETTINGS)
-
 # Translate id to page path
 
 
@@ -351,13 +280,6 @@ def display_image(filename):
 def toggle_darktheme():
     SYSTEM_SETTINGS['darktheme'] = not SYSTEM_SETTINGS['darktheme']
     return redirect(request.referrer)  # redirect to the same page URL
-
-
-@app.route('/autolink-all/', methods=['GET'])
-def auto_link_all():
-    autoLinker.full_site_auto_link()
-    return redirect(request.referrer)  # redirect to the same page URL
-
 
 @app.route('/toggle-sorting/', methods=['GET'])
 def toggle_sort():
