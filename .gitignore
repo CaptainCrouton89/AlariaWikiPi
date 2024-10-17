@@ -1,2 +1,4 @@
 AlariaWiki
 wikmd.log
+__pycache__
+*.pyc
