@@ -1,12 +1,12 @@
-{% extends 'base.html' %}
-
-{% block content %}
-    <h1>{% if folder %}
-        <a style="{% if system.darktheme %}color:whitesmoke {% else %} color:#222326{% endif %}"
-           href="/list/{{ folder }}">{{ folder }}</a>/
-    {% endif %}
-        {{ title }}
-        <a style="float:right; padding-right:10px" data-bs-target="#removeModal" data-bs-toggle="modal" href="#removeModal">
+{% extends 'base.html' %} {% block content %}
+<h1>
+  {% if folder %}
+  <a
+    style="{% if system.darktheme %}color:whitesmoke {% else %} color:#222326{% endif %}"
+    href="/list/{{ folder }}"
+    >{{ folder }}</a
+  >/ {% endif %} {{ title }}
+  <!-- <a style="float:right; padding-right:10px" data-bs-target="#removeModal" data-bs-toggle="modal" href="#removeModal">
             <button class="btn btn-danger my-2 my-sm-0" type="submit">
                 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-trash" viewBox="0 0 16 16">
                     <path d="M5.5 5.5A.5.5 0 0 1 6 6v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm2.5 0a.5.5 0 0 1 .5.5v6a.5.5 0 0 1-1 0V6a.5.5 0 0 1 .5-.5zm3 .5a.5.5 0 0 0-1 0v6a.5.5 0 0 0 1 0V6z"/>
@@ -23,53 +23,76 @@
                 </svg>
                 Edit
             </button>
-        </a>
+        </a> -->
+</h1>
 
-    </h1>
+<hr />
+{{ info|safe }}
+<hr />
+<p>{{ modif }}</p>
+<div></div>
 
-    <hr>
-    {{ info|safe }}
-    <hr>
-    <p>{{ modif }}</p>
-    <div>
-       
+<!-- Modal -->
+<div
+  class="modal fade"
+  id="removeModal"
+  tabindex="-1"
+  aria-labelledby="exampleModalLabel"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="removeModalLabel">
+          Are you sure to delete this page?
+        </h5>
+        <button
+          type="button"
+          class="btn-close"
+          data-bs-dismiss="modal"
+          aria-label="Close"
+        ></button>
+      </div>
+      <div class="modal-body">
+        <p>This action can not be undone!</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">
+          Cancel
+        </button>
+        <form
+          action="/remove/{% if folder %}{{ folder }}/{% endif %}{{ title }}"
+          method="GET"
+        >
+          <button type="submit" class="btn btn-danger">Delete</button>
+        </form>
+      </div>
     </div>
+  </div>
+</div>
 
-    <!-- Modal -->
-    <div class="modal fade" id="removeModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
-        <div class="modal-dialog">
-            <div class="modal-content">
-                <div class="modal-header">
-                    <h5 class="modal-title" id="removeModalLabel">Are you sure to delete this page?</h5>
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                </div>
-                <div class="modal-body">
-                    <p>This action can not be undone!</p>
-                </div>
-                <div class="modal-footer">
-
-                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
-                    <form action="/remove/{% if folder %}{{ folder }}/{% endif %}{{ title }}" method="GET">
-                        <button type="submit" class="btn btn-danger">Delete</button>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <script>
-        document.addEventListener("keydown", function(e) {
-            if ((e.keyCode === 69 || e.keyCode === 83) && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
-                e.preventDefault();
-                document.getElementById("submit-button").click();
-            }
-            if (e.keyCode === 66 && (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)) {
-                e.preventDefault();
-                console.log("value")
-                document.getElementById("new-page-button").click();
-            }
-        }, false);
-
-    </script>
+<script>
+  document.addEventListener(
+    "keydown",
+    function (e) {
+      if (
+        (e.keyCode === 69 || e.keyCode === 83) &&
+        (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)
+      ) {
+        e.preventDefault();
+        document.getElementById("submit-button").click();
+      }
+      if (
+        e.keyCode === 66 &&
+        (navigator.platform.match("Mac") ? e.metaKey : e.ctrlKey)
+      ) {
+        e.preventDefault();
+        console.log("value");
+        document.getElementById("new-page-button").click();
+      }
+    },
+    false
+  );
+</script>
 
 {% endblock %}
