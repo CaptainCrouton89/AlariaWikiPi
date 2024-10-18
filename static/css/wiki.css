@@ -42,8 +42,32 @@ figure {
 }
 
 .narrow {
-  max-width: 45%;
+  max-width: 50%;
   margin: 0 auto;
+}
+
+@media screen and (max-width: 1400px) {
+  .narrow {
+    max-width: 60%;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .narrow {
+    max-width: 70%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .narrow {
+    max-width: 80%;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .narrow {
+    max-width: 95%;
+  }
 }
 
 .hljs {
