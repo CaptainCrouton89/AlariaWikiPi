@@ -1,71 +1,75 @@
 @import "wiki.colors.css";
 
 body {
-    background-color: var(--bg-light);
-    color: var(--txt-light);
+  background-color: var(--bg-light);
+  color: var(--txt-light);
 }
 
 .modal-content {
-    background-color: var(--bg-modal-light);
-    color: var(--txt-light);
+  background-color: var(--bg-modal-light);
+  color: var(--txt-light);
 }
 
 blockquote {
-    padding: 0 50px;
-    margin-left: 0;
-    border-left: 4px solid var(--quotes-color);
+  padding: 0 50px;
+  margin-left: 0;
+  border-left: 4px solid var(--quotes-color);
 }
 
 code,
 pre {
-    font-family: monospace;
-    font-size: 14px
+  font-family: monospace;
+  font-size: 14px;
 }
 
 pre {
-    background-color: var(--bg-codeblock-light);
-    padding: 6px;
-    border-radius: 6px;
+  background-color: var(--bg-codeblock-light);
+  padding: 6px;
+  border-radius: 6px;
 }
 
 img {
-    max-width: 100%
+  max-width: 100%;
 }
 
 figure {
-    text-align: center
+  text-align: center;
 }
 
 .container-fluid {
-    padding-right: 0;
-    padding-left: 0;
+  padding-right: 0;
+  padding-left: 0;
+}
+
+.narrow {
+  max-width: 45%;
+  margin: 0 auto;
 }
 
 .hljs {
-    background-color: var(--bg-codeblock-light);
+  background-color: var(--bg-codeblock-light);
 }
 
-
 table {
-    border-collapse: collapse;
-    width: 100%;
-    margin: 10px 0px;
+  border-collapse: collapse;
+  width: 100%;
+  margin: 10px 0px;
 }
 
 th {
-    padding-top: 12px;
-    padding-bottom: 12px;
-    text-align: left;
-    border-bottom: 2px solid #dee2e6;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  border-bottom: 2px solid #dee2e6;
 }
 
 td {
-    padding: 12px;
-    border-top: 1px solid #dee2e6;
+  padding: 12px;
+  border-top: 1px solid #dee2e6;
 }
 
 p {
-    margin: .5rem 0;
+  margin: 0.5rem 0;
 }
 
 h1,
@@ -74,27 +78,27 @@ h3,
 h4,
 h5,
 h6 {
-    margin-bottom: 0;
-    margin-top: 0.5rem;
+  margin-bottom: 0;
+  margin-top: 0.5rem;
 }
 
 h4 {
-    font-size: 1.25rem;
+  font-size: 1.25rem;
 }
 
 h5 {
-    font-size: 1rem;
+  font-size: 1rem;
 }
 
 hr {
-    margin: 0.2rem 0;
+  margin: 0.2rem 0;
 }
 
 .destiny-level {
-    margin-left: 3rem;
-    font-weight: bold;
+  margin-left: 3rem;
+  font-weight: bold;
 }
 
 .CodeMirror-wrap pre {
-    word-break: break-word;
+  word-break: break-word;
 }
