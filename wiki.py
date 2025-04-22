@@ -1,20 +1,25 @@
-import os
-import time
-import re
-import logging
-import uuid
-import pypandoc
-import knowledge_graph
+import asyncio
 import difflib
-
-from flask import Flask, render_template, request, redirect, url_for, send_from_directory
-from werkzeug.utils import secure_filename
+import json
+import logging
+import os
+import re
+import time
+import uuid
 from random import randint
 from threading import Thread
 
+import pypandoc
+from flask import (Flask, Response, jsonify, redirect, render_template,
+                   request, send_from_directory, stream_with_context, url_for)
+from werkzeug.utils import secure_filename
+
+import autoLinker
+import knowledge_graph
+from agent_setup import create_agent, process_user_message
+from agent_tools import create_note, search_notes
 from config import WikmdConfig
 from git_manager import WikiRepoManager
-import autoLinker
 
 ALLOWED_EXTENSIONS = {'png', 'jpg', 'jpeg', 'gif'}
 
@@ -37,6 +42,10 @@ logger = logging.getLogger('werkzeug')
 logger.setLevel(logging.ERROR)
 
 wrm = WikiRepoManager(flask_app=app)
+
+# Initialize the OpenAI agent
+agent = create_agent()
+chat_histories = {}  # Store chat histories by session ID
 
 
 def save(page_name):
@@ -364,6 +373,101 @@ def toggle_sort():
     SYSTEM_SETTINGS['listsortMTime'] = not SYSTEM_SETTINGS['listsortMTime']
     return redirect("/list")
 
+
+@app.route('/chat', methods=['GET'])
+def chat_page():
+    """
+    Render the chat interface page
+    """
+    app.logger.info("Showing chat page")
+    return render_template('chat.html', system=SYSTEM_SETTINGS)
+
+@app.route('/api/chat', methods=['POST'])
+def start_chat():
+    """
+    Start a new chat session
+    """
+    # Generate a session ID
+    session_id = str(uuid.uuid4())
+    chat_histories[session_id] = []
+    
+    return jsonify({
+        "session_id": session_id,
+        "message": "Chat session started"
+    })
+
+@app.route('/api/chat/stream', methods=['POST'])
+def stream_chat():
+    """
+    Stream agent responses for a chat message
+    """
+    try:
+        data = request.json
+        message = data.get('message', '')
+        session_id = data.get('session_id', str(uuid.uuid4()))
+        
+        if not message:
+            return jsonify({"error": "No message provided"}), 400
+            
+        # Get or create chat history
+        if session_id not in chat_histories:
+            chat_histories[session_id] = []
+            
+        chat_history = chat_histories[session_id]
+        
+        # Define the generator function to stream responses
+        def generate():
+            # Set up the event loop
+            loop = asyncio.new_event_loop()
+            asyncio.set_event_loop(loop)
+            
+            async def process_stream():
+                try:
+                    async for chunk in process_user_message(agent, message, chat_history):
+                        # Different types of chunks from the agent
+                        if 'content' in chunk and chunk['content']:
+                            yield json.dumps({
+                                "type": "content",
+                                "content": chunk['content']
+                            }) + "\n"
+                        elif 'tool_calls' in chunk and chunk['tool_calls']:
+                            for tool_call in chunk['tool_calls']:
+                                yield json.dumps({
+                                    "type": "tool_call",
+                                    "data": {
+                                        "name": tool_call['function']['name'],
+                                        "args": tool_call['function']['arguments']
+                                    }
+                                }) + "\n"
+                        elif 'tool_call_id' in chunk and 'name' in chunk and 'result' in chunk:
+                            yield json.dumps({
+                                "type": "tool_result",
+                                "data": {
+                                    "tool_call_id": chunk['tool_call_id'],
+                                    "name": chunk['name'],
+                                    "result": chunk['result']
+                                }
+                            }) + "\n"
+                except Exception as e:
+                    app.logger.error(f"Error in stream processing: {str(e)}")
+                    yield json.dumps({
+                        "type": "error",
+                        "message": str(e)
+                    }) + "\n"
+            
+            # Run the async generator in the event loop and yield results
+            for chunk in loop.run_until_complete(process_stream()):
+                yield chunk
+                
+        # Return a streaming response
+        return Response(
+            stream_with_context(generate()),
+            mimetype='application/json'
+        )
+        
+    except Exception as e:
+        app.logger.error(f"Error in chat streaming: {str(e)}")
+        return jsonify({"error": str(e)}), 500
 
 def run_wiki():
     """

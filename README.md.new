@@ -1,0 +1,93 @@
+# Alaria Wiki Pi
+
+A markdown-based wiki system with an integrated AI assistant to help search and create notes.
+
+## Features
+
+- File-based wiki with markdown support
+- Git integration for version control
+- AI Assistant for search and content creation
+- Knowledge graph visualization
+- Dark mode support
+- Mobile-responsive design
+
+## AI Assistant
+
+The wiki includes an AI Assistant built with the OpenAI Agents SDK that can:
+
+- Search for notes using natural language
+- Create new notes through conversation
+- Help users find information
+
+### Setup
+
+To use the AI assistant, you need an OpenAI API key:
+
+```bash
+export OPENAI_API_KEY="your-api-key-here"
+```
+
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/AlariaWikiPi.git
+cd AlariaWikiPi
+```
+
+2. Create and activate a virtual environment:
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+3. Install dependencies:
+```bash
+pip install -r requirements.txt
+```
+
+4. Configure your OpenAI API key:
+```bash
+export OPENAI_API_KEY="your-api-key-here"
+```
+
+5. Run the wiki:
+```bash
+python wiki.py
+```
+
+6. Open your browser to http://localhost:5000
+
+## Configuration
+
+Edit the `wikmd-config.yaml` file to customize:
+- Wiki title
+- Directory structure
+- Theme
+- Git integration
+
+## Development
+
+### Testing the AI Assistant
+
+You can use the provided test script to check if the AI assistant is working:
+
+```bash
+python test_agent.py
+```
+
+### Project structure
+
+- `agent_setup.py` - AI Assistant configuration
+- `agent_tools.py` - Custom tools for searching and creating notes
+- `wiki.py` - Main application
+- `config.py` - Configuration module
+- `wikidata/` - Directory for wiki content
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+Based on wikmd with custom AI integration using OpenAI Agents SDK.
